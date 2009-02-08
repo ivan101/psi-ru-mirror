@@ -1422,6 +1422,29 @@ Make sure you enter a fully qualified Jabber ID.</source>
     </message>
 </context>
 <context>
+    <name>Call</name>
+    <message>
+        <location filename="../src/avcall/call.ui" line="13"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/call.ui" line="19"/>
+        <source>Call status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/call.ui" line="54"/>
+        <source>&amp;Accept</source>
+        <translation type="unfinished">&amp;Принять</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/call.ui" line="61"/>
+        <source>&amp;Reject</source>
+        <translation type="unfinished">&amp;Отклонить</translation>
+    </message>
+</context>
+<context>
     <name>CertificateDisplay</name>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="13"/>
@@ -1734,6 +1757,92 @@ Do you still want to close the window?</source>
         <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="766"/>
         <source>Offered mechanisms: </source>
         <translation>Предлагаемые механизмы: </translation>
+    </message>
+</context>
+<context>
+    <name>Config</name>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="13"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="19"/>
+        <source>Devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="25"/>
+        <source>Audio output:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="44"/>
+        <source>Send live stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="51"/>
+        <source>Send file</source>
+        <translation type="unfinished">Отправить файл</translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="60"/>
+        <source>Audio input:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="77"/>
+        <source>Video input:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="94"/>
+        <source>File:</source>
+        <translation type="unfinished">Файл:</translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="106"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="115"/>
+        <source>Loop file playback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="125"/>
+        <source>Modes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="131"/>
+        <source>Audio:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psimedia/demo/config.ui" line="148"/>
+        <source>Video:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ConfigDlg</name>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="354"/>
+        <source>Configure Audio/Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="491"/>
+        <source>Open File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="493"/>
+        <source>Ogg Audio/Video (*.oga *.ogv *.ogg)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4576,6 +4685,59 @@ Are you sure you want to discard them?</source>
     </message>
 </context>
 <context>
+    <name>JingleRtpManagerPrivate</name>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1612"/>
+        <source>PsiMedia Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1615"/>
+        <source>Error: Could not load PsiMedia subsystem.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JingleRtpSessionPrivate</name>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1067"/>
+        <source>System error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1069"/>
+        <source>Codec error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1071"/>
+        <source>Generic error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1411"/>
+        <source>Error</source>
+        <translation type="unfinished">Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1173"/>
+        <source>Cannot send live without at least one audio input or video input device selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1397"/>
+        <source>An error occurred while trying to send:
+%1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/jinglertp.cpp" line="1413"/>
+        <source>An error occurred while trying to receive:
+%1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LookFeelToolbars</name>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="304"/>
@@ -5092,6 +5254,11 @@ Reason: %1</source>
         <location filename="../src/mainwin.cpp" line="352"/>
         <source>View</source>
         <translation>Вид</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwin.cpp" line="411"/>
+        <source>Ctrl+Shift+N</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
