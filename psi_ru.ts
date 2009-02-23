@@ -2203,6 +2203,36 @@ Proceed?</source>
         <source>Activity</source>
         <translation>Занятие</translation>
     </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="264"/>
+        <source>Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1075"/>
+        <source>Hide all..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1076"/>
+        <source>Show all..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1077"/>
+        <source>Leave all..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1461"/>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1462"/>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContactView</name>
@@ -4202,6 +4232,24 @@ Are you sure you want to do this?</source>
         <location filename="../src/widgets/iconselect.cpp" line="249"/>
         <source>No icons available</source>
         <translation>Смайлы недоступны</translation>
+    </message>
+</context>
+<context>
+    <name>IconsetClient</name>
+    <message>
+        <location filename="../src/options/opt_iconset_client.ui" line="14"/>
+        <source>IconsetClientUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_iconset_client.ui" line="26"/>
+        <source>Client iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_iconset_client.ui" line="54"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished">&amp;Показать описание</translation>
     </message>
 </context>
 <context>
@@ -6773,6 +6821,19 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../src/options/opt_groupchat.cpp" line="30"/>
         <source>Groupchat</source>
         <translation>Конференции</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetClients</name>
+    <message>
+        <location filename="../src/options/opt_iconset.cpp" line="887"/>
+        <source>Clients</source>
+        <translation type="unfinished">Клиенты</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_iconset.cpp" line="887"/>
+        <source>Select your clients iconset</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11723,6 +11784,21 @@ Reason: %1</source>
         <location filename="../src/tabs/tabdlg.cpp" line="283"/>
         <source>Use for new mucs</source>
         <translation>Использовать для новых конференций</translation>
+    </message>
+    <message>
+        <location filename="../src/tabs/tabdlg.cpp" line="237"/>
+        <source>Hide Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/tabs/tabdlg.cpp" line="279"/>
+        <source>Hide Current Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/tabs/tabdlg.cpp" line="280"/>
+        <source>Hide All Tabs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
