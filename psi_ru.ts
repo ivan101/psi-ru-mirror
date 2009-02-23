@@ -128,7 +128,7 @@ Copyright © 2001-2008 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©08.02.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©23.02.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -2206,32 +2206,32 @@ Proceed?</source>
     <message>
         <location filename="../src/contactview.cpp" line="264"/>
         <source>Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Конференции</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1075"/>
         <source>Hide all..</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть все..</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1076"/>
         <source>Show all..</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать все..</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1077"/>
         <source>Leave all..</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти из всех..</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1461"/>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1462"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти</translation>
     </message>
 </context>
 <context>
@@ -4239,17 +4239,17 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/options/opt_iconset_client.ui" line="14"/>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_client.ui" line="26"/>
         <source>Client iconsets</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконки клиентов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_client.ui" line="54"/>
         <source>&amp;Show Details</source>
-        <translation type="unfinished">&amp;Показать описание</translation>
+        <translation>&amp;Показать описание</translation>
     </message>
 </context>
 <context>
@@ -6828,12 +6828,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="887"/>
         <source>Clients</source>
-        <translation type="unfinished">Клиенты</translation>
+        <translation>Клиенты</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset.cpp" line="887"/>
         <source>Select your clients iconset</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать иконки клиентов</translation>
     </message>
 </context>
 <context>
@@ -11191,6 +11191,10 @@ Reason: %1</source>
         <translation>Закрыть текущее окно/таб</translation>
     </message>
     <message>
+        <source>Hide the current window/tab</source>
+        <translation>Скрыть текущее окно/таб</translation>
+    </message>
+    <message>
         <source>Open the message history</source>
         <translation>Открыть историю сообщений</translation>
     </message>
@@ -11281,6 +11285,10 @@ Reason: %1</source>
     <message>
         <source>Help Psi MUC</source>
         <translation>Войти в конференцию обсуждения Psi</translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation>Форум Psi</translation>
     </message>
     <message>
         <source>README</source>
@@ -11788,17 +11796,17 @@ Reason: %1</source>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="237"/>
         <source>Hide Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть таб</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="279"/>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть текущий таб</translation>
     </message>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="280"/>
         <source>Hide All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть все табы</translation>
     </message>
 </context>
 <context>
