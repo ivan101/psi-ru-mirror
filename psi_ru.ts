@@ -67,6 +67,16 @@ Copyright © 2001-2008 The Psi Team.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2008 The Psi Team.&lt;br&gt;</translation>
     </message>
+    <message encoding="UTF-8">
+        <location filename="../src/about.ui" line="103"/>
+        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2009 The Psi Team.&lt;br&gt;
+</source>
+        <translation>Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
+    </message>
     <message>
         <location filename="../src/about.ui" line="67"/>
         <source>About</source>
