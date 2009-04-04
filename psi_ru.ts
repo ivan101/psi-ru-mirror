@@ -215,6 +215,41 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>Webmaster, Marketing</source>
         <translation>Веб-мастер и маркетинг</translation>
     </message>
+    <message>
+        <location filename="../src/about.ui" line="223"/>
+        <source>About Psi+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="73"/>
+        <source>Founder, Patcher and Win32 Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="76"/>
+        <source>Founder and Designer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="79"/>
+        <source>Founder and Lead Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="94"/>
+        <source>Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="85"/>
+        <source>Lead Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="97"/>
+        <source>Patcher and ArchLinux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAdd</name>
@@ -2243,6 +2278,31 @@ Proceed?</source>
         <source>Leave</source>
         <translation>Выйти</translation>
     </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1095"/>
+        <source>Send status to group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1099"/>
+        <source>Resend authorization to group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1100"/>
+        <source>Request authorization from group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1101"/>
+        <source>Remove authorization from group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactview.cpp" line="1502"/>
+        <source>Sen&amp;d Status</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContactView</name>
@@ -3723,6 +3783,11 @@ Reason: %1</source>
         <location filename="../src/groupchatdlg.cpp" line="1351"/>
         <source>You have been removed from the room because the room was made members only by %1</source>
         <translation>Вы удалены. Теперь конференция доступна только для членов: %1</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="1674"/>
+        <source>%1 says:</source>
+        <translation type="unfinished">%1 пишет:</translation>
     </message>
 </context>
 <context>
@@ -5635,6 +5700,16 @@ Details: %1</source>
         <source>Status messages</source>
         <translation>Статус сообщений</translation>
     </message>
+    <message>
+        <location filename="../src/options/opt_appearance.ui" line="336"/>
+        <source>Nick &quot;To&quot; foreground</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_appearance.ui" line="343"/>
+        <source>Nick &quot;From&quot; foreground</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
@@ -5873,6 +5948,16 @@ Details: %1</source>
         <location filename="../src/options/opt_chat.ui" line="168"/>
         <source>When chat window is closed</source>
         <translation>При закрытии окна</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_chat.ui" line="97"/>
+        <source>for mucs, chats and roster in one window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_chat.ui" line="125"/>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6142,6 +6227,16 @@ Details: %1</source>
         <location filename="../src/options/opt_roster.ui" line="174"/>
         <source>Round corners</source>
         <translation>Круглые уголки</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="124"/>
+        <source>all client icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="129"/>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6606,6 +6701,16 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../src/options/opt_appearance.cpp" line="231"/>
         <source>Status message</source>
         <translation>Сообщение состояния</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_appearance.cpp" line="246"/>
+        <source>Specifies the color for outgoing messages in History, also timestamp and nick in message dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_appearance.cpp" line="248"/>
+        <source>Specifies the color for incoming messages in History, also timestamp and nick in message dialog.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11419,6 +11524,19 @@ Reason: %1</source>
     <message>
         <source>View Groups</source>
         <translation>Показывать группы</translation>
+    </message>
+</context>
+<context>
+    <name>ShowChangeLogForm</name>
+    <message>
+        <location filename="../src/AutoUpdater/QDChangeLog.ui" line="14"/>
+        <source>New version is available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/AutoUpdater/QDChangeLog.ui" line="51"/>
+        <source>Open download page?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
