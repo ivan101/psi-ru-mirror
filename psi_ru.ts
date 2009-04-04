@@ -138,7 +138,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©23.02.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©04.04.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -218,37 +218,37 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/about.ui" line="223"/>
         <source>About Psi+</source>
-        <translation type="unfinished"></translation>
+        <translation>О Psi+</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="73"/>
         <source>Founder, Patcher and Win32 Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Основатель, патчер, и сборщик под win32</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="76"/>
         <source>Founder and Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>Основатель и дизайнер</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="79"/>
         <source>Founder and Lead Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Основатель и ведущий патчер</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="94"/>
         <source>Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Патчер</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="85"/>
         <source>Lead Linux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ведущий сборщик под Linux</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="97"/>
         <source>Patcher and ArchLinux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Патчер и сборщик под ArchLinux</translation>
     </message>
 </context>
 <context>
@@ -2281,27 +2281,27 @@ Proceed?</source>
     <message>
         <location filename="../src/contactview.cpp" line="1095"/>
         <source>Send status to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить статус группе</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1099"/>
         <source>Resend authorization to group</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить подписку группе</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1100"/>
         <source>Request authorization from group</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросить подписку у группы</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1101"/>
         <source>Remove authorization from group</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить подписку у группы</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1502"/>
         <source>Sen&amp;d Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить &amp;статус</translation>
     </message>
 </context>
 <context>
@@ -3787,7 +3787,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1674"/>
         <source>%1 says:</source>
-        <translation type="unfinished">%1 пишет:</translation>
+        <translation>%1 пишет:</translation>
     </message>
 </context>
 <context>
@@ -5703,12 +5703,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="336"/>
         <source>Nick &quot;To&quot; foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет ника во входящем сообщении</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="343"/>
         <source>Nick &quot;From&quot; foreground</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет ника в иcходящем сообщении</translation>
     </message>
 </context>
 <context>
@@ -5952,12 +5952,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_chat.ui" line="97"/>
         <source>for mucs, chats and roster in one window.</source>
-        <translation type="unfinished"></translation>
+        <translation>для чатов, конференций и ростера в одном окне</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="125"/>
         <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать кнопки табов</translation>
     </message>
 </context>
 <context>
@@ -6231,12 +6231,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_roster.ui" line="124"/>
         <source>all client icons</source>
-        <translation type="unfinished"></translation>
+        <translation>все иконки клиентов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_roster.ui" line="129"/>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"></translation>
+        <translation>только с наивысшим приоритетом</translation>
     </message>
 </context>
 <context>
@@ -6705,12 +6705,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="246"/>
         <source>Specifies the color for outgoing messages in History, also timestamp and nick in message dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет имени контакта в чате для исходящих сообщений, а также  цвет исходящих сообщений в истории.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="248"/>
         <source>Specifies the color for incoming messages in History, also timestamp and nick in message dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет имени контакта в чате для входящих сообщений, а также  цвет входящих сообщений в истории.</translation>
     </message>
 </context>
 <context>
@@ -11531,12 +11531,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/AutoUpdater/QDChangeLog.ui" line="14"/>
         <source>New version is available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна новая версия!</translation>
     </message>
     <message>
         <location filename="../src/AutoUpdater/QDChangeLog.ui" line="51"/>
         <source>Open download page?</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть страницу загрузки?</translation>
     </message>
 </context>
 <context>
