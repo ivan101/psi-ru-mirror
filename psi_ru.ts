@@ -1411,6 +1411,14 @@ Make sure you enter a fully qualified Jabber ID.</source>
     </message>
 </context>
 <context>
+    <name>AvCallEvent</name>
+    <message>
+        <location filename="../src/psievent.cpp" line="659"/>
+        <source>The user is calling you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BookmarkManage</name>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="95"/>
@@ -9391,6 +9399,11 @@ Would you like to activate that session now?</source>
         <location filename="../src/groupchatdlg.cpp" line="1207"/>
         <source>Groupchat highlight</source>
         <translation>Конференция</translation>
+    </message>
+    <message>
+        <location filename="../src/psipopup.cpp" line="307"/>
+        <source>Incoming call</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
