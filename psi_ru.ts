@@ -1397,7 +1397,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/psievent.cpp" line="424"/>
         <source>This user wants to subscribe to your presence.</source>
-        <translation>Этот пользователь хочет иметь возможность знать, когда вы находитесь в сети</translation>
+        <translation>Этот пользователь хочет иметь возможность знать, когда вы находитесь в сети.</translation>
     </message>
     <message>
         <location filename="../src/psievent.cpp" line="426"/>
@@ -1415,7 +1415,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/psievent.cpp" line="659"/>
         <source>The user is calling you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот контакт звонит Вам.</translation>
     </message>
 </context>
 <context>
@@ -9403,7 +9403,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/psipopup.cpp" line="307"/>
         <source>Incoming call</source>
-        <translation type="unfinished"></translation>
+        <translation>Входящий звонок</translation>
     </message>
 </context>
 <context>
