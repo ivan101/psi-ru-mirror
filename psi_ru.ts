@@ -9082,7 +9082,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psicon.cpp" line="1431"/>
         <source>Register new account</source>
-        <translation>Зарегистрировать новый аккаунт</translation>
+        <translation>Зарегистрировать новый</translation>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="1062"/>
@@ -9104,7 +9104,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../src/psicon.cpp" line="1432"/>
         <source>Use existing account</source>
-        <translation>Использовать существующий аккаунт</translation>
+        <translation>Использовать существующий</translation>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="1397"/>
