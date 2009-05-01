@@ -1191,6 +1191,10 @@ to
         <translation>Отмена</translation>
     </message>
     <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Отмена</translation>
+    </message>
+    <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="537"/>
         <source>Close</source>
         <translation>Закрыть</translation>
