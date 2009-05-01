@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="1.1" language="ru">
-<defaultcodec></defaultcodec>
+<!DOCTYPE TS>
+<TS version="2.0" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -57,7 +57,7 @@
 </context>
 <context>
     <name>AboutDlg</name>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="../src/about.ui" line="103"/>
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
@@ -67,7 +67,7 @@ Copyright © 2001-2008 The Psi Team.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2008 The Psi Team.&lt;br&gt;</translation>
     </message>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="../src/about.ui" line="103"/>
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
@@ -1790,7 +1790,7 @@ Do you still want to close the window?</source>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="../src/chatdlg.ui" line="309"/>
         <source>↵</source>
         <translation></translation>
@@ -3759,7 +3759,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="941"/>
-        <source>Unable to join groupchat.<byte value="x9"/>Reason: %1</source>
+        <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
     <message>
@@ -4047,7 +4047,7 @@ Reason: %1</source>
         <source>Send</source>
         <translation>Отправить</translation>
     </message>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="../src/groupchatdlg.ui" line="300"/>
         <source>↵</source>
         <translation></translation>
