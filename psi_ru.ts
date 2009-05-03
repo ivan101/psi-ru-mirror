@@ -1450,6 +1450,41 @@ Make sure you enter a fully qualified Jabber ID.</source>
     </message>
 </context>
 <context>
+    <name>AvCallPrivate</name>
+    <message>
+        <location filename="../src/avcall/avcall.cpp" line="289"/>
+        <source>System error</source>
+        <translation type="unfinished">Системная ошибка</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/avcall.cpp" line="291"/>
+        <source>Codec error</source>
+        <translation type="unfinished">Ошибка кодека</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/avcall.cpp" line="293"/>
+        <source>Generic error</source>
+        <translation type="unfinished">Типовая ошибка</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/avcall.cpp" line="315"/>
+        <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/avcall.cpp" line="495"/>
+        <source>An error occurred while trying to send:
+%1.</source>
+        <translation type="unfinished">Ошибка при попытке отправить:
+%1.</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/avcall.cpp" line="534"/>
+        <source>Call was rejected or terminated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BookmarkManage</name>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="95"/>
@@ -1513,19 +1548,113 @@ Make sure you enter a fully qualified Jabber ID.</source>
         <translation>Диалог</translation>
     </message>
     <message>
-        <location filename="../src/avcall/call.ui" line="19"/>
+        <location filename="../src/avcall/call.ui" line="21"/>
+        <source>To:</source>
+        <translation type="unfinished">Кому:</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/call.ui" line="33"/>
+        <source>Use video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/call.ui" line="42"/>
+        <source>Sending bandwidth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/call.ui" line="54"/>
         <source>Call status</source>
         <translation>Статус вызова</translation>
     </message>
     <message>
-        <location filename="../src/avcall/call.ui" line="54"/>
+        <location filename="../src/avcall/call.ui" line="106"/>
         <source>&amp;Accept</source>
         <translation>&amp;Принять</translation>
     </message>
     <message>
-        <location filename="../src/avcall/call.ui" line="61"/>
+        <location filename="../src/avcall/call.ui" line="99"/>
         <source>&amp;Reject</source>
         <translation>&amp;Отклонить</translation>
+    </message>
+</context>
+<context>
+    <name>CallDlg::Private</name>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="65"/>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="72"/>
+        <source>High (1Mbps)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="73"/>
+        <source>Average (400Kbps)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="74"/>
+        <source>Low (160Kbps)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="108"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="109"/>
+        <source>C&amp;all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="110"/>
+        <source>Ready</source>
+        <translation type="unfinished"> </translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="120"/>
+        <source>From:</source>
+        <translation type="unfinished">От:</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="133"/>
+        <source>Accept call?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="155"/>
+        <location filename="../src/avcall/calldlg.cpp" line="174"/>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="158"/>
+        <source>Calling...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="177"/>
+        <source>Accepting...</source>
+        <translation type="unfinished">Принимаем...</translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="210"/>
+        <source>&amp;Hang up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="211"/>
+        <source>Call active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/avcall/calldlg.cpp" line="220"/>
+        <source>Call ended</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1850,67 +1979,54 @@ Do you still want to close the window?</source>
 <context>
     <name>Config</name>
     <message>
-        <location filename="../src/avcall/config.ui" line="13"/>
         <source>Dialog</source>
         <translation>Диалог</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="19"/>
         <source>Devices</source>
         <translation>Устройства</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="25"/>
         <source>Audio output:</source>
         <translation>Аудиовыход:</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="44"/>
         <source>Send live stream</source>
         <translation>Отправить живой эфир</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="51"/>
         <source>Send file</source>
         <translation>Отправить файл</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="60"/>
         <source>Audio input:</source>
         <translation>Аудиовход:</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="77"/>
         <source>Video input:</source>
         <translation>Видеовход:</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="94"/>
         <source>File:</source>
         <translation>Файл:</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="106"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="115"/>
         <source>Loop file playback</source>
         <translation>Повтор воспроизведения файлов</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="125"/>
         <source>Modes</source>
         <translation>Режимы</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="131"/>
         <source>Audio:</source>
         <translation>Аудио:</translation>
     </message>
     <message>
-        <location filename="../src/avcall/config.ui" line="148"/>
         <source>Video:</source>
         <translation>Видео:</translation>
     </message>
@@ -1918,17 +2034,14 @@ Do you still want to close the window?</source>
 <context>
     <name>ConfigDlg</name>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="360"/>
         <source>Configure Audio/Video</source>
         <translation>Настройка аудио/видео</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="497"/>
         <source>Open File</source>
         <translation>Открыть файл</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="499"/>
         <source>Ogg Audio/Video (*.oga *.ogv *.ogg)</source>
         <translation>Ogg аудио/видео (*.oga *.ogv *.ogg)</translation>
     </message>
@@ -4934,41 +5047,32 @@ Are you sure you want to discard them?</source>
 <context>
     <name>JingleRtpSessionPrivate</name>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1085"/>
         <source>System error</source>
         <translation>Системная ошибка</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1087"/>
         <source>Codec error</source>
         <translation>Ошибка кодека</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1089"/>
         <source>Generic error</source>
         <translation>Типовая ошибка</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1199"/>
-        <location filename="../src/avcall/jinglertp.cpp" line="1426"/>
-        <location filename="../src/avcall/jinglertp.cpp" line="1442"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1199"/>
         <source>Cannot send live without at least one audio input or video input device selected.</source>
         <translation>Не удается отправить эфир, выберите, по крайней мере, одно аудио или видео устройство входа.</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1426"/>
         <source>An error occurred while trying to send:
 %1.</source>
         <translation>Ошибка при попытке отправить:
 %1.</translation>
     </message>
     <message>
-        <location filename="../src/avcall/jinglertp.cpp" line="1442"/>
         <source>An error occurred while trying to receive:
 %1.</source>
         <translation>Ошибка при попытке получить:
