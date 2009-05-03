@@ -1643,207 +1643,207 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1242"/>
         <source>Normal</source>
-        <translation></translation>
+        <translation>Обычный</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1230"/>
         <source>Bold</source>
-        <translation></translation>
+        <translation>Жирный</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1232"/>
         <source>Demi Bold</source>
-        <translation></translation>
+        <translation>Полужирный</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1228"/>
         <source>Black</source>
-        <translation></translation>
+        <translation>Тёмный</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="79"/>
         <source>Demi</source>
-        <translation></translation>
+        <translation>Полу</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1234"/>
         <source>Light</source>
-        <translation></translation>
+        <translation>Светлый</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1237"/>
         <source>Italic</source>
-        <translation></translation>
+        <translation>Курсив</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1239"/>
         <source>Oblique</source>
-        <translation></translation>
+        <translation>Наклонный</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1944"/>
         <source>Any</source>
-        <translation></translation>
+        <translation>Любой</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1947"/>
         <source>Latin</source>
-        <translation></translation>
+        <translation>Латинский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1950"/>
         <source>Greek</source>
-        <translation></translation>
+        <translation>Греческий</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1953"/>
         <source>Cyrillic</source>
-        <translation></translation>
+        <translation>Кириллический</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1956"/>
         <source>Armenian</source>
-        <translation></translation>
+        <translation>Армянский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1959"/>
         <source>Hebrew</source>
-        <translation></translation>
+        <translation>Иврит</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1962"/>
         <source>Arabic</source>
-        <translation></translation>
+        <translation>Арабский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1965"/>
         <source>Syriac</source>
-        <translation></translation>
+        <translation>Сирийский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1968"/>
         <source>Thaana</source>
-        <translation></translation>
+        <translation>Тана</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1971"/>
         <source>Devanagari</source>
-        <translation></translation>
+        <translation>Деванагари</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1974"/>
         <source>Bengali</source>
-        <translation></translation>
+        <translation>Бенгальский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1977"/>
         <source>Gurmukhi</source>
-        <translation></translation>
+        <translation>Гурмукхи</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1980"/>
         <source>Gujarati</source>
-        <translation></translation>
+        <translation>Гуджаратский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1983"/>
         <source>Oriya</source>
-        <translation></translation>
+        <translation>Ория</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1986"/>
         <source>Tamil</source>
-        <translation></translation>
+        <translation>Тамильский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1989"/>
         <source>Telugu</source>
-        <translation></translation>
+        <translation>Телугу</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1992"/>
         <source>Kannada</source>
-        <translation></translation>
+        <translation>Каннада</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1995"/>
         <source>Malayalam</source>
-        <translation></translation>
+        <translation>Малаялам</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="1998"/>
         <source>Sinhala</source>
-        <translation></translation>
+        <translation>Сингальский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2001"/>
         <source>Thai</source>
-        <translation></translation>
+        <translation>Тайский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2004"/>
         <source>Lao</source>
-        <translation></translation>
+        <translation>Лаосский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2007"/>
         <source>Tibetan</source>
-        <translation></translation>
+        <translation>Тибетский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2010"/>
         <source>Myanmar</source>
-        <translation></translation>
+        <translation>Бирманский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2013"/>
         <source>Georgian</source>
-        <translation></translation>
+        <translation>Грузинский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2016"/>
         <source>Khmer</source>
-        <translation></translation>
+        <translation>Кхмерский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2019"/>
         <source>Simplified Chinese</source>
-        <translation></translation>
+        <translation>Упрощенный китайский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2022"/>
         <source>Traditional Chinese</source>
-        <translation></translation>
+        <translation>Традиционный китайский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2025"/>
         <source>Japanese</source>
-        <translation></translation>
+        <translation>Японский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2028"/>
         <source>Korean</source>
-        <translation></translation>
+        <translation>Корейский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2031"/>
         <source>Vietnamese</source>
-        <translation></translation>
+        <translation>Вьетнамский</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2034"/>
         <source>Symbol</source>
-        <translation></translation>
+        <translation>Символьный</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2037"/>
         <source>Ogham</source>
-        <translation></translation>
+        <translation>Огам</translation>
     </message>
     <message>
         <location filename="../src/gui/text/qfontdatabase.cpp" line="2040"/>
         <source>Runic</source>
-        <translation></translation>
+        <translation>Рунический</translation>
     </message>
 </context>
 <context>
@@ -1891,7 +1891,7 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/dialogs/qfontdialog.cpp" line="762"/>
         <source>Wr&amp;iting System</source>
-        <translation></translation>
+        <translation>На&amp;бор символов</translation>
     </message>
 </context>
 <context>
