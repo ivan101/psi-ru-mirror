@@ -142,7 +142,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Свежая версия перевода всегда тут: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;©07.04.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода 04.05.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="104"/>
@@ -435,7 +435,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountmodify.ui" line="1130"/>
         <source>STUN Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>STUN сервер:</translation>
     </message>
     <message>
         <location filename="../src/accountmodify.ui" line="1329"/>
@@ -1454,34 +1454,34 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/avcall/avcall.cpp" line="289"/>
         <source>System error</source>
-        <translation type="unfinished">Системная ошибка</translation>
+        <translation>Системная ошибка</translation>
     </message>
     <message>
         <location filename="../src/avcall/avcall.cpp" line="291"/>
         <source>Codec error</source>
-        <translation type="unfinished">Ошибка кодека</translation>
+        <translation>Ошибка кодека</translation>
     </message>
     <message>
         <location filename="../src/avcall/avcall.cpp" line="293"/>
         <source>Generic error</source>
-        <translation type="unfinished">Типовая ошибка</translation>
+        <translation>Типовая ошибка</translation>
     </message>
     <message>
         <location filename="../src/avcall/avcall.cpp" line="315"/>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно позвонить без выбора устройства. Есть ли у вас микрофон? Проверьте настройки Psi.</translation>
     </message>
     <message>
         <location filename="../src/avcall/avcall.cpp" line="495"/>
         <source>An error occurred while trying to send:
 %1.</source>
-        <translation type="unfinished">Ошибка при попытке отправить:
+        <translation>Ошибка при попытке отправить:
 %1.</translation>
     </message>
     <message>
         <location filename="../src/avcall/avcall.cpp" line="534"/>
         <source>Call was rejected or terminated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов был отклонён или прекращён.</translation>
     </message>
 </context>
 <context>
@@ -1550,17 +1550,17 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/avcall/call.ui" line="21"/>
         <source>To:</source>
-        <translation type="unfinished">Кому:</translation>
+        <translation>Кому:</translation>
     </message>
     <message>
         <location filename="../src/avcall/call.ui" line="33"/>
         <source>Use video</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить видео</translation>
     </message>
     <message>
         <location filename="../src/avcall/call.ui" line="42"/>
         <source>Sending bandwidth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость отправки:</translation>
     </message>
     <message>
         <location filename="../src/avcall/call.ui" line="54"/>
@@ -1583,78 +1583,78 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="65"/>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Звонок</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="72"/>
         <source>High (1Mbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Высокая (1 Мбит/с)</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="73"/>
         <source>Average (400Kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Средняя (400 Кбит/с)</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="74"/>
         <source>Low (160Kbps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Низкая (160 Кбит/с)</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="108"/>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Закрыть</translation>
+        <translation>За&amp;крыть</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="109"/>
         <source>C&amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;звонить</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="110"/>
         <source>Ready</source>
-        <translation type="unfinished"> </translation>
+        <translation>Готов</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="120"/>
         <source>From:</source>
-        <translation type="unfinished">От:</translation>
+        <translation>От:</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="133"/>
         <source>Accept call?</source>
-        <translation type="unfinished"></translation>
+        <translation>Принять звонок?</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="155"/>
         <location filename="../src/avcall/calldlg.cpp" line="174"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="158"/>
         <source>Calling...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызываю...</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="177"/>
         <source>Accepting...</source>
-        <translation type="unfinished">Принимаем...</translation>
+        <translation>Принимаю...</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="210"/>
         <source>&amp;Hang up</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Повесить трубку</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="211"/>
         <source>Call active</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов активен</translation>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="220"/>
         <source>Call ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов завершён</translation>
     </message>
 </context>
 <context>
@@ -5064,7 +5064,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Cannot send live without at least one audio input or video input device selected.</source>
-        <translation>Не удается отправить эфир, выберите, по крайней мере, одно аудио или видео устройство входа.</translation>
+        <translation>Не удаётся отправить эфир, выберите, по крайней мере, одно аудио или видео устройство входа.</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
@@ -6031,12 +6031,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_application.ui" line="93"/>
         <source>Data transfer base port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовый порт для передачи данных:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="116"/>
         <source>(1 TCP, 4 UDP)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="13"/>
@@ -6080,22 +6080,22 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="19"/>
         <source>Audio output:</source>
-        <translation type="unfinished">Аудиовыход:</translation>
+        <translation>Аудиовыход:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="36"/>
         <source>Audio input:</source>
-        <translation type="unfinished">Аудиовход:</translation>
+        <translation>Аудиовход:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="53"/>
         <source>Video input:</source>
-        <translation type="unfinished">Видеовход:</translation>
+        <translation>Видеовход:</translation>
     </message>
 </context>
 <context>
@@ -7053,17 +7053,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_avcall.cpp" line="169"/>
         <source>Voice Calling</source>
-        <translation type="unfinished"></translation>
+        <translation>Звонки</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.cpp" line="169"/>
         <source>Audio and video device configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка аудио/видео</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.cpp" line="169"/>
         <source>Audio device configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка аудио</translation>
     </message>
 </context>
 <context>
@@ -9704,17 +9704,17 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="976"/>
         <source>Warning: %1 is depricated and will be removed in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение: команда %1 не рекомендуется и будет удалена в будущем</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="979"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, установите горячую клавишу для &apos;Перехода в режим ввода команд&apos;, используя эту клавишу введите &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="981"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, нажмите %1 и введите &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../src/psi_profiles.cpp" line="950"/>
@@ -11545,22 +11545,22 @@ Reason: %1</source>
     <message>
         <location filename="../src/serverlistquerier.cpp" line="78"/>
         <source>Maximum redirect count reached</source>
-        <translation type="unfinished"></translation>
+        <translation>Достигнут максимум перенаправления</translation>
     </message>
     <message>
         <location filename="../src/serverlistquerier.cpp" line="87"/>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенаправление к протоколу &apos;%1&apos; не поддерживается</translation>
     </message>
     <message>
         <location filename="../src/serverlistquerier.cpp" line="92"/>
         <source>Cannot redirect to empty host</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удаётся перенаправить на пустой сервер</translation>
     </message>
     <message>
         <location filename="../src/serverlistquerier.cpp" line="106"/>
         <source>Unexpected HTTP status code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неожиданный код состояния HTTP: %1</translation>
     </message>
 </context>
 <context>
@@ -12563,17 +12563,17 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/voicecall.ui" line="67"/>
         <source>Hang Up</source>
-        <translation>Снять трубку</translation>
+        <translation>Повесить трубку</translation>
     </message>
     <message>
         <location filename="../src/voicecall.ui" line="44"/>
         <source>Reject</source>
-        <translation>Отказаться</translation>
+        <translation>Отклонить</translation>
     </message>
     <message>
         <location filename="../src/voicecall.ui" line="16"/>
         <source>Voice Call</source>
-        <translation>Позвонить</translation>
+        <translation>Звонок</translation>
     </message>
 </context>
 <context>
@@ -12586,12 +12586,12 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/voicecalldlg.cpp" line="129"/>
         <source>Accepting</source>
-        <translation>Принято</translation>
+        <translation>Принимаю</translation>
     </message>
     <message>
         <location filename="../src/voicecalldlg.cpp" line="122"/>
         <source>Calling</source>
-        <translation>Набор номера</translation>
+        <translation>Вызываю</translation>
     </message>
     <message>
         <location filename="../src/voicecalldlg.cpp" line="143"/>
@@ -12611,12 +12611,12 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/voicecalldlg.cpp" line="157"/>
         <source>Rejected</source>
-        <translation>Отказано</translation>
+        <translation>Отклонено</translation>
     </message>
     <message>
         <location filename="../src/voicecalldlg.cpp" line="136"/>
         <source>Rejecting</source>
-        <translation>Отказано</translation>
+        <translation>Отклоняю</translation>
     </message>
     <message>
         <location filename="../src/voicecalldlg.cpp" line="171"/>
