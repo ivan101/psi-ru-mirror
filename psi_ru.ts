@@ -3901,6 +3901,11 @@ Reason: %3</source>
         <translation>Выбрать смайл</translation>
     </message>
     <message>
+        <location filename="../src/groupchatdlg.cpp" line="744"/>
+        <source>Change Nickname...</source>
+        <translation>Изменить ник...</translation>
+    </message>
+    <message>
         <location filename="../src/groupchatdlg.cpp" line="748"/>
         <source>Enter Command...</source>
         <translation>Введите команду...</translation>
@@ -4234,6 +4239,20 @@ Reason: %1</source>
         <location filename="../src/groupchatdlg.cpp" line="1714"/>
         <source>%1 says:</source>
         <translation>%1 пишет:</translation>
+    </message>
+</context>
+<context>
+    <name>GCMainDlg::Private</name>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="336"/>
+        <location filename="../src/groupchatdlg.cpp" line="392"/>
+        <source>new nick=</source>
+        <translation>Новый ник=</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="356"/>
+        <source>Command&gt;</source>
+        <translation>Команда&gt;</translation>
     </message>
 </context>
 <context>
@@ -6986,6 +7005,11 @@ Details: %1</source>
         <location filename="../src/options/opt_roster.ui" line="150"/>
         <source>Fixed height</source>
         <translation>Фиксированная высота</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_roster.ui" line="150"/>
+        <source>Fixed size</source>
+        <translation>Фиксированный размер</translation>
     </message>
     <message>
         <location filename="../src/options/opt_roster.ui" line="178"/>
@@ -12164,6 +12188,39 @@ Reason: %1</source>
     <message>
         <source>XMPP name:</source>
         <translation>Имя XMPP:</translation>
+    </message>
+</context>
+<context>
+    <name>Screenshot</name>
+    <message>
+        <location filename="../screenshot.cpp" line="21"/>
+        <source>Screenshot</source>
+        <translation>Снимок экрана</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="39"/>
+        <source>/untitled.</source>
+        <translation>/Снимок.</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="41"/>
+        <source>Save As</source>
+        <translation>Сохранить как</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="43"/>
+        <source>%1 Files (*.%2);;All Files (*)</source>
+        <translation>%1 файлы (*.%2);;Все файлы (*)</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="63"/>
+        <source>Save Screenshot</source>
+        <translation>Сохранить снимок</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="66"/>
+        <source>Close</source>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
