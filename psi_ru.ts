@@ -150,6 +150,16 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Координатор перевода, разная помощь</translation>
     </message>
     <message>
+        <location filename="../src/aboutdlg.cpp" line="48"/>
+        <source>Current Maintainer and Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="51"/>
+        <source>Lead Developer and Past Maintainer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/aboutdlg.cpp" line="54"/>
         <source>Lead Developer</source>
         <translation>Ведущий разработчик</translation>
@@ -2087,6 +2097,34 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>ContactManagerDlg</name>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished">Диалог</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.ui" line="35"/>
+        <source>Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.ui" line="70"/>
+        <source>+/-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.ui" line="81"/>
+        <source>Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.ui" line="98"/>
+        <source>Execute</source>
+        <translation type="unfinished">Выполнить</translation>
+     </message>
+</context>
+<context>
     <name>ContactProfile</name>
     <message>
         <location filename="../src/contactview.cpp" line="1331"/>
@@ -2492,6 +2530,10 @@ Proceed?</source>
         <location filename="../src/contactview.cpp" line="987"/>
         <source>New &amp;Blank Message</source>
         <translation>Создать &amp;сообщение</translation>
+    </message>
+        <location filename="../src/contactview.cpp" line="989"/>
+        <source>Contacts Manager</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1076"/>
@@ -12750,6 +12792,49 @@ Reason: %1</source>
         <location filename="../src/AutoUpdater/QDChangeLog.ui" line="51"/>
         <source>Open download page?</source>
         <translation>Открыть страницу загрузки?</translation>
+    </message>
+</context>
+<context>
+    <name>ShowPhotoDlg</name>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="31"/>
+        <source>Photo Preview: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="49"/>
+        <source>&amp;Save As...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="52"/>
+        <source>Zoom &amp;In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="55"/>
+        <source>Zoom &amp;Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="58"/>
+        <source>&amp;Restore Size and Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="64"/>
+        <source>/photo.png</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="66"/>
+        <source>Save As</source>
+        <translation type="unfinished">Сохранить как</translation>
+    </message>
+    <message>
+        <location filename="../src/clickablelabel.cpp" line="68"/>
+        <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
