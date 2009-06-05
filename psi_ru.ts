@@ -6366,12 +6366,12 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="336"/>
         <source>Nick &quot;To&quot; foreground:</source>
-        <translation>Цвет ника во входящем сообщении:</translation>
+        <translation>Цвет ника в иcходящем сообщении:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="343"/>
         <source>Nick &quot;From&quot; foreground:</source>
-        <translation>Цвет ника в иcходящем сообщении:</translation>
+        <translation>Цвет ника во входящем сообщении:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="350"/>
