@@ -86,7 +86,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../src/about.ui" line="16"/>
         <source>About Psi</source>
-        <translation>О программе Psi</translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="146"/>
@@ -142,7 +142,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 23.05.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 05.06.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="104"/>
@@ -152,12 +152,12 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/aboutdlg.cpp" line="48"/>
         <source>Current Maintainer and Original Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущий сопровождающий и автор идеи</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="51"/>
         <source>Lead Developer and Past Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ведущий разработчик и прошлый сопровождающий</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="54"/>
@@ -2100,29 +2100,97 @@ Do you still want to close the window?</source>
     <name>ContactManagerDlg</name>
     <message>
         <location filename="../src/contactmanager/contactmanagerdlg.ui" line="14"/>
-        <source>Dialog</source>
-        <translation type="unfinished">Диалог</translation>
+        <source>Contacts Manager</source>
+        <translation>Менеджер контактов</translation>
     </message>
     <message>
         <location filename="../src/contactmanager/contactmanagerdlg.ui" line="35"/>
         <source>Field</source>
-        <translation type="unfinished"></translation>
+        <translation>Поле</translation>
     </message>
     <message>
         <location filename="../src/contactmanager/contactmanagerdlg.ui" line="70"/>
         <source>+/-</source>
-        <translation type="unfinished"></translation>
+        <translation>+/-</translation>
     </message>
     <message>
         <location filename="../src/contactmanager/contactmanagerdlg.ui" line="81"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <location filename="../src/contactmanager/contactmanagerdlg.ui" line="98"/>
         <source>Execute</source>
-        <translation type="unfinished">Выполнить</translation>
-     </message>
+        <translation>Выполнить</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="30"/>
+        <source>Message</source>
+        <translation>Сообщение</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="31"/>
+        <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="32"/>
+        <source>Auth request</source>
+        <translation>Запросить подписку</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="33"/>
+        <source>Auth grant</source>
+        <translation>Разрешить подписку</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="34"/>
+        <source>Change domain</source>
+        <translation>Сменить домен</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="35"/>
+        <source>Resolve nicks</source>
+        <translation>Определить ники</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="40"/>
+        <source>Simple</source>
+        <translation>Просто</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="41"/>
+        <source>RegExp</source>
+        <translation>Рег. выр.</translation>
+    </message>
+</context>
+<context>
+    <name>ContactManagerModel</name>
+    <message>
+        <location filename="../src/contactmanager/contactmanagermodel.cpp" line="14"/>
+        <source>Nick</source>
+        <translation>Ник</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagermodel.cpp" line="15"/>
+        <source>Group</source>
+        <translation>Группа</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagermodel.cpp" line="16"/>
+        <source>Node</source>
+        <translation>Узел</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagermodel.cpp" line="17"/>
+        <source>Domain</source>
+        <translation>Домен</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagermodel.cpp" line="18"/>
+        <source>Subscription</source>
+        <translation>Подписка</translation>
+    </message>
 </context>
 <context>
     <name>ContactProfile</name>
@@ -2531,9 +2599,10 @@ Proceed?</source>
         <source>New &amp;Blank Message</source>
         <translation>Создать &amp;сообщение</translation>
     </message>
+    <message>
         <location filename="../src/contactview.cpp" line="989"/>
-        <source>Contacts Manager</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Contacts Manager</source>
+        <translation>&amp;Менеджер контактов</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1076"/>
@@ -12799,42 +12868,42 @@ Reason: %1</source>
     <message>
         <location filename="../src/clickablelabel.cpp" line="31"/>
         <source>Photo Preview: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр фото: %1</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="49"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сохранить как...</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="52"/>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>У&amp;величить</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="55"/>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>У&amp;меньшить</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="58"/>
         <source>&amp;Restore Size and Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить &amp;размер и положение</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="64"/>
         <source>/photo.png</source>
-        <translation type="unfinished"></translation>
+        <translation>/фото.png</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="66"/>
         <source>Save As</source>
-        <translation type="unfinished">Сохранить как</translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <location filename="../src/clickablelabel.cpp" line="68"/>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл PNG (*.png);;Файл JPEG (*.jpeg);;Файл BMP (*.bmp);;Файл PPM (*.ppm);;Все файлы (*)</translation>
     </message>
 </context>
 <context>
