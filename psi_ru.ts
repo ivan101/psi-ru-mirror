@@ -4607,6 +4607,19 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>GmailNotifyPlugin</name>
+    <message>
+        <location filename="../gmailnotifyplugin.cpp" line="157"/>
+        <source>From</source>
+        <translation>От</translation>
+    </message>
+    <message>
+        <location filename="../gmailnotifyplugin.cpp" line="157"/>
+        <source>Header</source>
+        <translation>Заголовок</translation>
+    </message>
+</context>
+<context>
     <name>GoogleFileTransferProgressDialog</name>
     <message>
         <location filename="../src/googleftmanager.h" line="135"/>
