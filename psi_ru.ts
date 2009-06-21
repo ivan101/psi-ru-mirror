@@ -142,7 +142,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 05.06.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 21.06.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="104"/>
@@ -1907,6 +1907,11 @@ Reason: %1</source>
         <translation>%1 (неактивный)</translation>
     </message>
     <message>
+        <location filename="../src/chatdlg.cpp" line="854"/>
+        <source>Subject:</source>
+        <translation>Тема:</translation>
+    </message>
+    <message>
         <location filename="../src/chatdlg.cpp" line="988"/>
         <source>%1 ended the conversation</source>
         <translation>%1 закончил разговор</translation>
@@ -1937,6 +1942,11 @@ Do you still want to close the window?</source>
         <location filename="../src/chatdlg.ui" line="133"/>
         <source>AccountLabel</source>
         <translation>AccountLabel</translation>
+    </message>
+    <message>
+        <location filename="../src/chatdlg.ui" line="140"/>
+        <source>Voice Call</source>
+        <translation>Позвонить</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="175"/>
@@ -4425,6 +4435,11 @@ Reason: %1</source>
         <translation>член</translation>
     </message>
     <message>
+        <location filename="../src/gcuserview.cpp" line="413"/>
+        <source>Voice Call</source>
+        <translation>Позвонить</translation>
+    </message>
+    <message>
         <location filename="../src/gcuserview.cpp" line="387"/>
         <source>Moderator</source>
         <translation>Модератор</translation>
@@ -4604,19 +4619,6 @@ Reason: %1</source>
         <location filename="../src/options/opt_general_groupchat.ui" line="55"/>
         <source>Words which will cause a notification in group chat.</source>
         <translation>Слова в конференции, которые вызывают оповещение.</translation>
-    </message>
-</context>
-<context>
-    <name>GmailNotifyPlugin</name>
-    <message>
-        <location filename="../gmailnotifyplugin.cpp" line="157"/>
-        <source>From</source>
-        <translation>От</translation>
-    </message>
-    <message>
-        <location filename="../gmailnotifyplugin.cpp" line="157"/>
-        <source>Header</source>
-        <translation>Заголовок</translation>
     </message>
 </context>
 <context>
@@ -10183,7 +10185,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psichatdlg.cpp" line="317"/>
         <source>Voice Call</source>
-        <translation>Голосовой вызов</translation>
+        <translation>Позвонить</translation>
     </message>
     <message>
         <location filename="../src/psichatdlg.cpp" line="479"/>
@@ -12327,12 +12329,17 @@ Reason: %1</source>
         <translation>Снимок экрана</translation>
     </message>
     <message>
-        <location filename="../screenshot.cpp" line="39"/>
-        <source>/untitled.</source>
-        <translation>/Снимок.</translation>
+        <location filename="../screenshot.cpp" line="74"/>
+        <source>Save</source>
+        <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../screenshot.cpp" line="41"/>
+        <location filename="../screenshot.cpp" line="75"/>
+        <source>Upload</source>
+        <translation>Загрузить</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="154"/>
         <source>Save As</source>
         <translation>Сохранить как</translation>
     </message>
@@ -12342,12 +12349,41 @@ Reason: %1</source>
         <translation>%1 файлы (*.%2);;Все файлы (*)</translation>
     </message>
     <message>
-        <location filename="../screenshot.cpp" line="63"/>
-        <source>Save Screenshot</source>
-        <translation>Сохранить снимок</translation>
+        <location filename="../screenshot.cpp" line="173"/>
+        <source>Unable to connect to the FTP server at %1.
+Please check that the host name is correct.
+%2</source>
+        <translation>Не удалось подключиться к FTP-серверу %1.
+Пожалуйста, проверьте, что имя хоста является правильным.
+%2</translation>
     </message>
     <message>
-        <location filename="../screenshot.cpp" line="66"/>
+        <location filename="../screenshot.cpp" line="189"/>
+        <source>Unable to login to the FTP server at %1.
+Please check that the login %2 is correct.
+%3</source>
+        <translation>Не удалось войти на FTP-сервер %1.
+Убедитесь, что логин %2 является правильным.
+%3</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="204"/>
+        <source>Unable to change dir to %2 on the FTP server at %1.
+Please check that the dir is correct.
+%3</source>
+        <translation>Не удалось сменить каталог на %2 на FTP-сервере %1.
+Пожалуйста, проверьте, что имя каталога является правильным. 
+%3</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="214"/>
+        <source>Unable to upload file to the FTP server.
+%1</source>
+        <translation>Не удалось загрузить файл на FTP-сервер.
+%1</translation>
+    </message>
+    <message>
+        <location filename="../screenshot.cpp" line="77"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
