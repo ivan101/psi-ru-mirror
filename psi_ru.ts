@@ -142,7 +142,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 21.06.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 05.07.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="104"/>
@@ -2164,6 +2164,11 @@ Do you still want to close the window?</source>
         <translation>Определить ники</translation>
     </message>
     <message>
+        <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="36"/>
+        <source>Move to group</source>
+        <translation>Переместить в группу</translation>
+    </message>
+    <message>
         <location filename="../src/contactmanager/contactmanagerdlg.cpp" line="40"/>
         <source>Simple</source>
         <translation>Просто</translation>
@@ -4032,6 +4037,11 @@ Reason: %3</source>
         <translation>Введите команду...</translation>
     </message>
     <message>
+        <location filename="../src/groupchatdlg.cpp" line="752"/>
+        <source>Paste and Send</source>
+        <translation>Вставить и отправить</translation>
+    </message>
+    <message>
         <location filename="../src/groupchatdlg.cpp" line="927"/>
         <source>
 Reason: %1</source>
@@ -4619,6 +4629,19 @@ Reason: %1</source>
         <location filename="../src/options/opt_general_groupchat.ui" line="55"/>
         <source>Words which will cause a notification in group chat.</source>
         <translation>Слова в конференции, которые вызывают оповещение.</translation>
+    </message>
+</context>
+<context>
+    <name>GmailNotifyPlugin</name>
+    <message>
+        <location filename="../gmailnotifyplugin.cpp" line="248"/>
+        <source>Show all unread messages</source>
+        <translation>Показывать все непрочитанные сообщения</translation>
+    </message>
+    <message>
+        <location filename="../gmailnotifyplugin.cpp" line="249"/>
+        <source>Show new messages only</source>
+        <translation>Показывать только новые сообщения</translation>
     </message>
 </context>
 <context>
@@ -6675,6 +6698,11 @@ Details: %1</source>
         <location filename="../src/options/opt_application.ui" line="71"/>
         <source>Make roster window a &quot;tool window&quot;</source>
         <translation>Окно ростера в виде окна инструментов</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="91"/>
+        <source>Quit when closing the roster window</source>
+        <translation>Выход при закрытии окна ростера</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="93"/>
@@ -10102,6 +10130,11 @@ Reason: %1.</source>
         <translation>Компактный/Полный режим</translation>
     </message>
     <message>
+        <location filename="../src/psichatdlg.cpp" line="335"/>
+        <source>Paste and Send</source>
+        <translation>Вставить и отправить</translation>
+    </message>
+    <message>
         <location filename="../src/psichatdlg.cpp" line="339"/>
         <source>Chat Toolbar</source>
         <translation>Панель инструментов чата</translation>
@@ -12142,6 +12175,24 @@ Would you like to activate that session now?</source>
     </message>
 </context>
 <context>
+    <name>QTableView</name>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerview.cpp" line="17"/>
+        <source>Check</source>
+        <translation>Выделить</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerview.cpp" line="18"/>
+        <source>Uncheck</source>
+        <translation>Снять выделение</translation>
+    </message>
+    <message>
+        <location filename="../src/contactmanager/contactmanagerview.cpp" line="19"/>
+        <source>Invert</source>
+        <translation>Инвертировать</translation>
+    </message>
+</context>
+<context>
     <name>RegistrationDlg</name>
     <message>
         <location filename="../src/registrationdlg.cpp" line="272"/>
@@ -12537,6 +12588,57 @@ Reason: %1</source>
 Reason: %1</source>
         <translation>Невозможно загрузить форму поиска.
 Причина: %1</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <location filename="../src/sendbuttontemplateseditor.ui" line="13"/>
+        <source>Template editor</source>
+        <translation>Редактор шаблонов</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttontemplateseditor.ui" line="25"/>
+        <source>Templates</source>
+        <translation>Шаблоны</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttontemplateseditor.ui" line="55"/>
+        <source>Add</source>
+        <translation>Добавить</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttontemplateseditor.ui" line="62"/>
+        <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttontemplateseditor.ui" line="95"/>
+        <source>Ok</source>
+        <translation>Ок</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttontemplateseditor.ui" line="108"/>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <location filename="../src/sendbuttonmenu.cpp" line="50"/>
+        <source>Paste and &amp;Send</source>
+        <translation>Вставить и &amp;отправить</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttonmenu.cpp" line="53"/>
+        <source>&amp;Edit Templates</source>
+        <translation>&amp;Редактировать шаблоны</translation>
+    </message>
+    <message>
+        <location filename="../src/sendbuttonmenu.cpp" line="56"/>
+        <source>Only &amp;Paste</source>
+        <translation>Только &amp;вставить</translation>
     </message>
 </context>
 <context>
@@ -13575,6 +13677,41 @@ And these work only in groupchat dialog:
 &lt;li&gt;Ctrl+U - очистить поле ввода&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn - прокрутка окна чата&lt;/li&gt;
 &lt;/ul&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>TranslatePlugin</name>
+    <message>
+        <location filename="../translateplugin.cpp" line="173"/>
+        <location filename="../translateplugin.cpp" line="205"/>
+        <source>from</source>
+        <translation>С</translation>
+    </message>
+    <message>
+        <location filename="../translateplugin.cpp" line="173"/>
+        <location filename="../translateplugin.cpp" line="208"/>
+        <source>to</source>
+        <translation>На</translation>
+    </message>
+    <message>
+        <location filename="../translateplugin.cpp" line="194"/>
+        <source>Modify</source>
+        <translation>Изменить</translation>
+    </message>
+    <message>
+        <location filename="../translateplugin.cpp" line="196"/>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <location filename="../translateplugin.cpp" line="211"/>
+        <source>Add</source>
+        <translation>Добавить</translation>
+    </message>
+    <message>
+        <location filename="../translateplugin.cpp" line="215"/>
+        <source>ShortCut</source>
+        <translation>Комбинация клавиш</translation>
     </message>
 </context>
 <context>
