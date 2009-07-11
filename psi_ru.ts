@@ -3038,6 +3038,16 @@ Proceed?</source>
         <translation>Обзор сервисов</translation>
     </message>
     <message>
+        <location filename="../src/discodlg.cpp" line="1012"/>
+        <source>Query version</source>
+        <translation>Запросить версию</translation>
+    </message>
+    <message>
+        <location filename="../src/discodlg.cpp" line="1012"/>
+        <source>&amp;Query version</source>
+        <translation>&amp;Запросить версию</translation>
+    </message>
+    <message>
         <location filename="../src/discodlg.cpp" line="1014"/>
         <source>Service Discovery toolbar</source>
         <translation>Панель инструментов служб</translation>
@@ -3470,6 +3480,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="188"/>
         <source>VCard</source>
         <translation>vCard</translation>
+    </message>
+    <message>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="199"/>
+        <source>Query version</source>
+        <translation>Запросить версию</translation>
     </message>
 </context>
 <context>
@@ -4040,6 +4055,11 @@ Reason: %3</source>
         <location filename="../src/groupchatdlg.cpp" line="752"/>
         <source>Paste and Send</source>
         <translation>Вставить и отправить</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.cpp" line="757"/>
+        <source>Templates</source>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="927"/>
@@ -6702,7 +6722,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_application.ui" line="91"/>
         <source>Quit when closing the roster window</source>
-        <translation>Выход при закрытии окна ростера</translation>
+        <translation>Выходить при закрытии окна ростера</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="93"/>
@@ -7056,6 +7076,11 @@ Details: %1</source>
         <location filename="../src/options/opt_plugins.ui" line="16"/>
         <source>OptPluginsUI</source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_plugins.ui" line="46"/>
+        <source>Version: 0</source>
+        <translation>Версия: 0</translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="42"/>
@@ -8088,6 +8113,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../src/options/opt_plugins.cpp" line="149"/>
         <source>This plugin has no user configurable options</source>
         <translation>Этот модуль не имеет опций для настройки пользователем</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_plugins.cpp" line="127"/>
+        <source>Version: </source>
+        <translation>Версия: </translation>
     </message>
 </context>
 <context>
@@ -9477,6 +9507,26 @@ Details: %1</source>
 Подробности: %1</translation>
     </message>
     <message>
+        <location filename="../src/psiaccount.cpp" line="3175"/>
+        <source>Name:	</source>
+        <translation>Название:	</translation>
+    </message>
+    <message>
+        <location filename="../src/psiaccount.cpp" line="3176"/>
+        <source>Version:	</source>
+        <translation>Версия:	</translation>
+    </message>
+    <message>
+        <location filename="../src/psiaccount.cpp" line="3177"/>
+        <source>Os:	</source>
+        <translation>ОС:	</translation>
+    </message>
+    <message>
+        <location filename="../src/psiaccount.cpp" line="3179"/>
+        <source>Version Query Informations</source>
+        <translation>Информация запроса версии</translation>
+    </message>
+    <message>
         <location filename="../src/psiaccount.cpp" line="4738"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -10133,6 +10183,11 @@ Reason: %1.</source>
         <location filename="../src/psichatdlg.cpp" line="335"/>
         <source>Paste and Send</source>
         <translation>Вставить и отправить</translation>
+    </message>
+    <message>
+        <location filename="../src/psichatdlg.cpp" line="353"/>
+        <source>Templates</source>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <location filename="../src/psichatdlg.cpp" line="339"/>
