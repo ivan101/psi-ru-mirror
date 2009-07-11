@@ -5629,6 +5629,44 @@ Are you sure you want to discard them?</source>
     </message>
 </context>
 <context>
+    <name>JuickPlugin</name>
+    <message>
+        <location filename="../juickplugin.cpp" line="114"/>
+        <source>@username</source>
+        <translation>@пользователь</translation>
+    </message>
+    <message>
+        <location filename="../juickplugin.cpp" line="115"/>
+        <source>*tag</source>
+        <translation>*тег</translation>
+    </message>
+    <message>
+        <location filename="../juickplugin.cpp" line="116"/>
+        <source>#message id</source>
+        <translation>#id сообщения</translation>
+    </message>
+    <message>
+        <location filename="../juickplugin.cpp" line="117"/>
+        <source>bold</source>
+        <translation>полужирный</translation>
+    </message>
+    <message>
+        <location filename="../juickplugin.cpp" line="118"/>
+        <source>italic</source>
+        <translation>курсив</translation>
+    </message>
+    <message>
+        <location filename="../juickplugin.cpp" line="119"/>
+        <source>underline</source>
+        <translation>подчёркивать</translation>
+    </message>
+    <message>
+        <location filename="../juickplugin.cpp" line="120"/>
+        <source>color</source>
+        <translation>цвет</translation>
+    </message>
+</context>
+<context>
     <name>LookFeelToolbars</name>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="214"/>
@@ -7090,7 +7128,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="28"/>
         <source>Plugin Name:</source>
-        <translation>Имя модуля:</translation>
+        <translation>Название модуля:</translation>
     </message>
 </context>
 <context>
@@ -13767,6 +13805,11 @@ And these work only in groupchat dialog:
         <location filename="../translateplugin.cpp" line="215"/>
         <source>ShortCut</source>
         <translation>Комбинация клавиш</translation>
+    </message>
+    <message>
+        <location filename="../translateplugin.cpp" line="225"/>
+        <source>Not translating &quot;Nickname:&quot;</source>
+        <translation>Не перекодировать &quot;Ник:&quot;</translation>
     </message>
 </context>
 <context>
