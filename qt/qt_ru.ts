@@ -1186,6 +1186,11 @@ to
         <translation>Сохранить</translation>
     </message>
     <message>
+        <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="528"/>
+        <source>&amp;Save</source>
+        <translation>&amp;Сохранить</translation>
+    </message>
+    <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="531"/>
         <source>Open</source>
         <translation>Открыть</translation>
@@ -1203,6 +1208,11 @@ to
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="537"/>
         <source>Close</source>
         <translation>Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="538"/>
+        <source>&amp;Close</source>
+        <translation>&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/gui/widgets/qdialogbuttonbox.cpp" line="540"/>
