@@ -142,7 +142,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 05.07.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 11.07.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="104"/>
@@ -2222,7 +2222,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/contactview.cpp" line="984"/>
         <source>&amp;Add a contact</source>
-        <translation>Добавить &amp;контакт</translation>
+        <translation>&amp;Добавить контакт</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1244"/>
@@ -2369,7 +2369,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/contactview.cpp" line="987"/>
         <source>New &amp;blank message</source>
-        <translation>Создать &amp;сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1138"/>
@@ -2607,12 +2607,12 @@ Proceed?</source>
     <message>
         <location filename="../src/contactview.cpp" line="984"/>
         <source>&amp;Add a Contact</source>
-        <translation>Добавить &amp;контакт</translation>
+        <translation>&amp;Добавить контакт</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="987"/>
         <source>New &amp;Blank Message</source>
-        <translation>Создать &amp;сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="989"/>
@@ -2781,7 +2781,7 @@ Proceed?</source>
     <message>
         <location filename="../src/contactview.cpp" line="2165"/>
         <source>Send &amp;Message</source>
-        <translation>С&amp;оздать сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="2173"/>
@@ -2868,7 +2868,7 @@ Proceed?</source>
     <message>
         <location filename="../src/contactview.cpp" line="2165"/>
         <source>Send &amp;message</source>
-        <translation>С&amp;оздать сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="2187"/>
@@ -4442,7 +4442,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/gcuserview.cpp" line="348"/>
         <source>Send &amp;Message</source>
-        <translation>С&amp;оздать сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="349"/>
@@ -4508,7 +4508,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/gcuserview.cpp" line="348"/>
         <source>Send &amp;message</source>
-        <translation>С&amp;оздать сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="393"/>
@@ -5293,7 +5293,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="199"/>
         <source>&amp;Clear</source>
-        <translation>Очи&amp;стить</translation>
+        <translation>О&amp;чистить</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="545"/>
@@ -5348,7 +5348,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="151"/>
         <source>&amp;Open...</source>
-        <translation>&amp;Открыть...</translation>
+        <translation>О&amp;ткрыть...</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="226"/>
@@ -5443,7 +5443,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="528"/>
         <source>&amp;Publish</source>
-        <translation>&amp;Опубликовать</translation>
+        <translation>О&amp;публиковать</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="535"/>
@@ -6151,7 +6151,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/mainwin.cpp" line="748"/>
         <source>&amp;Help</source>
-        <translation>&amp;Справка</translation>
+        <translation>Сп&amp;равка</translation>
     </message>
     <message>
         <location filename="../src/mainwin.cpp" line="401"/>
@@ -9048,7 +9048,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/profileopen.ui" line="195"/>
         <source>&amp;Open</source>
-        <translation>&amp;Открыть</translation>
+        <translation>О&amp;ткрыть</translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="16"/>
@@ -9667,7 +9667,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="195"/>
         <source>&amp;Add a contact</source>
-        <translation>Добавить &amp;контакт</translation>
+        <translation>&amp;Добавить контакт</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="295"/>
@@ -9743,7 +9743,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="195"/>
         <source>&amp;Add a Contact</source>
-        <translation>Добавить &amp;контакт</translation>
+        <translation>&amp;Добавить контакт</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="218"/>
@@ -9753,7 +9753,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="218"/>
         <source>New &amp;Blank Message</source>
-        <translation>Создать &amp;сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="219"/>
@@ -9854,7 +9854,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="218"/>
         <source>New &amp;blank message</source>
-        <translation>Создать &amp;сообщение</translation>
+        <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="218"/>
@@ -9949,7 +9949,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psiactionlist.cpp" line="350"/>
         <source>Report a &amp;Bug (Online)</source>
-        <translation>&amp;Сообщить об ошибке</translation>
+        <translation>Сообщить об о&amp;шибке</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="350"/>
@@ -13156,7 +13156,7 @@ Reason: %1</source>
         <location filename="../src/showtextdlg.cpp" line="56"/>
         <location filename="../src/showtextdlg.cpp" line="81"/>
         <source>&amp;OK</source>
-        <translation>&amp;OK</translation>
+        <translation>&amp;ОК</translation>
     </message>
 </context>
 <context>
