@@ -1881,12 +1881,12 @@ Do you want to delete it anyway?</source>
     <message>
         <location filename="../src/gui/dialogs/qfontdialog.cpp" line="759"/>
         <source>Stri&amp;keout</source>
-        <translation>&amp;Перечеркивать</translation>
+        <translation>&amp;Перечёркивать</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfontdialog.cpp" line="760"/>
         <source>&amp;Underline</source>
-        <translation>П&amp;одчеркивать</translation>
+        <translation>П&amp;одчёркивать</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfontdialog.cpp" line="761"/>
