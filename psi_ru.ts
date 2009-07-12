@@ -185,6 +185,21 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Многие иконки взяты из его темы Crystal</translation>
     </message>
     <message>
+        <location filename="../src/aboutdlg.cpp" line="106"/>
+        <source>FreeBSD Packager</source>
+        <translation>Сборщик под FreeBSD</translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="109"/>
+        <source>Mac OSX Packager</source>
+        <translation>Сборщик под Mac OSX</translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="112"/>
+        <source>OpenSUSE Packager</source>
+        <translation>Сборщик под OpenSUSE</translation>
+    </message>
+    <message>
         <location filename="../src/aboutdlg.cpp" line="125"/>
         <source>Original End User Documentation</source>
         <translation>Документация для конечного пользователя</translation>
@@ -198,11 +213,6 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <location filename="../src/aboutdlg.cpp" line="134"/>
         <source>Patches</source>
         <translation>Патчи</translation>
-    </message>
-    <message>
-        <location filename="../src/aboutdlg.cpp" line="51"/>
-        <source>Project Lead/Maintainer</source>
-        <translation>Руководитель проекта, сопровождение</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="42"/>
@@ -235,11 +245,6 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>О Psi+</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="73"/>
-        <source>Founder, Patcher and Win32 Packager</source>
-        <translation>Основатель, патчер, и сборщик под MS Windows</translation>
-    </message>
-    <message>
         <location filename="../src/aboutdlg.cpp" line="76"/>
         <source>Founder and Designer</source>
         <translation>Основатель и дизайнер</translation>
@@ -263,9 +268,30 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Ведущий сборщик под Linux</translation>
     </message>
     <message>
+        <location filename="../src/aboutdlg.cpp" line="73"/>
+        <source>Founder, Patcher and MS Windows x86 Packager</source>
+        <translation>Основатель, патчер, и сборщик под MS Windows x86</translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="82"/>
+        <source>Russian Localization and Patcher</source>
+        <translation>Русский перевод и патчер</translation>
+    </message>
+    <message>
         <location filename="../src/aboutdlg.cpp" line="97"/>
         <source>Plugins Writer and Patcher</source>
         <translation>Разработчик модулей и патчер</translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="94"/>
+        <location filename="../src/aboutdlg.cpp" line="100"/>
+        <source>Debian i386 Packager</source>
+        <translation>Сборщик под Debian i386</translation>
+    </message>
+    <message>
+        <location filename="../src/aboutdlg.cpp" line="97"/>
+        <source>Linux Packager and Patcher</source>
+        <translation>Сборщик под Linux и патчер</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="100"/>
