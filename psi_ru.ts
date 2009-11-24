@@ -13,46 +13,53 @@
 <context>
     <name>AHCFormDlg</name>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="126"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="obsolete">Отмена</translation>
     </message>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="71"/>
-        <location filename="../src/ahcformdlg.cpp" line="110"/>
+        <location filename="../src/ahcformdlg.cpp" line="65"/>
+        <location filename="../src/ahcformdlg.cpp" line="103"/>
         <source>Finish</source>
         <translation>Завершить</translation>
     </message>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="93"/>
+        <location filename="../src/ahcformdlg.cpp" line="86"/>
         <source>Next</source>
         <translation>Следующий</translation>
     </message>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="133"/>
         <source>Ok</source>
-        <translation>Ок</translation>
+        <translation type="obsolete">Ок</translation>
     </message>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="79"/>
+        <location filename="../src/ahcformdlg.cpp" line="72"/>
         <source>Previous</source>
         <translation>Предыдущий</translation>
+    </message>
+    <message>
+        <location filename="../src/ahcformdlg.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
     </message>
 </context>
 <context>
     <name>AHCommandDlg</name>
     <message>
-        <location filename="../src/ahcommanddlg.cpp" line="149"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="obsolete">Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/ahcommanddlg.cpp" line="127"/>
+        <location filename="../src/ahcommanddlg.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <location filename="../src/ahcommanddlg.ui" line="20"/>
         <source>Command:</source>
-        <translation>Команда:</translation>
+        <translation type="unfinished">Команда:</translation>
     </message>
     <message>
-        <location filename="../src/ahcommanddlg.cpp" line="146"/>
+        <location filename="../src/ahcommanddlg.cpp" line="128"/>
         <source>Execute</source>
         <translation>Выполнить</translation>
     </message>
@@ -65,39 +72,39 @@
 &lt;br&gt;
 Copyright © 2001-2009 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
+        <translation type="unfinished">Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="67"/>
         <source>About</source>
-        <translation>О программе</translation>
+        <translation type="unfinished">О программе</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="16"/>
         <source>About Psi</source>
-        <translation>О программе</translation>
+        <translation type="unfinished">О программе</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="146"/>
         <source>Authors</source>
-        <translation>Авторы</translation>
+        <translation type="unfinished">Авторы</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="97"/>
+        <location filename="../src/aboutdlg.cpp" line="100"/>
         <source>Bug Tracker Management</source>
         <translation>Отслеживание ошибок</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="73"/>
+        <location filename="../src/aboutdlg.cpp" line="76"/>
         <source>Build setup, miscellaneous assistance</source>
         <translation>Сборка, различная помощь</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="250"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="unfinished">&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="60"/>
@@ -106,8 +113,13 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
         <translation>Разработчик</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="79"/>
+        <location filename="../src/aboutdlg.cpp" line="73"/>
+        <source>Former language coordinator, miscellaneous assistance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/aboutdlg.cpp" line="82"/>
+        <location filename="../src/aboutdlg.cpp" line="85"/>
         <source>Graphics</source>
         <translation>Графика</translation>
     </message>
@@ -115,10 +127,10 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
         <location filename="../src/about.ui" line="119"/>
         <location filename="../src/about.ui" line="122"/>
         <source>http://psi-im.org</source>
-        <translation>http://psi-im.org</translation>
+        <translation type="unfinished">http://psi-im.org</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="116"/>
+        <location filename="../src/aboutdlg.cpp" line="119"/>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
@@ -158,55 +170,55 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/about.ui" line="203"/>
         <source>License</source>
-        <translation>Лицензия</translation>
+        <translation type="unfinished">Лицензия</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="88"/>
+        <location filename="../src/aboutdlg.cpp" line="91"/>
         <source>Mac OS X Port</source>
         <translation>Портирование на Mac OS X</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="76"/>
+        <location filename="../src/aboutdlg.cpp" line="79"/>
         <source>Many icons are from his Crystal icon theme</source>
         <translation>Многие иконки взяты из его темы Crystal</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="91"/>
+        <location filename="../src/aboutdlg.cpp" line="94"/>
         <source>Original End User Documentation</source>
         <translation>Документация для конечного пользователя</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="85"/>
+        <location filename="../src/aboutdlg.cpp" line="88"/>
         <source>Original Mac Port</source>
         <translation>Портирование на Mac OS X</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="100"/>
+        <location filename="../src/aboutdlg.cpp" line="103"/>
         <source>Patches</source>
         <translation>Патчи</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="42"/>
         <source>psi/logo_48</source>
-        <translation>psi/logo_48</translation>
+        <translation type="unfinished">psi/logo_48</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="105"/>
+        <location filename="../src/aboutdlg.cpp" line="108"/>
         <source>Security plugin: %1</source>
         <translation>Модуль безопасности: %1</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="162"/>
         <source>Thanks To</source>
-        <translation>Благодарности</translation>
+        <translation type="unfinished">Благодарности</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="178"/>
         <source>Translation</source>
-        <translation>Перевод</translation>
+        <translation type="unfinished">Перевод</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="94"/>
+        <location filename="../src/aboutdlg.cpp" line="97"/>
         <source>Webmaster, Marketing</source>
         <translation>Веб-мастер и маркетинг</translation>
     </message>
@@ -218,44 +230,44 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;Выберите удобное &lt;b&gt;имя&lt;/b&gt;, которое будет использоваться программой в дальнейшем для этого аккаунта.
+        <translation type="unfinished">&lt;qt&gt;Выберите удобное &lt;b&gt;имя&lt;/b&gt;, которое будет использоваться программой в дальнейшем для этого аккаунта.
 &lt;br&gt;
 Поставьте галочку напротив &lt;b&gt;Зарегистрировать новый аккаунт&lt;/b&gt;, если Вы хотите создать новый аккаунт на сервере. Если вы добавляете уже существующий аккаунт, не ставьте её.</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="146"/>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
+        <translation type="unfinished">&amp;Добавить</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="16"/>
         <source>Add Account</source>
-        <translation>Добавить аккаунт</translation>
+        <translation type="unfinished">Добавить аккаунт</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="149"/>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="139"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="unfinished">&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="73"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
+        <translation type="unfinished">Имя:</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="155"/>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="unfinished">psi/addContact</translation>
     </message>
     <message>
         <location filename="../src/accountadd.ui" line="85"/>
         <source>Register new account</source>
-        <translation>Зарегистрировать новый аккаунт</translation>
+        <translation type="unfinished">Зарегистрировать новый аккаунт</translation>
     </message>
 </context>
 <context>
@@ -274,80 +286,78 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountManage</name>
     <message>
-        <location filename="../src/accountmanage.ui" line="75"/>
+        <location filename="../src/accountmanage.ui" line="64"/>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
+        <translation type="unfinished">&amp;Добавить</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="156"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="obsolete">Alt+C</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="153"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="16"/>
+        <location filename="../src/accountmanage.ui" line="14"/>
         <source>Jabber Accounts</source>
-        <translation>Аккаунты Jabber</translation>
+        <translation type="unfinished">Аккаунты Jabber</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="85"/>
+        <location filename="../src/accountmanage.ui" line="74"/>
         <source>&amp;Modify</source>
-        <translation>&amp;Изменить</translation>
+        <translation type="unfinished">&amp;Изменить</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="34"/>
+        <location filename="../src/accountmanage.ui" line="44"/>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation type="unfinished">Имя</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="78"/>
+        <location filename="../src/accountmanage.ui" line="67"/>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="unfinished">psi/addContact</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="95"/>
+        <location filename="../src/accountmanage.ui" line="84"/>
         <source>psi/remove</source>
-        <translation>psi/remove</translation>
+        <translation type="unfinished">psi/remove</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="92"/>
+        <location filename="../src/accountmanage.ui" line="81"/>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Удалить</translation>
+        <translation type="unfinished">&amp;Удалить</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="45"/>
+        <location filename="../src/accountmanage.ui" line="49"/>
         <source>Server</source>
-        <translation>Сервер</translation>
+        <translation type="unfinished">Сервер</translation>
     </message>
     <message>
-        <location filename="../src/accountmanage.ui" line="56"/>
+        <location filename="../src/accountmanage.ui" line="54"/>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation type="unfinished">Статус</translation>
     </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="250"/>
+        <location filename="../src/accountmanagedlg.cpp" line="276"/>
         <source>Active</source>
         <translation>Активен</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="344"/>
+        <location filename="../src/accountmanagedlg.cpp" line="353"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="250"/>
+        <location filename="../src/accountmanagedlg.cpp" line="276"/>
         <source>Not active</source>
         <translation>Не активен</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="344"/>
+        <location filename="../src/accountmanagedlg.cpp" line="353"/>
         <source>Unable to remove the account, as it is currently active.</source>
         <translation>Невозможно удалить аккаунт, так как в данный момент он активен.</translation>
     </message>
@@ -355,456 +365,463 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountModify</name>
     <message>
-        <location filename="../src/accountmodify.ui" line="293"/>
+        <location filename="../src/accountmodify.ui" line="213"/>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Информация хранится на сервере в виде визитной карточки vCard и каждый пользователь может посмотреть её в любой момент.&lt;/qt&gt;</translation>
+        <translation type="unfinished">&lt;qt&gt;Информация хранится на сервере в виде визитной карточки vCard и каждый пользователь может посмотреть её в любой момент.&lt;/qt&gt;</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="55"/>
-        <location filename="../src/accountmodify.ui" line="76"/>
+        <location filename="../src/accountmodify.ui" line="41"/>
+        <location filename="../src/accountmodify.ui" line="53"/>
         <source>Account</source>
-        <translation>Аккаунт</translation>
+        <translation type="unfinished">Аккаунт</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="13"/>
+        <location filename="../src/accountmodify.ui" line="14"/>
         <source>Account Properties</source>
-        <translation>Настройки аккаунта</translation>
+        <translation type="unfinished">Настройки аккаунта</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="288"/>
+        <source>placeholder2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="428"/>
+        <source>Blocked Contacts</source>
+        <translation type="unfinished">Заблокированные контакты</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="451"/>
+        <source>Add</source>
+        <translation type="unfinished">Добавить</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="514"/>
+        <source>Advanced ...</source>
+        <translation type="unfinished">Настройка</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="555"/>
+        <source>proxychooser</source>
+        <translation type="unfinished">proxychooser</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="689"/>
+        <source>Allow plaintext authentication:</source>
+        <translation type="unfinished">Аутентификация открытым текстом:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="888"/>
+        <source>STUN Host:</source>
+        <translation type="unfinished">STUN сервер:</translation>
+    </message>
+    <message>
+        <source>Alt+S</source>
+        <translation type="obsolete">Alt+S</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="923"/>
+        <source>Authenticate as:</source>
+        <translation type="unfinished">Авторизоваться как:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="148"/>
+        <source>Automatically connect after sleep</source>
+        <translation type="unfinished">Автоматически входить после спящего режима</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="141"/>
+        <source>Automatically connect on startup</source>
+        <translation type="unfinished">Автоматически входить в сеть при запуске</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="155"/>
+        <source>Automatically reconnect if disconnected</source>
+        <translation type="unfinished">Автоматически восстанавливать соединение</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="117"/>
+        <source>Change...</source>
+        <translation type="unfinished">Изменить...</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="obsolete">&amp;Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="564"/>
+        <source>Compress traffic (if possible)</source>
+        <translation type="unfinished">Сжимать трафик (если возможно)</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="528"/>
+        <source>Connection</source>
+        <translation type="unfinished">Соединение</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="548"/>
+        <source>Connection proxy:</source>
+        <translation type="unfinished">Прокси-сервер:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="874"/>
+        <source>Data Transfer Proxy:</source>
+        <translation type="unfinished">Прокси-сервер для передачи данных:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="189"/>
+        <source>Details</source>
+        <translation type="unfinished">Подробности</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="247"/>
+        <source>Edit Personal &amp;Details...</source>
+        <translation type="unfinished">&amp;Изменить личную информацию...</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="636"/>
+        <source>Encrypt connection:</source>
+        <translation type="unfinished">Шифровать соединение:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="76"/>
+        <source>Example: juliet@capulet.com</source>
+        <translation type="unfinished">Например: vika@jabber.ru</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="593"/>
+        <source>Host:</source>
+        <translation type="unfinished">Сервер:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="83"/>
+        <source>Jabber ID:</source>
+        <translation type="unfinished">Jabber ID:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="162"/>
+        <source>Log message history</source>
+        <translation type="unfinished">Вести историю сообщений</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="578"/>
+        <source>Manually Specify Server Host/Port:</source>
+        <translation type="unfinished">Вручную указать адрес сервера и порт:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="797"/>
+        <source>Misc.</source>
+        <translation type="unfinished">Другое</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="22"/>
+        <source>Name:</source>
+        <translation type="unfinished">Имя:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="259"/>
+        <source>OpenPGP</source>
+        <translation type="unfinished">OpenPGP</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="103"/>
+        <source>Password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="201"/>
+        <source>Personal Information</source>
+        <translation type="unfinished">Личная информация</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="603"/>
+        <location filename="../src/accountmodify.ui" line="898"/>
+        <source>Port:</source>
+        <translation type="unfinished">Порт:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="835"/>
+        <source>Priority:</source>
+        <translation type="unfinished">Приоритет:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="357"/>
+        <source>Privacy</source>
+        <translation type="unfinished">Приватность</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="674"/>
+        <source>Probe legacy SSL port</source>
+        <translation type="unfinished">Использовать стандартный порт SSL</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="964"/>
+        <source>Realm:</source>
+        <translation type="unfinished">Полное имя:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="458"/>
+        <source>Remove</source>
+        <translation type="unfinished">Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="727"/>
+        <source>Require mutual authentication</source>
+        <translation type="unfinished">Требовать взаимную аутентификацию</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="818"/>
+        <source>Resource:</source>
+        <translation type="unfinished">Ресурс:</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="742"/>
+        <source>SASL Security Level:</source>
+        <translation type="unfinished">Уровень безопасности SASL:</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="obsolete">&amp;Сохранить</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodify.ui" line="321"/>
+        <source>Select &amp;Key...</source>
+        <translation type="unfinished">Выбрать &amp;ключ...</translation>
     </message>
     <message>
         <location filename="../src/accountmodify.ui" line="571"/>
-        <source>Blocked Contacts</source>
-        <translation>Заблокированные контакты</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="612"/>
-        <source>Add</source>
-        <translation>Добавить</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="684"/>
-        <source>Advanced ...</source>
-        <translation>Настройка</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="904"/>
-        <source>Allow plaintext authentication:</source>
-        <translation>Аутентификация открытым текстом:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1130"/>
-        <source>STUN Host:</source>
-        <translation>STUN сервер:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1329"/>
-        <source>Alt+S</source>
-        <translation>Alt+S</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1165"/>
-        <source>Authenticate as:</source>
-        <translation>Авторизоваться как:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="210"/>
-        <source>Automatically connect after sleep</source>
-        <translation>Автоматически входить после спящего режима</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="203"/>
-        <source>Automatically connect on startup</source>
-        <translation>Автоматически входить в сеть при запуске</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="217"/>
-        <source>Automatically reconnect if disconnected</source>
-        <translation>Автоматически восстанавливать соединение</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="170"/>
-        <source>Change...</source>
-        <translation>Изменить...</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1319"/>
-        <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="752"/>
-        <source>Compress traffic (if possible)</source>
-        <translation>Сжимать трафик (если возможно)</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="698"/>
-        <source>Connection</source>
-        <translation>Соединение</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="736"/>
-        <source>Connection proxy:</source>
-        <translation>Прокси-сервер:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1116"/>
-        <source>Data Transfer Proxy:</source>
-        <translation>Прокси-сервер для передачи данных:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="251"/>
-        <source>Details</source>
-        <translation>Подробности</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="336"/>
-        <source>Edit Personal &amp;Details...</source>
-        <translation>&amp;Изменить личную информацию...</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="842"/>
-        <source>Encrypt connection:</source>
-        <translation>Шифровать соединение:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="120"/>
-        <source>Example: juliet@capulet.com</source>
-        <translation>Например: vika@jabber.ru</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="790"/>
-        <source>Host:</source>
-        <translation>Сервер:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="127"/>
-        <source>Jabber ID:</source>
-        <translation>Jabber ID:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="224"/>
-        <source>Log message history</source>
-        <translation>Вести историю сообщений</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="766"/>
-        <source>Manually Specify Server Host/Port:</source>
-        <translation>Вручную указать адрес сервера и порт:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1021"/>
-        <source>Misc.</source>
-        <translation>Другое</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="36"/>
-        <source>Name:</source>
-        <translation>Имя:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="348"/>
-        <source>OpenPGP</source>
-        <translation>OpenPGP</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="156"/>
-        <source>Password:</source>
-        <translation>Пароль:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="272"/>
-        <source>Personal Information</source>
-        <translation>Личная информация</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="395"/>
-        <source>placeholder2</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="800"/>
-        <location filename="../src/accountmodify.ui" line="1140"/>
-        <source>Port:</source>
-        <translation>Порт:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1068"/>
-        <source>Priority:</source>
-        <translation>Приоритет:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="473"/>
-        <source>Privacy</source>
-        <translation>Приватность</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="880"/>
-        <source>Probe legacy SSL port</source>
-        <translation>Использовать стандартный порт SSL</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="743"/>
-        <source>proxychooser</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1215"/>
-        <source>Realm:</source>
-        <translation>Полное имя:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="619"/>
-        <source>Remove</source>
-        <translation>Удалить</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="942"/>
-        <source>Require mutual authentication</source>
-        <translation>Требовать взаимную аутентификацию</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1051"/>
-        <source>Resource:</source>
-        <translation>Ресурс:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="966"/>
-        <source>SASL Security Level:</source>
-        <translation>Уровень безопасности SASL:</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="1326"/>
-        <source>&amp;Save</source>
-        <translation>&amp;Сохранить</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="437"/>
-        <source>Select &amp;Key...</source>
-        <translation>Выбрать &amp;ключ...</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodify.ui" line="759"/>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation>Отправлять &quot;keep-alive&quot; пакеты (для поддержания соединения)</translation>
+        <translation type="unfinished">Отправлять &quot;keep-alive&quot; пакеты (для поддержания соединения)</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="182"/>
+        <location filename="../src/accountmodify.ui" line="129"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="1027"/>
+        <location filename="../src/accountmodify.ui" line="803"/>
         <source>Use hostname as resource</source>
-        <translation>Использовать имя компьютера как ресурс</translation>
+        <translation type="unfinished">Использовать имя компьютера как ресурс</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="444"/>
+        <location filename="../src/accountmodify.ui" line="328"/>
         <source>Use None</source>
-        <translation>Не использовать</translation>
+        <translation type="unfinished">Не использовать</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="1192"/>
+        <location filename="../src/accountmodify.ui" line="941"/>
         <source>User:</source>
-        <translation>Пользователь:</translation>
+        <translation type="unfinished">Пользователь:</translation>
     </message>
     <message>
-        <location filename="../src/accountmodify.ui" line="661"/>
+        <location filename="../src/accountmodify.ui" line="491"/>
         <source>You are using advanced settings. This list may not be accurate.</source>
-        <translation>Вы используете списки приватности. Эти списки могут быть не совсем корректны.</translation>
+        <translation type="unfinished">Вы используете списки приватности. Эти списки могут быть не совсем корректны.</translation>
     </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="472"/>
+        <location filename="../src/accountmodifydlg.cpp" line="471"/>
         <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;Jabber ID&lt;/i&gt; должен быть указан в формате &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="469"/>
+        <location filename="../src/accountmodifydlg.cpp" line="468"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Имя пользователя&lt;/i&gt; указано неправильно.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="247"/>
+        <location filename="../src/accountmodifydlg.cpp" line="246"/>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;У вас может быть несколько клиентов, подключённых к серверу Jabber и использующих один аккаунт. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент Jabber на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться тем же аккаунтом при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;ж</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="105"/>
-        <location filename="../src/accountmodifydlg.cpp" line="112"/>
+        <location filename="../src/accountmodifydlg.cpp" line="104"/>
+        <location filename="../src/accountmodifydlg.cpp" line="111"/>
         <source>Always</source>
         <translation>Всегда</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="203"/>
+        <location filename="../src/accountmodifydlg.cpp" line="202"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Автоматически регистрироваться в сети при запуске, используя этот аккаунт. Полезно, если Psi запускается самостоятельно при обнаружении соединения с Интернетом.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="162"/>
+        <location filename="../src/accountmodifydlg.cpp" line="161"/>
         <source>Baseline</source>
         <translation>Базовый</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="555"/>
+        <location filename="../src/accountmodifydlg.cpp" line="538"/>
+        <source>Reconnect &amp;Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodifydlg.cpp" line="539"/>
+        <source>Reconnect &amp;Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/accountmodifydlg.cpp" line="568"/>
         <source>Block contact</source>
         <translation>Заблокировать контакт</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="403"/>
+        <location filename="../src/accountmodifydlg.cpp" line="402"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Невозможно включить шифрование SSL/TLS. Модуль не найден.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="230"/>
+        <location filename="../src/accountmodifydlg.cpp" line="229"/>
         <source>Check this option to use a compressed connection to the Jabber server, if the server supports it.</source>
         <translation>Включите эту опцию, если вам нужно сжатие передачи данных и если ваш Jabber сервер это поддерживает.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="224"/>
+        <location filename="../src/accountmodifydlg.cpp" line="223"/>
         <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QCA-OpenSSL plugin installed.  For more information, check the Psi homepage.</source>
         <translation>Включите эту опцию для использования зашифрованного SSL соединения к Jabber серверу.  Вы можете использовать эту опцию если ваш сервер это поддерживает и у вас установлен модуль QCA-OpenSSL.  Для дополнительной информации посетите домашнюю страничку проекта Psi.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="555"/>
+        <location filename="../src/accountmodifydlg.cpp" line="568"/>
         <source>Enter the Jabber ID of the contact to block:</source>
         <translation>Введите Jabber ID контакта для блокировки:</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="395"/>
-        <location filename="../src/accountmodifydlg.cpp" line="469"/>
-        <location filename="../src/accountmodifydlg.cpp" line="472"/>
+        <location filename="../src/accountmodifydlg.cpp" line="394"/>
+        <location filename="../src/accountmodifydlg.cpp" line="468"/>
+        <location filename="../src/accountmodifydlg.cpp" line="471"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="163"/>
+        <location filename="../src/accountmodifydlg.cpp" line="162"/>
         <source>High</source>
         <translation>Высокий</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="164"/>
+        <location filename="../src/accountmodifydlg.cpp" line="163"/>
         <source>Highest</source>
         <translation>Высочайший</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="161"/>
+        <location filename="../src/accountmodifydlg.cpp" line="160"/>
         <source>Integrity</source>
         <translation>Целостность</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="214"/>
+        <location filename="../src/accountmodifydlg.cpp" line="213"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Хранить историю сообщений. Не включайте эту опцию, если хотите сохранить свободное место на жестком диске или если хотите обеспечить наибольшую безопасность.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="108"/>
+        <location filename="../src/accountmodifydlg.cpp" line="107"/>
         <source>Legacy SSL</source>
         <translation>Традиционный SSL</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="395"/>
+        <location filename="../src/accountmodifydlg.cpp" line="394"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Традиционный SSL доступен только в комбинации с ручным выставлением адреса сервера и порта.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="207"/>
+        <location filename="../src/accountmodifydlg.cpp" line="206"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="210"/>
+        <location filename="../src/accountmodifydlg.cpp" line="209"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Восстанавливать соединение при его разрыве. Полезно, когда соединение нестабильно и вам часто приходится подключаться снова.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="107"/>
-        <location filename="../src/accountmodifydlg.cpp" line="114"/>
+        <location filename="../src/accountmodifydlg.cpp" line="106"/>
+        <location filename="../src/accountmodifydlg.cpp" line="113"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="365"/>
+        <location filename="../src/accountmodifydlg.cpp" line="364"/>
         <source>No Key Selected</source>
         <translation>Ключ не выбран</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="160"/>
+        <location filename="../src/accountmodifydlg.cpp" line="159"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="196"/>
+        <location filename="../src/accountmodifydlg.cpp" line="195"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передаётся в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передаётся в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="113"/>
+        <location filename="../src/accountmodifydlg.cpp" line="112"/>
         <source>Over encrypted connection</source>
         <translation>Если соединение шифруется</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="587"/>
+        <location filename="../src/accountmodifydlg.cpp" line="600"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Получение списка заблокированных контактов...</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="427"/>
+        <location filename="../src/accountmodifydlg.cpp" line="426"/>
         <source>Secret Key</source>
         <translation>Приватный ключ</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="218"/>
+        <location filename="../src/accountmodifydlg.cpp" line="217"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определённого периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="403"/>
+        <location filename="../src/accountmodifydlg.cpp" line="402"/>
         <source>SSL error</source>
         <translation>Ошибка SSL</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../src/accountmodifydlg.cpp" line="536"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Этот аккаунт сейчас активен, поэтому некоторые изменения не вступят в силу, пока вы не перерегистрируетесь в сети.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="243"/>
+        <location filename="../src/accountmodifydlg.cpp" line="242"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
         <translation>Эта опция устанавливает имя пользователя (и полное имя), которое вам нужно для аутентификации на сервере. Это устанавливает JabberID, под которым вы будете входить на сервер.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="233"/>
+        <location filename="../src/accountmodifydlg.cpp" line="232"/>
         <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>Используйте эту опцию для указания имени сервера Jabber вручную, если оно отличается от имени сервера, с которым устанавливается соединение. Это полезно, если вы подключаетесь через прокси-сервер на вашем компьютере (например, если вы подключаетесь к серверу localhost), а аккаунт зарегистрирован на внешнем сервере.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="267"/>
+        <location filename="../src/accountmodifydlg.cpp" line="266"/>
         <source>Username:</source>
         <translation>Имя пользователя:</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../src/accountmodifydlg.cpp" line="535"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="106"/>
+        <location filename="../src/accountmodifydlg.cpp" line="105"/>
         <source>When available</source>
         <translation>Если возможно</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="596"/>
+        <location filename="../src/accountmodifydlg.cpp" line="609"/>
         <source>You are not connected.</source>
         <translation>Вы не присоединены к серверу.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="239"/>
+        <location filename="../src/accountmodifydlg.cpp" line="238"/>
         <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>У вас может быть несколько клиентов, подключённых к серверу Jabber и использующих один аккаунт. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
     </message>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="625"/>
+        <location filename="../src/accountmodifydlg.cpp" line="638"/>
         <source>Your server does not support blocking.</source>
         <translation>Ваш сервер не поддерживает блокировку контактов.</translation>
     </message>
@@ -814,72 +831,72 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountreg.ui" line="276"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation type="unfinished">&amp;Отмена</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="86"/>
         <source>Connection settings</source>
-        <translation>Настройки соединения</translation>
+        <translation type="unfinished">Настройки соединения</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="156"/>
         <source>Encrypt connection:</source>
-        <translation>Шифровать соединение:</translation>
+        <translation type="unfinished">Шифровать соединение:</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="76"/>
         <source>Example: capulet.com</source>
-        <translation>Например: jabber.ru</translation>
+        <translation type="unfinished">Например: jabber.ru</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="113"/>
         <source>Host:</source>
-        <translation>Сервер:</translation>
+        <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="98"/>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>Вручную указать адрес сервера и порт:</translation>
+        <translation type="unfinished">Вручную указать адрес сервера и порт:</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="283"/>
         <source>&amp;Next</source>
-        <translation>&amp;Далее</translation>
+        <translation type="unfinished">&amp;Далее</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="50"/>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation>Пожалуйста, введите имя сервера, на котором вам надо зарегистрироваться:</translation>
+        <translation type="unfinished">Пожалуйста, введите имя сервера, на котором вам надо зарегистрироваться:</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="123"/>
         <source>Port:</source>
-        <translation>Порт:</translation>
+        <translation type="unfinished">Порт:</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="184"/>
         <source>Probe legacy SSL port</source>
-        <translation>Использовать стандартный порт SSL</translation>
+        <translation type="unfinished">Использовать стандартный порт SSL</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="199"/>
         <source>Proxy:</source>
-        <translation>Прокси-сервер:</translation>
+        <translation type="unfinished">Прокси-сервер:</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="206"/>
         <source>proxychooser</source>
-        <translation>proxychooser</translation>
+        <translation type="unfinished">proxychooser</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="13"/>
         <source>Register Account</source>
-        <translation>Регистрация аккаунта</translation>
+        <translation type="unfinished">Регистрация аккаунта</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="38"/>
         <source>Server</source>
-        <translation>Сервер</translation>
+        <translation type="unfinished">Сервер</translation>
     </message>
 </context>
 <context>
@@ -890,15 +907,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Всегда</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="111"/>
+        <location filename="../src/accountregdlg.cpp" line="110"/>
         <source>Are you sure you want to cancel the registration?</source>
         <translation>Вы уверены, что хотите прервать регистрацию?</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="125"/>
-        <location filename="../src/accountregdlg.cpp" line="197"/>
-        <location filename="../src/accountregdlg.cpp" line="284"/>
-        <location filename="../src/accountregdlg.cpp" line="302"/>
+        <location filename="../src/accountregdlg.cpp" line="124"/>
+        <location filename="../src/accountregdlg.cpp" line="196"/>
+        <location filename="../src/accountregdlg.cpp" line="283"/>
+        <location filename="../src/accountregdlg.cpp" line="301"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -908,54 +925,54 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Традиционный SSL</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="125"/>
+        <location filename="../src/accountregdlg.cpp" line="124"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Традиционный SSL доступен только в комбинации с указанным вручную адресом сервера и портом.</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="111"/>
+        <location filename="../src/accountregdlg.cpp" line="110"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="276"/>
+        <location filename="../src/accountregdlg.cpp" line="275"/>
         <source>Please provide the following information:</source>
         <translation>Укажите следующую информацию:</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="175"/>
+        <location filename="../src/accountregdlg.cpp" line="174"/>
         <source>Reason: </source>
         <translation>Причина: </translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="134"/>
+        <location filename="../src/accountregdlg.cpp" line="133"/>
         <source>SSL error</source>
         <translation>Ошибка SSL</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="294"/>
+        <location filename="../src/accountregdlg.cpp" line="293"/>
         <source>Success</source>
         <translation>Регистрация завершена</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="302"/>
+        <location filename="../src/accountregdlg.cpp" line="301"/>
         <source>There was an error registering the account.
 Reason: %1</source>
         <translation>При регистрации произошла ошибка.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="173"/>
+        <location filename="../src/accountregdlg.cpp" line="172"/>
         <source>There was an error retrieving the server list</source>
         <translation>Ошибка получения списка серверов</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="284"/>
+        <location filename="../src/accountregdlg.cpp" line="283"/>
         <source>This server does not support registration</source>
         <translation>Сервер не поддерживает создание аккаунтов</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="111"/>
+        <location filename="../src/accountregdlg.cpp" line="110"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -965,22 +982,22 @@ Reason: %1</source>
         <translation>Если доступно</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="111"/>
+        <location filename="../src/accountregdlg.cpp" line="110"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="197"/>
+        <location filename="../src/accountregdlg.cpp" line="196"/>
         <source>You have entered an invalid server name</source>
         <translation>Вы ввели неправильное имя сервера</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="294"/>
+        <location filename="../src/accountregdlg.cpp" line="293"/>
         <source>You have succesfully registered your account with Jabber ID &apos;%1&apos;</source>
         <translation>Вы успешно зарегистрировали аккаунт с Jabber ID &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="134"/>
+        <location filename="../src/accountregdlg.cpp" line="133"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
         <translation>Невозможно включить шифрование SSL/TLS. Модуль QCA2 не найден.</translation>
     </message>
@@ -988,99 +1005,101 @@ Reason: %1</source>
 <context>
     <name>AccountRemove</name>
     <message>
-        <location filename="../src/accountremove.ui" line="148"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/accountremove.ui" line="62"/>
+        <location filename="../src/accountremove.ui" line="42"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
-        <location filename="../src/accountremove.ui" line="158"/>
         <source>psi/remove</source>
-        <translation>psi/remove</translation>
+        <translation type="obsolete">psi/remove</translation>
     </message>
     <message>
-        <location filename="../src/accountremove.ui" line="155"/>
         <source>&amp;Remove</source>
-        <translation>&amp;Удалить</translation>
+        <translation type="obsolete">&amp;Удалить</translation>
     </message>
     <message>
-        <location filename="../src/accountremove.ui" line="16"/>
-        <location filename="../src/accountremove.ui" line="28"/>
+        <location filename="../src/accountremove.ui" line="14"/>
+        <location filename="../src/accountremove.ui" line="20"/>
         <source>Remove Account</source>
-        <translation>Удалить аккаунт</translation>
+        <translation type="unfinished">Удалить аккаунт</translation>
     </message>
     <message>
-        <location filename="../src/accountremove.ui" line="47"/>
+        <location filename="../src/accountremove.ui" line="33"/>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>Удалить аккаунт с сервера.</translation>
+        <translation type="unfinished">Удалить аккаунт с сервера.</translation>
     </message>
     <message>
-        <location filename="../src/accountremove.ui" line="40"/>
+        <location filename="../src/accountremove.ui" line="26"/>
         <source>Remove account from Psi only.</source>
-        <translation>Удалить аккаунт только из Psi.</translation>
+        <translation type="unfinished">Удалить аккаунт только из Psi.</translation>
     </message>
 </context>
 <context>
     <name>AccountRemoveDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="134"/>
+        <location filename="../src/accountmanagedlg.cpp" line="141"/>
         <source>Are you sure you want to cancel the unregistration?</source>
         <translation>Прервать удаление аккаунта?</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="166"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
         <translation>Удалить аккаунт &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="160"/>
-        <location filename="../src/accountmanagedlg.cpp" line="218"/>
+        <location filename="../src/accountmanagedlg.cpp" line="167"/>
+        <location filename="../src/accountmanagedlg.cpp" line="225"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="134"/>
-        <location filename="../src/accountmanagedlg.cpp" line="166"/>
+        <location filename="../src/accountmanagedlg.cpp" line="105"/>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="160"/>
+        <location filename="../src/accountmanagedlg.cpp" line="167"/>
         <source>Password does not match account.  Please try again.</source>
         <translation>Введённый пароль не совпадает с паролем аккаунта. Попробуйте ещё раз.</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="211"/>
-        <location filename="../src/accountmanagedlg.cpp" line="226"/>
+        <location filename="../src/accountmanagedlg.cpp" line="218"/>
+        <location filename="../src/accountmanagedlg.cpp" line="233"/>
         <source>Success</source>
         <translation>Удаление завершено</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="211"/>
-        <location filename="../src/accountmanagedlg.cpp" line="226"/>
+        <location filename="../src/accountmanagedlg.cpp" line="218"/>
+        <location filename="../src/accountmanagedlg.cpp" line="233"/>
         <source>The account was unregistered successfully.</source>
         <translation>Аккаунт был успешно удалён.</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="218"/>
+        <location filename="../src/accountmanagedlg.cpp" line="225"/>
         <source>There was an error unregistering the account.
 Reason: %1</source>
         <translation>При удалении аккаунта произошла ошибка.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="134"/>
-        <location filename="../src/accountmanagedlg.cpp" line="166"/>
+        <location filename="../src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="134"/>
-        <location filename="../src/accountmanagedlg.cpp" line="166"/>
+        <location filename="../src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -1088,8 +1107,8 @@ Reason: %1</source>
 <context>
     <name>ActiveProfiles</name>
     <message>
-        <location filename="../src/activeprofiles_dbus.cpp" line="220"/>
-        <location filename="../src/activeprofiles_win.cpp" line="280"/>
+        <location filename="../src/activeprofiles_dbus.cpp" line="230"/>
+        <location filename="../src/activeprofiles_win.cpp" line="310"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
     </message>
@@ -1099,32 +1118,32 @@ Reason: %1</source>
     <message>
         <location filename="../src/addurl.ui" line="16"/>
         <source>Add URL</source>
-        <translation>Добавление URL</translation>
+        <translation type="unfinished">Добавление URL</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="105"/>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="unfinished">Alt+O</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="95"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="unfinished">&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="46"/>
         <source>Description:</source>
-        <translation>Описание:</translation>
+        <translation type="unfinished">Описание:</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="102"/>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation type="unfinished">&amp;ОК</translation>
     </message>
     <message>
         <location filename="../src/addurl.ui" line="39"/>
         <source>URL:</source>
-        <translation>URL:</translation>
+        <translation type="unfinished">URL:</translation>
     </message>
 </context>
 <context>
@@ -1135,7 +1154,7 @@ Reason: %1</source>
 &lt;br&gt;
 To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
 &lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Чтобы добавить Jabber-контакт, просто впишите его Jabber ID (дополнительно можно указать ник и группу) и нажмите кнопку &lt;i&gt;Добавить&lt;/i&gt;.&lt;br&gt;
+        <translation type="unfinished">&lt;qt&gt;Чтобы добавить Jabber-контакт, просто впишите его Jabber ID (дополнительно можно указать ник и группу) и нажмите кнопку &lt;i&gt;Добавить&lt;/i&gt;.&lt;br&gt;
 &lt;br&gt;
 Чтобы добавить контакт не из сети Jabber, убедитесь, что вы зарегистрировались в соответствующем сервисе  (см. Меню - Обзор сервисов), затем выберите нужный сервис в списке вверху. Следуйте инструкциям &lt;i&gt;Транслятора Service ID&lt;/i&gt;, затем нажмите на кнопку &lt;i&gt;Получить Jabber ID&lt;/i&gt; для получения Jabber ID в правильном виде и нажмите &lt;i&gt;Добавить&lt;/i&gt;.&lt;br&gt;
 &lt;/qt&gt;</translation>
@@ -1143,87 +1162,87 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     <message>
         <location filename="../src/adduser.ui" line="196"/>
         <source>Group:</source>
-        <translation>Группа:</translation>
+        <translation type="unfinished">Группа:</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="223"/>
         <source>Nickname (optional):</source>
-        <translation>Ник:</translation>
+        <translation type="unfinished">Ник:</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="230"/>
         <source>Jabber ID:</source>
-        <translation>Jabber ID:</translation>
+        <translation type="unfinished">Jabber ID:</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="317"/>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
+        <translation type="unfinished">&amp;Добавить</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="320"/>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="310"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="unfinished">&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="269"/>
         <source>Close window after adding</source>
-        <translation>Закрыть окно после добавления</translation>
+        <translation type="unfinished">Закрыть окно после добавления</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="153"/>
         <source>Get Jabber ID</source>
-        <translation>Получить Jabber ID</translation>
+        <translation type="unfinished">Получить Jabber ID</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="88"/>
         <source>Jabber</source>
-        <translation>Jabber</translation>
+        <translation type="unfinished">Jabber</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="135"/>
         <source>No description</source>
-        <translation>Нет описания</translation>
+        <translation type="unfinished">Нет описания</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="326"/>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation type="unfinished">psi/addContact</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="187"/>
         <source>psi/vCard</source>
-        <translation>psi/vCard</translation>
+        <translation type="unfinished">psi/vCard</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="246"/>
         <source>Request authorization when adding</source>
-        <translation>Запросить подписку</translation>
+        <translation type="unfinished">Запросить подписку</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="214"/>
         <source>Resolve</source>
-        <translation>Получить</translation>
+        <translation type="unfinished">Получить</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="117"/>
         <source>Service ID Translation</source>
-        <translation>Транслятор Service ID</translation>
+        <translation type="unfinished">Транслятор Service ID</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="80"/>
         <source>Service:</source>
-        <translation>Сервис:</translation>
+        <translation type="unfinished">Сервис:</translation>
     </message>
     <message>
         <location filename="../src/adduser.ui" line="16"/>
         <source>Add Contact</source>
-        <translation>Добавление контакта</translation>
+        <translation type="unfinished">Добавление контакта</translation>
     </message>
 </context>
 <context>
@@ -1285,27 +1304,26 @@ Make sure you enter a fully qualified Jabber ID.</source>
 <context>
     <name>AttachView</name>
     <message>
-        <location filename="../src/eventdlg.cpp" line="336"/>
         <source>Attachments</source>
-        <translation>Вложения</translation>
+        <translation type="obsolete">Вложения</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="373"/>
+        <location filename="../src/eventdlg.cpp" line="381"/>
         <source>Copy location</source>
         <translation>Скопировать адрес</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="372"/>
+        <location filename="../src/eventdlg.cpp" line="380"/>
         <source>Go to &amp;URL...</source>
         <translation>Открыть &amp;URL...</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="376"/>
+        <location filename="../src/eventdlg.cpp" line="384"/>
         <source>Join &amp;Groupchat...</source>
         <translation>Войти в &amp;конференцию...</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="378"/>
+        <location filename="../src/eventdlg.cpp" line="387"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
@@ -1391,32 +1409,32 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="95"/>
         <source>Auto-join</source>
-        <translation>Авто-вход</translation>
+        <translation type="unfinished">Авто-вход</translation>
     </message>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="39"/>
         <source>Host:</source>
-        <translation>Сервер:</translation>
+        <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="13"/>
         <source>Manage Bookmarks</source>
-        <translation>Управление закладками</translation>
+        <translation type="unfinished">Управление закладками</translation>
     </message>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="65"/>
         <source>Nickname:</source>
-        <translation>Ник:</translation>
+        <translation type="unfinished">Ник:</translation>
     </message>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="78"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
         <location filename="../src/bookmarkmanage.ui" line="52"/>
         <source>Room:</source>
-        <translation>Комната:</translation>
+        <translation type="unfinished">Комната:</translation>
     </message>
 </context>
 <context>
@@ -1564,32 +1582,32 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="13"/>
         <source>Certificate Information</source>
-        <translation>Информация о сертификате</translation>
+        <translation type="unfinished">Информация о сертификате</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="41"/>
         <source>Certificate Validation:</source>
-        <translation>Проверка сертификата:</translation>
+        <translation type="unfinished">Проверка сертификата:</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="55"/>
         <source>Valid From:</source>
-        <translation>Действителен от:</translation>
+        <translation type="unfinished">Действителен от:</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="69"/>
         <source>Valid Until:</source>
-        <translation>Действителен до:</translation>
+        <translation type="unfinished">Действителен до:</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="83"/>
         <source>Serial Number:</source>
-        <translation>Серийный номер:</translation>
+        <translation type="unfinished">Серийный номер:</translation>
     </message>
     <message>
         <location filename="../src/Certificates/CertificateDisplay.ui" line="167"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="unfinished">Закрыть</translation>
     </message>
 </context>
 <context>
@@ -1668,80 +1686,77 @@ Make sure you enter a fully qualified Jabber ID.</source>
 <context>
     <name>ChangePassword</name>
     <message>
-        <location filename="../src/changepw.ui" line="137"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Применить</translation>
+        <translation type="obsolete">&amp;Применить</translation>
     </message>
     <message>
-        <location filename="../src/changepw.ui" line="16"/>
+        <location filename="../src/changepw.ui" line="14"/>
         <source>Change Password</source>
-        <translation>Смена пароля</translation>
+        <translation type="unfinished">Смена пароля</translation>
     </message>
     <message>
-        <location filename="../src/changepw.ui" line="130"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/changepw.ui" line="50"/>
+        <location filename="../src/changepw.ui" line="36"/>
         <source>Confirm new password:</source>
-        <translation>Новый пароль ещё раз:</translation>
+        <translation type="unfinished">Новый пароль ещё раз:</translation>
+    </message>
+    <message>
+        <location filename="../src/changepw.ui" line="43"/>
+        <source>Current password:</source>
+        <translation type="unfinished">Текущий пароль:</translation>
     </message>
     <message>
         <location filename="../src/changepw.ui" line="57"/>
-        <source>Current password:</source>
-        <translation>Текущий пароль:</translation>
-    </message>
-    <message>
-        <location filename="../src/changepw.ui" line="71"/>
         <source>New password:</source>
-        <translation>Новый пароль:</translation>
+        <translation type="unfinished">Новый пароль:</translation>
     </message>
     <message>
-        <location filename="../src/changepw.ui" line="140"/>
         <source>psi/register</source>
-        <translation>psi/register</translation>
+        <translation type="obsolete">psi/register</translation>
     </message>
 </context>
 <context>
     <name>ChangePasswordDlg</name>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="76"/>
-        <location filename="../src/changepwdlg.cpp" line="81"/>
-        <location filename="../src/changepwdlg.cpp" line="88"/>
-        <location filename="../src/changepwdlg.cpp" line="129"/>
+        <location filename="../src/changepwdlg.cpp" line="79"/>
+        <location filename="../src/changepwdlg.cpp" line="84"/>
+        <location filename="../src/changepwdlg.cpp" line="91"/>
+        <location filename="../src/changepwdlg.cpp" line="132"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="88"/>
+        <location filename="../src/changepwdlg.cpp" line="91"/>
         <source>New password and confirmation do not match.  Please enter them again.</source>
         <translation>Новый пароль и его копия не совпадают. Введите их ещё раз.</translation>
     </message>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="121"/>
+        <location filename="../src/changepwdlg.cpp" line="124"/>
         <source>Success</source>
         <translation>Успешно</translation>
     </message>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="121"/>
+        <location filename="../src/changepwdlg.cpp" line="124"/>
         <source>Successfully changed password.</source>
         <translation>Пароль был успешно изменён.</translation>
     </message>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="129"/>
+        <location filename="../src/changepwdlg.cpp" line="132"/>
         <source>There was an error when trying to set the password.
 Reason: %1</source>
         <translation>При попытке смены пароля произошла ошибка.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="81"/>
+        <location filename="../src/changepwdlg.cpp" line="84"/>
         <source>You entered your old password incorrectly.  Try again.</source>
         <translation>Старый пароль введён неправильно. Попробуйте ещё раз.</translation>
     </message>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="76"/>
+        <location filename="../src/changepwdlg.cpp" line="79"/>
         <source>You must fill out the fields properly before you can proceed.</source>
         <translation>Перед тем, как продолжить, необходимо правильно заполнить поля.</translation>
     </message>
@@ -1749,37 +1764,37 @@ Reason: %1</source>
 <context>
     <name>ChatDlg</name>
     <message>
-        <location filename="../src/chatdlg.cpp" line="613"/>
+        <location filename="../src/chatdlg.cpp" line="630"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (печатает...)</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="616"/>
+        <location filename="../src/chatdlg.cpp" line="633"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (неактивный)</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="951"/>
+        <location filename="../src/chatdlg.cpp" line="968"/>
         <source>%1 ended the conversation</source>
         <translation>%1 закончил разговор</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="454"/>
+        <location filename="../src/chatdlg.cpp" line="471"/>
         <source>%1 is %2</source>
         <translation>%1 - %2</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="658"/>
+        <location filename="../src/chatdlg.cpp" line="675"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Шифрование было отключено другой стороной. Отправить это сообщение без шифрования?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="115"/>
         <source>0</source>
-        <translation>0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="248"/>
+        <location filename="../src/chatdlg.cpp" line="249"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Получено новое сообщение.
@@ -1788,66 +1803,66 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/chatdlg.ui" line="133"/>
         <source>AccountLabel</source>
-        <translation>AccountLabel</translation>
+        <translation type="unfinished">AccountLabel</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="175"/>
         <source>Actions</source>
-        <translation>Действия</translation>
+        <translation type="unfinished">Действия</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="304"/>
         <source>Avatar</source>
-        <translation>Аватар</translation>
+        <translation type="unfinished">Аватар</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="251"/>
+        <location filename="../src/chatdlg.cpp" line="252"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="803"/>
+        <location filename="../src/chatdlg.cpp" line="820"/>
         <source>Encryption Disabled</source>
         <translation>Шифрование выключено</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="797"/>
+        <location filename="../src/chatdlg.cpp" line="814"/>
         <source>Encryption Enabled</source>
         <translation>Шифрование включено</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="13"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="106"/>
         <source>Message length</source>
-        <translation>Длина сообщения</translation>
+        <translation type="unfinished">Длина сообщения</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="661"/>
+        <location filename="../src/chatdlg.cpp" line="678"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="156"/>
         <source>Select icon</source>
-        <translation>Выбрать смайл</translation>
+        <translation type="unfinished">Выбрать смайл</translation>
     </message>
     <message>
         <location filename="../src/chatdlg.ui" line="140"/>
         <source>Toggle encryption</source>
-        <translation>Шифрование</translation>
+        <translation type="unfinished">Шифрование</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="247"/>
-        <location filename="../src/chatdlg.cpp" line="658"/>
+        <location filename="../src/chatdlg.cpp" line="248"/>
+        <location filename="../src/chatdlg.cpp" line="675"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.cpp" line="661"/>
+        <location filename="../src/chatdlg.cpp" line="678"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -2311,184 +2326,184 @@ Proceed?</source>
     <message>
         <location filename="../src/disco.ui" line="51"/>
         <source>&amp;Address:</source>
-        <translation>&amp;Адрес:</translation>
+        <translation type="unfinished">&amp;Адрес:</translation>
     </message>
     <message>
         <location filename="../src/disco.ui" line="125"/>
         <source>Auto-browse into objects</source>
-        <translation>Авто-просмотр элементов</translation>
+        <translation type="unfinished">Авто-просмотр элементов</translation>
     </message>
     <message>
         <location filename="../src/disco.ui" line="135"/>
         <source>Automatically get item information</source>
-        <translation>Автополучение информации об элементах</translation>
+        <translation type="unfinished">Автополучение информации об элементах</translation>
     </message>
     <message>
         <location filename="../src/disco.ui" line="113"/>
         <source>&amp;Browse</source>
-        <translation>&amp;Просмотр</translation>
-    </message>
-    <message>
-        <location filename="../src/disco.ui" line="182"/>
-        <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
-    </message>
-    <message>
-        <location filename="../src/disco.ui" line="76"/>
-        <source>&amp;Node:</source>
-        <translation>&amp;Узел:</translation>
-    </message>
-    <message>
-        <location filename="../src/disco.ui" line="16"/>
-        <source>Service Discovery</source>
-        <translation>Обзор сервисов</translation>
+        <translation type="unfinished">&amp;Просмотр</translation>
     </message>
     <message>
         <location filename="../src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
         <comment>Don&apos;t translate this string</comment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/disco.ui" line="182"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/disco.ui" line="76"/>
+        <source>&amp;Node:</source>
+        <translation type="unfinished">&amp;Узел:</translation>
+    </message>
+    <message>
+        <location filename="../src/disco.ui" line="16"/>
+        <source>Service Discovery</source>
+        <translation type="unfinished">Обзор сервисов</translation>
     </message>
 </context>
 <context>
     <name>DiscoDlg::Private</name>
     <message>
-        <location filename="../src/discodlg.cpp" line="1009"/>
+        <location filename="../src/discodlg.cpp" line="997"/>
         <source>&amp;Add to roster</source>
         <translation>&amp;Добавить в ростер</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1009"/>
+        <location filename="../src/discodlg.cpp" line="997"/>
         <source>Add to roster</source>
         <translation>Добавить в ростер</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="972"/>
+        <location filename="../src/discodlg.cpp" line="960"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="972"/>
+        <location filename="../src/discodlg.cpp" line="960"/>
         <source>Automatically determine protocol</source>
         <translation>Определять протокол автоматически</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="986"/>
+        <location filename="../src/discodlg.cpp" line="974"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="986"/>
+        <location filename="../src/discodlg.cpp" line="974"/>
         <source>&amp;Back</source>
         <translation>&amp;Назад</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="980"/>
+        <location filename="../src/discodlg.cpp" line="968"/>
         <source>&amp;Browse</source>
         <translation>&amp;Просмотр</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="980"/>
+        <location filename="../src/discodlg.cpp" line="968"/>
         <source>Browse</source>
         <translation>Просмотр</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="975"/>
+        <location filename="../src/discodlg.cpp" line="963"/>
         <source>Browse Agents</source>
         <translation>Обзор агентов (jabber:iq:agents)</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="974"/>
+        <location filename="../src/discodlg.cpp" line="962"/>
         <source>Browse Services</source>
         <translation>Обзор сервисов (jabber:iq:browse)</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1003"/>
+        <location filename="../src/discodlg.cpp" line="991"/>
         <source>Execute command</source>
         <translation>Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1003"/>
+        <location filename="../src/discodlg.cpp" line="991"/>
         <source>&amp;Execute command</source>
         <translation>&amp;Выполнить команду</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="988"/>
+        <location filename="../src/discodlg.cpp" line="976"/>
         <source>&amp;Forward</source>
         <translation>&amp;Вперёд</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="988"/>
+        <location filename="../src/discodlg.cpp" line="976"/>
         <source>Forward</source>
         <translation>Вперёд</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1000"/>
+        <location filename="../src/discodlg.cpp" line="988"/>
         <source>&amp;Join</source>
         <translation>&amp;Войти</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1000"/>
+        <location filename="../src/discodlg.cpp" line="988"/>
         <source>Join</source>
         <translation>Войти</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="982"/>
+        <location filename="../src/discodlg.cpp" line="970"/>
         <source>Refresh Item</source>
         <translation>Обновить элемент</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="982"/>
+        <location filename="../src/discodlg.cpp" line="970"/>
         <source>&amp;Refresh Item</source>
         <translation>&amp;Обновить элемент</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="994"/>
+        <location filename="../src/discodlg.cpp" line="982"/>
         <source>&amp;Register</source>
         <translation>За&amp;регистрироваться</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="994"/>
+        <location filename="../src/discodlg.cpp" line="982"/>
         <source>Register</source>
         <translation>Зарегистрироваться</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="997"/>
+        <location filename="../src/discodlg.cpp" line="985"/>
         <source>Search</source>
         <translation>Найти</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="997"/>
+        <location filename="../src/discodlg.cpp" line="985"/>
         <source>&amp;Search</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="973"/>
+        <location filename="../src/discodlg.cpp" line="961"/>
         <source>Service Discovery</source>
         <translation>Обзор сервисов</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1014"/>
+        <location filename="../src/discodlg.cpp" line="1002"/>
         <source>Service Discovery toolbar</source>
         <translation>Панель инструментов служб</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="984"/>
+        <location filename="../src/discodlg.cpp" line="972"/>
         <source>Stop</source>
         <translation>Остановить</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="984"/>
+        <location filename="../src/discodlg.cpp" line="972"/>
         <source>Sto&amp;p</source>
         <translation>&amp;Остановить</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1006"/>
+        <location filename="../src/discodlg.cpp" line="994"/>
         <source>vCard</source>
         <translation>vCard</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="1006"/>
+        <location filename="../src/discodlg.cpp" line="994"/>
         <source>&amp;vCard</source>
         <translation>&amp;vCard</translation>
     </message>
@@ -2496,35 +2511,35 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <location filename="../src/discodlg.cpp" line="438"/>
-        <location filename="../src/discodlg.cpp" line="500"/>
-        <location filename="../src/discodlg.cpp" line="564"/>
-        <location filename="../src/discodlg.cpp" line="685"/>
+        <location filename="../src/discodlg.cpp" line="430"/>
+        <location filename="../src/discodlg.cpp" line="492"/>
+        <location filename="../src/discodlg.cpp" line="556"/>
+        <location filename="../src/discodlg.cpp" line="686"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="539"/>
+        <location filename="../src/discodlg.cpp" line="531"/>
         <source>Jabber Service</source>
         <translation>Сервис Jabber</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="500"/>
+        <location filename="../src/discodlg.cpp" line="492"/>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ошибка просмотра элементов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="564"/>
+        <location filename="../src/discodlg.cpp" line="556"/>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ошибка получения списка агентов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="438"/>
+        <location filename="../src/discodlg.cpp" line="430"/>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ошибка получения элементов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="685"/>
+        <location filename="../src/discodlg.cpp" line="686"/>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ошибка получения информации об элементах для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
@@ -2532,56 +2547,89 @@ Proceed?</source>
 <context>
     <name>DiscoListView</name>
     <message>
-        <location filename="../src/discodlg.cpp" line="788"/>
+        <location filename="../src/discodlg.cpp" line="787"/>
         <source>Category</source>
         <translation>Категория</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="814"/>
+        <location filename="../src/discodlg.cpp" line="813"/>
         <source>Error:</source>
         <translation>Ошибка:</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="797"/>
+        <location filename="../src/discodlg.cpp" line="796"/>
         <source>Features:</source>
         <translation>Поддерживаемые функции:</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="779"/>
+        <location filename="../src/discodlg.cpp" line="778"/>
         <source>Identities:</source>
         <translation>Сущности:</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="723"/>
+        <location filename="../src/discodlg.cpp" line="724"/>
         <source>JID</source>
         <translation>JID</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="722"/>
+        <location filename="../src/discodlg.cpp" line="724"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
     <message>
         <location filename="../src/discodlg.cpp" line="724"/>
-        <location filename="../src/discodlg.cpp" line="770"/>
+        <location filename="../src/discodlg.cpp" line="769"/>
         <source>Node</source>
         <translation>Узел</translation>
     </message>
     <message>
-        <location filename="../src/discodlg.cpp" line="788"/>
+        <location filename="../src/discodlg.cpp" line="787"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
 </context>
 <context>
+    <name>Drawer</name>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1651"/>
+        <source>Error moving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1651"/>
+        <source>You cannot move this figure because the king is in check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1813"/>
+        <source>To castle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1814"/>
+        <source>Do you want to castle?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1814"/>
+        <source>Yes</source>
+        <translation type="unfinished">Да</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1814"/>
+        <source>No</source>
+        <translation type="unfinished">Нет</translation>
+    </message>
+</context>
+<context>
     <name>EDBFlatFile::File</name>
     <message>
-        <location filename="../src/eventdb.cpp" line="835"/>
+        <location filename="../src/eventdb.cpp" line="830"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Вы авторизованы.</translation>
     </message>
     <message>
-        <location filename="../src/eventdb.cpp" line="837"/>
+        <location filename="../src/eventdb.cpp" line="832"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша подписка была удалена!</translation>
     </message>
@@ -2589,182 +2637,182 @@ Proceed?</source>
 <context>
     <name>EventDlg</name>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1812"/>
+        <location filename="../src/eventdlg.cpp" line="1828"/>
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
 Если вы подтверждаете этот запрос, укажите идентификатор транзакции и нажмите кнопку Подтвердить. Иначе нажмите кнопку Отклонить.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1986"/>
+        <location filename="../src/eventdlg.cpp" line="2002"/>
         <source>%1 additions</source>
         <translation>Добавлено: %1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1994"/>
+        <location filename="../src/eventdlg.cpp" line="2010"/>
         <source>%1 deletions</source>
         <translation>Удалено: %1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="2002"/>
+        <location filename="../src/eventdlg.cpp" line="2018"/>
         <source>%1 modifications</source>
         <translation>Изменено: %1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="2008"/>
+        <location filename="../src/eventdlg.cpp" line="2024"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Этот пользователь запрашивает изменение вашего ростера (%1).</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1927"/>
+        <location filename="../src/eventdlg.cpp" line="1943"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Запрос подписки на присутствие.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1943"/>
+        <location filename="../src/eventdlg.cpp" line="1959"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Вы получили подписку.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1955"/>
+        <location filename="../src/eventdlg.cpp" line="1971"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша подписка была удалена!</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1988"/>
+        <location filename="../src/eventdlg.cpp" line="2004"/>
         <source>1 addition</source>
         <translation>Добавлено: 1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1996"/>
+        <location filename="../src/eventdlg.cpp" line="2012"/>
         <source>1 deletion</source>
         <translation>Удалено: 1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="2004"/>
+        <location filename="../src/eventdlg.cpp" line="2020"/>
         <source>1 modification</source>
         <translation>Изменено: 1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="796"/>
+        <location filename="../src/eventdlg.cpp" line="807"/>
         <source>Add URL</source>
         <translation>Добавить URL</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="929"/>
+        <location filename="../src/eventdlg.cpp" line="944"/>
         <source>&amp;Add/Auth</source>
         <translation>&amp;Разрешить</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="978"/>
+        <location filename="../src/eventdlg.cpp" line="993"/>
         <source>&amp;Cancel</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="942"/>
+        <location filename="../src/eventdlg.cpp" line="957"/>
         <source>&amp;Chat</source>
         <translation>&amp;Чат</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="748"/>
+        <location filename="../src/eventdlg.cpp" line="760"/>
         <source>Chat</source>
         <translation>Чат</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="904"/>
+        <location filename="../src/eventdlg.cpp" line="919"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="955"/>
+        <location filename="../src/eventdlg.cpp" line="970"/>
         <source>C&amp;onfirm</source>
         <translation>По&amp;дтвердить</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="923"/>
-        <location filename="../src/eventdlg.cpp" line="962"/>
+        <location filename="../src/eventdlg.cpp" line="938"/>
+        <location filename="../src/eventdlg.cpp" line="977"/>
         <source>&amp;Deny</source>
         <translation>От&amp;клонить</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="735"/>
+        <location filename="../src/eventdlg.cpp" line="747"/>
         <source>From:</source>
         <translation>От:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="694"/>
+        <location filename="../src/eventdlg.cpp" line="704"/>
         <source>Identity:</source>
         <translation>Аккаунт:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="802"/>
+        <location filename="../src/eventdlg.cpp" line="813"/>
         <source>Message history</source>
         <translation>История</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="775"/>
+        <location filename="../src/eventdlg.cpp" line="787"/>
         <source>Message length</source>
         <translation>Длина сообщения</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="911"/>
-        <location filename="../src/eventdlg.cpp" line="2045"/>
-        <location filename="../src/eventdlg.cpp" line="2058"/>
+        <location filename="../src/eventdlg.cpp" line="926"/>
+        <location filename="../src/eventdlg.cpp" line="2061"/>
+        <location filename="../src/eventdlg.cpp" line="2074"/>
         <source>&amp;Next</source>
         <translation>&amp;Следующее</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1448"/>
+        <location filename="../src/eventdlg.cpp" line="1464"/>
         <source>No recipients have been specified!</source>
         <translation>Не указаны получатели!</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="747"/>
+        <location filename="../src/eventdlg.cpp" line="759"/>
         <source>Normal</source>
         <translation>Обычное</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1638"/>
+        <location filename="../src/eventdlg.cpp" line="1654"/>
         <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
         <translation>Заполните все необходимые поля (отмеченные &apos;*&apos;).</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1442"/>
+        <location filename="../src/eventdlg.cpp" line="1458"/>
         <source>Please type in a message first.</source>
         <translation>Введите текст сообщения.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1583"/>
+        <location filename="../src/eventdlg.cpp" line="1599"/>
         <source>Please type in a transaction identifier first.</source>
         <translation>Введите идентификатор транзакции.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="917"/>
+        <location filename="../src/eventdlg.cpp" line="932"/>
         <source>&amp;Quote</source>
         <translation>&amp;Цитировать</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="948"/>
+        <location filename="../src/eventdlg.cpp" line="963"/>
         <source>&amp;Reply</source>
         <translation>&amp;Ответить</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="768"/>
+        <location filename="../src/eventdlg.cpp" line="780"/>
         <source>Select icon</source>
         <translation>Выбрать смайл</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="936"/>
+        <location filename="../src/eventdlg.cpp" line="951"/>
         <source>&amp;Send</source>
         <translation>&amp;Отправить</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1313"/>
+        <location filename="../src/eventdlg.cpp" line="1328"/>
         <source>Send Message</source>
         <translation>Отправить сообщение</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1806"/>
+        <location filename="../src/eventdlg.cpp" line="1822"/>
         <source>Someone (maybe you) has requested access to the following resource:
 URL: %1
 Method: %2
@@ -2775,38 +2823,38 @@ URL: %1
 </translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="818"/>
-        <location filename="../src/eventdlg.cpp" line="1863"/>
+        <location filename="../src/eventdlg.cpp" line="831"/>
+        <location filename="../src/eventdlg.cpp" line="1879"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="970"/>
+        <location filename="../src/eventdlg.cpp" line="985"/>
         <source>&amp;Submit</source>
         <translation>&amp;Отправить</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="752"/>
+        <location filename="../src/eventdlg.cpp" line="764"/>
         <source>Time:</source>
         <translation>Время:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="725"/>
+        <location filename="../src/eventdlg.cpp" line="737"/>
         <source>To:</source>
         <translation>Кому:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="785"/>
+        <location filename="../src/eventdlg.cpp" line="796"/>
         <source>Toggle encryption</source>
         <translation>Переключить шифрование</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="883"/>
+        <location filename="../src/eventdlg.cpp" line="897"/>
         <source>Transaction &amp;identifier:</source>
         <translation>&amp;Идентификатор транзакции:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1818"/>
+        <location filename="../src/eventdlg.cpp" line="1834"/>
         <source>Transaction identifier: %1
 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
@@ -2815,20 +2863,20 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 Если вы подтверждаете этот запрос, нажмите кнопку Подтвердить. Иначе нажмите кнопку Отклонить.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="744"/>
+        <location filename="../src/eventdlg.cpp" line="756"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="799"/>
+        <location filename="../src/eventdlg.cpp" line="810"/>
         <source>User info</source>
         <translation>vCard</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="1442"/>
-        <location filename="../src/eventdlg.cpp" line="1448"/>
-        <location filename="../src/eventdlg.cpp" line="1583"/>
-        <location filename="../src/eventdlg.cpp" line="1638"/>
+        <location filename="../src/eventdlg.cpp" line="1458"/>
+        <location filename="../src/eventdlg.cpp" line="1464"/>
+        <location filename="../src/eventdlg.cpp" line="1599"/>
+        <location filename="../src/eventdlg.cpp" line="1654"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -2836,7 +2884,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>EventNotifierAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="567"/>
+        <location filename="../src/mainwin_p.cpp" line="566"/>
         <source>&lt;Event notifier&gt;</source>
         <translation>&lt;Уведомление о событии&gt;</translation>
     </message>
@@ -2844,7 +2892,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>FancyPopup::Private</name>
     <message>
-        <location filename="../src/widgets/fancypopup.cpp" line="253"/>
+        <location filename="../src/widgets/fancypopup.cpp" line="258"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -2903,6 +2951,14 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
 </context>
 <context>
+    <name>FigureDialog</name>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1831"/>
+        <source>What figure should I set?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileEvent</name>
     <message>
         <location filename="../src/psievent.cpp" line="487"/>
@@ -2925,7 +2981,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>&amp;Принять</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="865"/>
+        <location filename="../src/filetransdlg.cpp" line="866"/>
         <source>Accepted!</source>
         <translation>Принято!</translation>
     </message>
@@ -2958,7 +3014,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="576"/>
-        <location filename="../src/filetransdlg.cpp" line="905"/>
+        <location filename="../src/filetransdlg.cpp" line="906"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
@@ -2968,13 +3024,13 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../src/filetransdlg.cpp" line="791"/>
         <location filename="../src/filetransdlg.cpp" line="797"/>
         <location filename="../src/filetransdlg.cpp" line="831"/>
-        <location filename="../src/filetransdlg.cpp" line="936"/>
-        <location filename="../src/filetransdlg.cpp" line="951"/>
+        <location filename="../src/filetransdlg.cpp" line="937"/>
+        <location filename="../src/filetransdlg.cpp" line="952"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="927"/>
+        <location filename="../src/filetransdlg.cpp" line="928"/>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
@@ -2987,12 +3043,12 @@ that outgoing TCP connections are allowed.</source>
 исходящие TCP-соединения разрешены.</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="935"/>
+        <location filename="../src/filetransdlg.cpp" line="936"/>
         <source>File I/O error</source>
         <translation>Ошибка ввода/вывода</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="911"/>
+        <location filename="../src/filetransdlg.cpp" line="912"/>
         <source>File was rejected by remote user.</source>
         <translation>Файл был отклонён другой стороной.</translation>
     </message>
@@ -3015,7 +3071,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="582"/>
         <location filename="../src/filetransdlg.cpp" line="674"/>
-        <location filename="../src/filetransdlg.cpp" line="906"/>
+        <location filename="../src/filetransdlg.cpp" line="907"/>
         <source>Ready</source>
         <translation> </translation>
     </message>
@@ -3075,12 +3131,12 @@ that outgoing TCP connections are allowed.</source>
         <translation>Время:</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="950"/>
+        <location filename="../src/filetransdlg.cpp" line="951"/>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Невозможно принять файл.  Возможно, отправитель отменил посылку.</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="920"/>
+        <location filename="../src/filetransdlg.cpp" line="921"/>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
@@ -3094,7 +3150,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
 данных в настройках вашего аккаунта.</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="914"/>
+        <location filename="../src/filetransdlg.cpp" line="915"/>
         <source>Unable to negotiate transfer.
 
 This can happen if the contact did not understand our request, or if the
@@ -3117,178 +3173,178 @@ contact is offline.</source>
 <context>
     <name>FileTrans</name>
     <message>
-        <location filename="../src/filetrans.ui" line="22"/>
-        <source>accountlabel</source>
-        <translation></translation>
-    </message>
-    <message>
         <location filename="../src/filetrans.ui" line="101"/>
         <source>Description:</source>
-        <translation>Описание:</translation>
+        <translation type="unfinished">Описание:</translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="61"/>
         <source>File:</source>
-        <translation>Файл:</translation>
+        <translation type="unfinished">Файл:</translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="16"/>
         <source>Form1</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/filetrans.ui" line="22"/>
+        <source>accountlabel</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="71"/>
         <source>psi/browse</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="85"/>
         <source>Size:</source>
-        <translation>Размер:</translation>
-    </message>
-    <message>
-        <location filename="../src/filetrans.ui" line="159"/>
-        <source>start</source>
-        <translation></translation>
+        <translation type="unfinished">Размер:</translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="152"/>
         <source>stop</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/filetrans.ui" line="159"/>
+        <source>start</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="34"/>
         <source>To:</source>
-        <translation>Кому:</translation>
+        <translation type="unfinished">Кому:</translation>
     </message>
 </context>
 <context>
     <name>FileTransDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1076"/>
+        <location filename="../src/filetransdlg.cpp" line="1077"/>
         <source>%1%2/s</source>
         <translation>%1%2/с</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1282"/>
+        <location filename="../src/filetransdlg.cpp" line="1283"/>
         <source>%1h%2m%3s</source>
         <translation>%1ч %2м %3с</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1080"/>
+        <location filename="../src/filetransdlg.cpp" line="1081"/>
         <source>%1h%2m%3s remaining</source>
         <translation>осталось %1ч %2м %3с</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1066"/>
-        <location filename="../src/filetransdlg.cpp" line="1290"/>
+        <location filename="../src/filetransdlg.cpp" line="1067"/>
+        <location filename="../src/filetransdlg.cpp" line="1291"/>
         <source>[Done]</source>
         <translation>[Завершено]</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1068"/>
+        <location filename="../src/filetransdlg.cpp" line="1069"/>
         <source>[Error: %1]</source>
         <translation>[Ошибка: %1]</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1073"/>
+        <location filename="../src/filetransdlg.cpp" line="1074"/>
         <source>[Stalled]</source>
         <translation>[Задерживается]</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1572"/>
+        <location filename="../src/filetransdlg.cpp" line="1575"/>
         <source>Clear &amp;Finished</source>
         <translation>О&amp;чистить завершённые</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1286"/>
+        <location filename="../src/filetransdlg.cpp" line="1287"/>
         <source>Download</source>
         <translation>Получение</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1251"/>
+        <location filename="../src/filetransdlg.cpp" line="1252"/>
         <source>File</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1721"/>
+        <location filename="../src/filetransdlg.cpp" line="1724"/>
         <source>File I/O error (%1)</source>
         <translation>Ошибка ввода/вывода (%1)</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1285"/>
+        <location filename="../src/filetransdlg.cpp" line="1286"/>
         <source>Filename</source>
         <translation>Имя файла</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1253"/>
+        <location filename="../src/filetransdlg.cpp" line="1254"/>
         <source>From</source>
         <translation>От</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1575"/>
+        <location filename="../src/filetransdlg.cpp" line="1578"/>
         <source>&amp;Hide</source>
         <translation>&amp;Скрыть</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="984"/>
+        <location filename="../src/filetransdlg.cpp" line="985"/>
         <source>N/A</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1287"/>
+        <location filename="../src/filetransdlg.cpp" line="1288"/>
         <source>Peer</source>
         <translation>Адресат</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1288"/>
+        <location filename="../src/filetransdlg.cpp" line="1289"/>
         <source>Size</source>
         <translation>Размер</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1265"/>
+        <location filename="../src/filetransdlg.cpp" line="1266"/>
         <source>Status</source>
         <translation>Состояние</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1295"/>
+        <location filename="../src/filetransdlg.cpp" line="1296"/>
         <source>Time remaining</source>
         <translation>Осталось времени</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1252"/>
+        <location filename="../src/filetransdlg.cpp" line="1253"/>
         <source>To</source>
         <translation>К</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1651"/>
+        <location filename="../src/filetransdlg.cpp" line="1654"/>
         <source>Transfer Error</source>
         <translation>Ошибка передачи</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1559"/>
+        <location filename="../src/filetransdlg.cpp" line="1560"/>
         <source>Transfer Manager</source>
         <translation>Менеджер передачи данных</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1651"/>
+        <location filename="../src/filetransdlg.cpp" line="1654"/>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
         <translation>Передача %1 с %2 не удалась.
 Причина: %3</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1293"/>
+        <location filename="../src/filetransdlg.cpp" line="1294"/>
         <source>Transferred</source>
         <translation>Передано</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1286"/>
+        <location filename="../src/filetransdlg.cpp" line="1287"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1286"/>
+        <location filename="../src/filetransdlg.cpp" line="1287"/>
         <source>Upload</source>
         <translation>Отправка</translation>
     </message>
@@ -3296,12 +3352,12 @@ Reason: %3</source>
 <context>
     <name>FileTransView</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1354"/>
+        <location filename="../src/filetransdlg.cpp" line="1355"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Отмена</translation>
     </message>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="1357"/>
+        <location filename="../src/filetransdlg.cpp" line="1358"/>
         <source>Cl&amp;ear</source>
         <translation>О&amp;чистить</translation>
     </message>
@@ -3395,7 +3451,7 @@ Reason: %3</source>
 <context>
     <name>FontLabel</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="54"/>
+        <location filename="../src/options/opt_appearance.cpp" line="58"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
@@ -3403,28 +3459,28 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1860"/>
+        <location filename="../src/groupchatdlg.cpp" line="1855"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1843"/>
-        <location filename="../src/groupchatdlg.cpp" line="1886"/>
+        <location filename="../src/groupchatdlg.cpp" line="1835"/>
+        <location filename="../src/groupchatdlg.cpp" line="1881"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1863"/>
+        <location filename="../src/groupchatdlg.cpp" line="1858"/>
         <source>&amp;Find</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1846"/>
+        <location filename="../src/groupchatdlg.cpp" line="1840"/>
         <source>Find:</source>
         <translation>Найти:</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1886"/>
+        <location filename="../src/groupchatdlg.cpp" line="1881"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Строка &quot;%1&quot; не найдена.</translation>
     </message>
@@ -3432,316 +3488,316 @@ Reason: %3</source>
 <context>
     <name>GCMainDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="863"/>
+        <location filename="../src/groupchatdlg.cpp" line="853"/>
         <source> by %1</source>
         <translation> %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="695"/>
+        <location filename="../src/groupchatdlg.cpp" line="685"/>
         <source>Clear Chat Window</source>
         <translation>Очистить окно чата</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="702"/>
+        <location filename="../src/groupchatdlg.cpp" line="692"/>
         <source>Open a Whiteboard</source>
         <translation>Открыть доску для рисования</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="702"/>
+        <location filename="../src/groupchatdlg.cpp" line="692"/>
         <source>Open a &amp;Whiteboard</source>
         <translation>Открыть &amp;доску для рисования</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="707"/>
+        <location filename="../src/groupchatdlg.cpp" line="697"/>
         <source>Select Icon</source>
         <translation>Выбрать смайл</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="712"/>
+        <location filename="../src/groupchatdlg.cpp" line="702"/>
         <source>Change Nickname...</source>
         <translation>Изменить ник...</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="716"/>
+        <location filename="../src/groupchatdlg.cpp" line="706"/>
         <source>Enter Command...</source>
         <translation>Введите команду...</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="867"/>
+        <location filename="../src/groupchatdlg.cpp" line="857"/>
         <source>
 Reason: %1</source>
         <translation>
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="933"/>
+        <location filename="../src/groupchatdlg.cpp" line="924"/>
         <source>Error: Cannot parse command: </source>
         <translation>Ошибка: Невозможно разобрать команду: </translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1311"/>
+        <location filename="../src/groupchatdlg.cpp" line="1303"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Вы хотите зайти в другое место &apos;%1&apos; ?</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1339"/>
+        <location filename="../src/groupchatdlg.cpp" line="1331"/>
         <source>%1 has been banned</source>
         <translation>%1 запретили входить в данную конференцию</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1340"/>
+        <location filename="../src/groupchatdlg.cpp" line="1332"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 запретили входить в данную конференцию %2</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1347"/>
+        <location filename="../src/groupchatdlg.cpp" line="1339"/>
         <source>%1 has been kicked</source>
         <translation>%1 выгнали из конференции</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1348"/>
+        <location filename="../src/groupchatdlg.cpp" line="1340"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 выгнали из конференции %2</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1355"/>
+        <location filename="../src/groupchatdlg.cpp" line="1347"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>Вы удалены из конференции в связи с изменением ранга: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1363"/>
+        <location filename="../src/groupchatdlg.cpp" line="1355"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>Вы удалены. Теперь конференция доступна только для членов: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1364"/>
+        <location filename="../src/groupchatdlg.cpp" line="1356"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 выгнан, т.к. конференция только для членов</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1365"/>
+        <location filename="../src/groupchatdlg.cpp" line="1357"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%2 выгнан из %1 , т.к. конференция только для членов</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1357"/>
+        <location filename="../src/groupchatdlg.cpp" line="1349"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 выгнан из %2 в связи с изменением ранга</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1356"/>
+        <location filename="../src/groupchatdlg.cpp" line="1348"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 выгнали из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1235"/>
+        <location filename="../src/groupchatdlg.cpp" line="1227"/>
         <source>%1 has joined the room</source>
         <translation>%1 заходит как</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1375"/>
+        <location filename="../src/groupchatdlg.cpp" line="1367"/>
         <source>%1 has left the room</source>
         <translation>%1 выходит из конференции</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1267"/>
-        <location filename="../src/groupchatdlg.cpp" line="1271"/>
-        <location filename="../src/groupchatdlg.cpp" line="1287"/>
+        <location filename="../src/groupchatdlg.cpp" line="1259"/>
+        <location filename="../src/groupchatdlg.cpp" line="1263"/>
+        <location filename="../src/groupchatdlg.cpp" line="1279"/>
         <source>%1 is now %2</source>
         <translation>%1 теперь %2</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1264"/>
+        <location filename="../src/groupchatdlg.cpp" line="1256"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 теперь %2 и %3</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1371"/>
+        <location filename="../src/groupchatdlg.cpp" line="1363"/>
         <source>%1 is now known as %2</source>
         <translation>%1 меняет ник на %2</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1243"/>
-        <location filename="../src/groupchatdlg.cpp" line="1247"/>
+        <location filename="../src/groupchatdlg.cpp" line="1235"/>
+        <location filename="../src/groupchatdlg.cpp" line="1239"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 заходит как %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1240"/>
+        <location filename="../src/groupchatdlg.cpp" line="1232"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 заходит как %1 и %2</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1029"/>
+        <location filename="../src/groupchatdlg.cpp" line="1020"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Очистить окно чата?
 Примечание: это никак не отразится на истории сообщений</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1337"/>
+        <location filename="../src/groupchatdlg.cpp" line="1329"/>
         <source>Banned</source>
         <translation>Блокирован</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="698"/>
+        <location filename="../src/groupchatdlg.cpp" line="688"/>
         <source>Configure Room</source>
         <translation>Настроить комнату</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="698"/>
+        <location filename="../src/groupchatdlg.cpp" line="688"/>
         <source>&amp;Configure Room</source>
         <translation>&amp;Настроить комнату</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1468"/>
+        <location filename="../src/groupchatdlg.cpp" line="1460"/>
         <source>Connected.</source>
         <translation>Соединение установлено.</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1073"/>
+        <location filename="../src/groupchatdlg.cpp" line="1064"/>
         <source>Disconnected.</source>
         <translation>Произошло отключение.</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1108"/>
+        <location filename="../src/groupchatdlg.cpp" line="1099"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Ошибка: вы уже участвуете или входите в эту конференцию!</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="681"/>
+        <location filename="../src/groupchatdlg.cpp" line="671"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="681"/>
+        <location filename="../src/groupchatdlg.cpp" line="671"/>
         <source>&amp;Find</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1418"/>
+        <location filename="../src/groupchatdlg.cpp" line="1410"/>
         <source>has set the topic to: %1</source>
         <translation>меняет тему на: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1345"/>
+        <location filename="../src/groupchatdlg.cpp" line="1337"/>
         <source>Kicked</source>
         <translation>Выкинут</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1223"/>
+        <location filename="../src/groupchatdlg.cpp" line="1215"/>
         <source>New room created</source>
         <translation>Новая комната создана</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1029"/>
+        <location filename="../src/groupchatdlg.cpp" line="1020"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1283"/>
+        <location filename="../src/groupchatdlg.cpp" line="1275"/>
         <source>online</source>
         <translation>доступен</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1197"/>
+        <location filename="../src/groupchatdlg.cpp" line="1189"/>
         <source>Please choose a different nickname</source>
         <translation>Укажите другой ник</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1305"/>
+        <location filename="../src/groupchatdlg.cpp" line="1297"/>
         <source>Reason: %1</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1101"/>
+        <location filename="../src/groupchatdlg.cpp" line="1092"/>
         <source>Reconnecting...</source>
         <translation>Восстановление соединения...</translation>
     </message>
     <message>
+        <location filename="../src/groupchatdlg.cpp" line="1345"/>
         <location filename="../src/groupchatdlg.cpp" line="1353"/>
-        <location filename="../src/groupchatdlg.cpp" line="1361"/>
         <source>Removed</source>
         <translation>Удалён</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1312"/>
-        <location filename="../src/groupchatdlg.cpp" line="1318"/>
+        <location filename="../src/groupchatdlg.cpp" line="1304"/>
+        <location filename="../src/groupchatdlg.cpp" line="1310"/>
         <source>Room Destroyed</source>
         <translation>Комната уничтожена</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1421"/>
+        <location filename="../src/groupchatdlg.cpp" line="1413"/>
         <source>The topic has been set to: %1</source>
         <translation>Тема установлена в: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1301"/>
+        <location filename="../src/groupchatdlg.cpp" line="1293"/>
         <source>This room has been destroyed.</source>
         <translation>Комнаты больше не существует.</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1163"/>
+        <location filename="../src/groupchatdlg.cpp" line="1155"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Неожиданная ошибка конференции: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1029"/>
+        <location filename="../src/groupchatdlg.cpp" line="1020"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1029"/>
+        <location filename="../src/groupchatdlg.cpp" line="1020"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1337"/>
+        <location filename="../src/groupchatdlg.cpp" line="1329"/>
         <source>You have been banned from the room</source>
         <translation>Вам запретили входить в данную конференцию</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1345"/>
+        <location filename="../src/groupchatdlg.cpp" line="1337"/>
         <source>You have been kicked from the room</source>
         <translation>Вас выкинули из конференции</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1362"/>
+        <location filename="../src/groupchatdlg.cpp" line="1354"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Вы удалены. Теперь конференция доступна только для членов</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1354"/>
+        <location filename="../src/groupchatdlg.cpp" line="1346"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Вы удалены из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1009"/>
+        <location filename="../src/groupchatdlg.cpp" line="1000"/>
         <source>Set Groupchat Topic</source>
         <translation>Тема конференции</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1010"/>
+        <location filename="../src/groupchatdlg.cpp" line="1001"/>
         <source>Enter a topic:</source>
         <translation>Указать тему:</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1161"/>
+        <location filename="../src/groupchatdlg.cpp" line="1153"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1201"/>
+        <location filename="../src/groupchatdlg.cpp" line="1193"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Произошла ошибка (код ошибки: %1)</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1338"/>
+        <location filename="../src/groupchatdlg.cpp" line="1330"/>
         <source>You have been banned from the room by %1</source>
         <translation>Вам запретили входить в данную конференцию по причине: %1</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="1346"/>
+        <location filename="../src/groupchatdlg.cpp" line="1338"/>
         <source>You have been kicked from the room by %1</source>
         <translation>Вас выкинули из конференции по причине: %1</translation>
     </message>
@@ -3749,13 +3805,13 @@ Reason: %1</source>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="328"/>
-        <location filename="../src/groupchatdlg.cpp" line="384"/>
+        <location filename="../src/groupchatdlg.cpp" line="318"/>
+        <location filename="../src/groupchatdlg.cpp" line="374"/>
         <source>new nick</source>
         <translation>Новый ник</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="348"/>
+        <location filename="../src/groupchatdlg.cpp" line="338"/>
         <source>Command</source>
         <translation>Команда</translation>
     </message>
@@ -3763,49 +3819,49 @@ Reason: %1</source>
 <context>
     <name>GCUserView</name>
     <message>
-        <location filename="../src/gcuserview.cpp" line="379"/>
+        <location filename="../src/gcuserview.cpp" line="380"/>
         <source>&amp;Ban</source>
         <translation>&amp;Бан (ban)</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="411"/>
+        <location filename="../src/gcuserview.cpp" line="412"/>
         <source>Check &amp;Status</source>
         <translation>Проверить &amp;состояние</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="350"/>
+        <location filename="../src/gcuserview.cpp" line="351"/>
         <source>Send &amp;Message</source>
         <translation>Создать сооб&amp;щение</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="351"/>
+        <location filename="../src/gcuserview.cpp" line="352"/>
         <source>Open &amp;Chat Window</source>
         <translation>Открыть окно &amp;чата</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="360"/>
-        <location filename="../src/gcuserview.cpp" line="369"/>
+        <location filename="../src/gcuserview.cpp" line="361"/>
+        <location filename="../src/gcuserview.cpp" line="370"/>
         <source>No reason</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="361"/>
-        <location filename="../src/gcuserview.cpp" line="370"/>
+        <location filename="../src/gcuserview.cpp" line="362"/>
+        <location filename="../src/gcuserview.cpp" line="371"/>
         <source>Custom reason</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="377"/>
+        <location filename="../src/gcuserview.cpp" line="378"/>
         <source>&amp;Kick</source>
         <translation>&amp;Выгнать (kick)</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="392"/>
+        <location filename="../src/gcuserview.cpp" line="393"/>
         <source>Change Role</source>
         <translation>Изменить роль</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="389"/>
+        <location filename="../src/gcuserview.cpp" line="390"/>
         <source>Moderator</source>
         <translation>Модератор</translation>
     </message>
@@ -3815,7 +3871,7 @@ Reason: %1</source>
         <translation>Модераторы</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="386"/>
+        <location filename="../src/gcuserview.cpp" line="387"/>
         <source>Participant</source>
         <translation>Участник</translation>
     </message>
@@ -3825,12 +3881,12 @@ Reason: %1</source>
         <translation>Участники</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="412"/>
+        <location filename="../src/gcuserview.cpp" line="413"/>
         <source>User &amp;Info</source>
         <translation>&amp;vCard</translation>
     </message>
     <message>
-        <location filename="../src/gcuserview.cpp" line="383"/>
+        <location filename="../src/gcuserview.cpp" line="384"/>
         <source>Visitor</source>
         <translation>Гость</translation>
     </message>
@@ -3841,108 +3897,292 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>GameBoard</name>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="660"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1009"/>
+        <source>White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="662"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1012"/>
+        <source>Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="663"/>
+        <source>game with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="673"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="749"/>
+        <source>Game chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="681"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="756"/>
+        <source>History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="692"/>
+        <source>Looking up the host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="768"/>
+        <source>Accepted a new connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="940"/>
+        <source>The host found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="950"/>
+        <source>Connected to the host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="982"/>
+        <source>Socket Error...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="983"/>
+        <source>You have a socket error number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1016"/>
+        <source>game from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1017"/>
+        <source>Accepted the</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1039"/>
+        <source>Your move...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1066"/>
+        <source>Waiting a move...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1076"/>
+        <source>End the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1077"/>
+        <source>Want you to end the game?
+You will lose it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1078"/>
+        <source>Yes, end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1078"/>
+        <source>No, continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1146"/>
+        <source>B</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1149"/>
+        <source>K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1152"/>
+        <source>C</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1155"/>
+        <source>Q</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1158"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1232"/>
+        <source>Lookup Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1233"/>
+        <source>The host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1233"/>
+        <source>not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1246"/>
+        <source>Save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1260"/>
+        <source>Do you want to save the image?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1261"/>
+        <source>Yes, save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1262"/>
+        <source>No, don&apos;t save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1263"/>
+        <source>Game over</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1267"/>
+        <source>You scored the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1272"/>
+        <source>You have a mate.
+You lost the game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1277"/>
+        <source>You have a stalemate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GeneralGroupchat</name>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="105"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="250"/>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation type="unfinished">Добавить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="156"/>
         <source>Enable nick coloring</source>
-        <translation>Включить цветные ники</translation>
+        <translation type="unfinished">Включить цветные ники</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="163"/>
         <source>Nick coloring</source>
-        <translation>Цвета ников</translation>
+        <translation type="unfinished">Цвета ников</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="244"/>
         <source>Adds the color to the list</source>
-        <translation>Добавить цвет в список</translation>
+        <translation type="unfinished">Добавить цвет в список</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="247"/>
         <source>Adds the new color to the list</source>
-        <translation>Добавить новый цвет в список</translation>
+        <translation type="unfinished">Добавить новый цвет в список</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="99"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="102"/>
         <source>Adds the new word to the list</source>
-        <translation>Добавить слово в список</translation>
+        <translation type="unfinished">Добавить слово в список</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="43"/>
         <source>Word highlighting</source>
-        <translation>Выделение слов</translation>
+        <translation type="unfinished">Выделение слов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="175"/>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Цвета, которые используются для ников в конференции</translation>
+        <translation type="unfinished">Цвета, которые используются для ников в конференции</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="33"/>
         <source>Enable word highlighting</source>
-        <translation>Включить выделение слов</translation>
+        <translation type="unfinished">Включить выделение слов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="13"/>
         <source>GeneralGroupchatUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="40"/>
         <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation>Выделять текст, и оповещать пользователя если этот текст содержится в чате</translation>
+        <translation type="unfinished">Выделять текст, и оповещать пользователя если этот текст содержится в чате</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="118"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="263"/>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="257"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="260"/>
         <source>Removes the selected color from the list</source>
-        <translation>Удалить выбранный цвет из списка</translation>
+        <translation type="unfinished">Удалить выбранный цвет из списка</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="112"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="115"/>
         <source>Removes the selected word from the highlight list</source>
-        <translation>Удалить выбранное слово из списка</translation>
+        <translation type="unfinished">Удалить выбранное слово из списка</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="178"/>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>Это список слов, которые используются для раскрашивания ников в конференции.</translation>
+        <translation type="unfinished">Это список слов, которые используются для раскрашивания ников в конференции.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="58"/>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>Это список слов, при появлении которых в конференции пользователь получит уведомление.</translation>
+        <translation type="unfinished">Это список слов, при появлении которых в конференции пользователь получит уведомление.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="193"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="196"/>
         <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation>Введите обозначение цвета или нажмите на кнопку палитры справа</translation>
+        <translation type="unfinished">Введите обозначение цвета или нажмите на кнопку палитры справа</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="65"/>
         <location filename="../src/options/opt_general_groupchat.ui" line="68"/>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>Введите слово и нажмите &quot;Добавить слово&quot; для того, что бы оно было добавлено в список</translation>
+        <translation type="unfinished">Введите слово и нажмите &quot;Добавить слово&quot; для того, что бы оно было добавлено в список</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="55"/>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Слова в конференции, которые вызывают оповещение.</translation>
+        <translation type="unfinished">Слова в конференции, которые вызывают оповещение.</translation>
     </message>
 </context>
 <context>
@@ -3954,136 +4194,175 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>GrepShortcutKeyDlg</name>
+    <name>GrepShortcutKeyDialog</name>
     <message>
-        <location filename="../src/tools/grepshortcutkeydlg/grepshortcutkeydlg.ui" line="52"/>
-        <source>Cancel</source>
-        <translation>Отмена</translation>
+        <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="54"/>
+        <source>Set Keys</source>
+        <translation type="unfinished">Комбинация клавиш</translation>
     </message>
     <message>
-        <location filename="../src/tools/grepshortcutkeydlg/grepshortcutkeydlg.cpp" line="54"/>
+        <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.ui" line="52"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+</context>
+<context>
+    <name>GrepShortcutKeyDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Отмена</translation>
+    </message>
+    <message>
         <source>Set Keys</source>
-        <translation>Комбинация клавиш</translation>
+        <translation type="obsolete">Комбинация клавиш</translation>
+    </message>
+</context>
+<context>
+    <name>GroupChatBrowseWindowUI</name>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="13"/>
+        <source>Groupchat</source>
+        <translation type="unfinished">Конференции</translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="21"/>
+        <source>Groupchat server:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="31"/>
+        <source>&amp;Browse</source>
+        <translation type="unfinished">&amp;Просмотр</translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="45"/>
+        <source>Specify groupchat name manually:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="55"/>
+        <source>Show your name in the groupchat as:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.ui" line="91"/>
-        <source>AccountLabel</source>
-        <translation></translation>
-    </message>
-    <message>
         <location filename="../src/groupchatdlg.ui" line="136"/>
         <source>Actions</source>
-        <translation>Действия</translation>
+        <translation type="unfinished">Действия</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.ui" line="98"/>
         <location filename="../src/groupchatdlg.ui" line="117"/>
         <source>Select icon</source>
-        <translation>Выбрать смайл</translation>
+        <translation type="unfinished">Выбрать смайл</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.ui" line="69"/>
         <source>Topic:</source>
-        <translation>Тема:</translation>
+        <translation type="unfinished">Тема:</translation>
+    </message>
+    <message>
+        <location filename="../src/groupchatdlg.ui" line="91"/>
+        <source>AccountLabel</source>
+        <translation type="unfinished">AccountLabel</translation>
     </message>
 </context>
 <context>
     <name>HistoryDlg</name>
     <message>
-        <location filename="../src/historydlg.cpp" line="467"/>
+        <location filename="../src/historydlg.cpp" line="450"/>
         <source>Already at beginning of message history.</source>
         <translation>Вы достигли начала истории сообщений.</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="216"/>
+        <location filename="../src/historydlg.cpp" line="223"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="308"/>
+        <location filename="../src/historydlg.cpp" line="315"/>
         <source>Confirm erase all</source>
         <translation>Подтверждение удаления</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="203"/>
+        <location filename="../src/historydlg.cpp" line="209"/>
         <source>Er&amp;ase All</source>
         <translation>&amp;Удалить все</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="433"/>
-        <location filename="../src/historydlg.cpp" line="481"/>
+        <location filename="../src/historydlg.cpp" line="416"/>
+        <location filename="../src/historydlg.cpp" line="464"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="481"/>
+        <location filename="../src/historydlg.cpp" line="464"/>
         <source>Error writing to file.</source>
         <translation>Ошибка записи в файл.</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="297"/>
+        <location filename="../src/historydlg.cpp" line="304"/>
         <source>Export message history</source>
         <translation>Экспорт истории сообщений</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="200"/>
+        <location filename="../src/historydlg.cpp" line="206"/>
         <source>&amp;Export...</source>
         <translation>&amp;Экспорт...</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="189"/>
-        <location filename="../src/historydlg.cpp" line="419"/>
-        <location filename="../src/historydlg.cpp" line="467"/>
+        <location filename="../src/historydlg.cpp" line="193"/>
+        <location filename="../src/historydlg.cpp" line="402"/>
+        <location filename="../src/historydlg.cpp" line="450"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="168"/>
+        <location filename="../src/historydlg.cpp" line="171"/>
         <source>&amp;Latest</source>
         <translation>С&amp;амое свежее</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="178"/>
+        <location filename="../src/historydlg.cpp" line="181"/>
         <source>&amp;Next</source>
         <translation>&amp;Следующее</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="308"/>
+        <location filename="../src/historydlg.cpp" line="315"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="173"/>
+        <location filename="../src/historydlg.cpp" line="176"/>
         <source>&amp;Previous</source>
         <translation>&amp;Предыдущее</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="419"/>
+        <location filename="../src/historydlg.cpp" line="402"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Строка &quot;%1&quot; не найдена.</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="299"/>
+        <location filename="../src/historydlg.cpp" line="306"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>Текстовые файлы (*.txt);;Все файлы (*.*)</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="308"/>
+        <location filename="../src/historydlg.cpp" line="315"/>
         <source>This will erase all message history for this contact!
 Are you sure you want to do this?</source>
         <translation>Это приведёт к удалению всех сообщений из истории этого контакта!
 Вы уверены, что хотите сделать это?</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="433"/>
+        <location filename="../src/historydlg.cpp" line="416"/>
         <source>Unable to delete history file.</source>
         <translation>Невозможно удалить файл истории.</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="308"/>
+        <location filename="../src/historydlg.cpp" line="315"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -4091,42 +4370,42 @@ Are you sure you want to do this?</source>
 <context>
     <name>HistoryView</name>
     <message>
-        <location filename="../src/historydlg.cpp" line="638"/>
+        <location filename="../src/historydlg.cpp" line="621"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="572"/>
+        <location filename="../src/historydlg.cpp" line="555"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="702"/>
+        <location filename="../src/historydlg.cpp" line="685"/>
         <source>From</source>
         <translation>От</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="636"/>
+        <location filename="../src/historydlg.cpp" line="619"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="571"/>
+        <location filename="../src/historydlg.cpp" line="554"/>
         <source>Origin</source>
         <translation>Источник</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="573"/>
+        <location filename="../src/historydlg.cpp" line="556"/>
         <source>Text</source>
         <translation>Текст</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="700"/>
+        <location filename="../src/historydlg.cpp" line="683"/>
         <source>To</source>
         <translation>К</translation>
     </message>
     <message>
-        <location filename="../src/historydlg.cpp" line="570"/>
+        <location filename="../src/historydlg.cpp" line="553"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -4134,14 +4413,12 @@ Are you sure you want to do this?</source>
 <context>
     <name>HostPortEdit</name>
     <message>
-        <location filename="../src/proxy.cpp" line="93"/>
         <source>Host:</source>
-        <translation>Сервер:</translation>
+        <translation type="obsolete">Сервер:</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="98"/>
         <source>Port:</source>
-        <translation>Порт:</translation>
+        <translation type="obsolete">Порт:</translation>
     </message>
 </context>
 <context>
@@ -4239,7 +4516,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconSelect</name>
     <message>
-        <location filename="../src/widgets/iconselect.cpp" line="249"/>
+        <location filename="../src/widgets/iconselect.cpp" line="272"/>
         <source>No icons available</source>
         <translation>Смайлы недоступны</translation>
     </message>
@@ -4247,63 +4524,62 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconsetDetailsDlg</name>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="64"/>
-        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/options/ui_isdetails.ui" line="106"/>
+        <location filename="../src/options/ui_isdetails.ui" line="78"/>
         <source>Authors:</source>
-        <translation>Авторы:</translation>
+        <translation type="unfinished">Авторы:</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="121"/>
+        <location filename="../src/options/ui_isdetails.ui" line="91"/>
         <source>Creation date:</source>
-        <translation>Дата создания:</translation>
+        <translation type="unfinished">Дата создания:</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="79"/>
+        <location filename="../src/options/ui_isdetails.ui" line="55"/>
         <source>Description:</source>
-        <translation>Описание:</translation>
+        <translation type="unfinished">Описание:</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="301"/>
         <source>&amp;Done</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="151"/>
+        <location filename="../src/options/ui_isdetails.ui" line="117"/>
         <source>Home URL:</source>
-        <translation>Веб-сайт:</translation>
+        <translation type="unfinished">Веб-сайт:</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="28"/>
+        <location filename="../src/options/ui_isdetails.ui" line="26"/>
         <source>Iconset Details: %1</source>
-        <translation>Описание набора иконок: %1</translation>
+        <translation type="unfinished">Описание набора иконок: %1</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="223"/>
-        <source>Name:</source>
-        <translation>Имя:</translation>
+        <location filename="../src/options/ui_isdetails.ui" line="42"/>
+        <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="136"/>
-        <source>Version:</source>
-        <translation>Версия:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/ui_isdetails.ui" line="166"/>
-        <location filename="../src/options/ui_isdetails.ui" line="184"/>
-        <location filename="../src/options/ui_isdetails.ui" line="202"/>
-        <location filename="../src/options/ui_isdetails.ui" line="238"/>
+        <location filename="../src/options/ui_isdetails.ui" line="130"/>
+        <location filename="../src/options/ui_isdetails.ui" line="149"/>
+        <location filename="../src/options/ui_isdetails.ui" line="168"/>
+        <location filename="../src/options/ui_isdetails.ui" line="200"/>
         <source>XXX</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/ui_isdetails.ui" line="187"/>
+        <source>Name:</source>
+        <translation type="unfinished">Имя:</translation>
+    </message>
+    <message>
+        <location filename="../src/options/ui_isdetails.ui" line="104"/>
+        <source>Version:</source>
+        <translation type="unfinished">Версия:</translation>
     </message>
 </context>
 <context>
     <name>IconsetDisplayItem</name>
     <message>
-        <location filename="../src/widgets/iconwidget.cpp" line="447"/>
+        <location filename="../src/widgets/iconwidget.cpp" line="448"/>
         <source>Name: &apos;%1&apos;</source>
         <translation>Название: &apos;%1&apos;</translation>
     </message>
@@ -4313,32 +4589,32 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="38"/>
         <source>Emoticon iconsets</source>
-        <translation>Наборы смайлов</translation>
+        <translation type="unfinished">Наборы смайлов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="28"/>
         <source>Enable emoticons</source>
-        <translation>Включить смайлы</translation>
+        <translation type="unfinished">Включить смайлы</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="16"/>
         <source>IconsetEmoUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="53"/>
         <source>psi/arrowDown</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="66"/>
         <source>psi/arrowUp</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_emo.ui" line="92"/>
         <source>&amp;Show details</source>
-        <translation>&amp;Показать описание</translation>
+        <translation type="unfinished">&amp;Показать описание</translation>
     </message>
 </context>
 <context>
@@ -4346,108 +4622,108 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="274"/>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
+        <translation type="unfinished">&amp;Добавить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="201"/>
         <source>Custom</source>
-        <translation>Пользовательские</translation>
+        <translation type="unfinished">Пользовательские</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="313"/>
         <source>Custom iconsets:</source>
-        <translation>Пользовательские наборы иконок:</translation>
+        <translation type="unfinished">Пользовательские наборы иконок:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="29"/>
         <source>Default</source>
-        <translation>По умолчанию</translation>
+        <translation type="unfinished">По умолчанию</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_iconset_roster.ui" line="13"/>
+        <source>IconsetRosterUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="41"/>
         <source>Default roster iconset:</source>
-        <translation>Основной набор иконок для ростера:</translation>
+        <translation type="unfinished">Основной набор иконок для ростера:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="48"/>
         <location filename="../src/options/opt_iconset_roster.ui" line="180"/>
         <location filename="../src/options/opt_iconset_roster.ui" line="257"/>
         <source>&amp;Show details</source>
-        <translation>&amp;Показать описание</translation>
+        <translation type="unfinished">&amp;Показать описание</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="281"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Удалить</translation>
+        <translation type="unfinished">&amp;Удалить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="128"/>
         <location filename="../src/options/opt_iconset_roster.ui" line="303"/>
         <source>Iconset</source>
-        <translation>Набор иконок</translation>
+        <translation type="unfinished">Набор иконок</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="237"/>
         <source>Iconset:</source>
-        <translation>Набор иконок:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_iconset_roster.ui" line="13"/>
-        <source>IconsetRosterUI</source>
-        <translation></translation>
+        <translation type="unfinished">Набор иконок:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="298"/>
         <source>RegExp</source>
-        <translation>Рег. выр.</translation>
+        <translation type="unfinished">Рег. выр.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="244"/>
         <source>Regular expression:</source>
-        <translation>Регулярное выражение:</translation>
+        <translation type="unfinished">Регулярное выражение:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="123"/>
         <source>Service</source>
-        <translation>Сервис</translation>
+        <translation type="unfinished">Сервис</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="193"/>
         <source>Service iconsets:</source>
-        <translation>Наборы иконок для служб:</translation>
+        <translation type="unfinished">Наборы иконок для служб:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="75"/>
         <source>Services</source>
-        <translation>Службы</translation>
+        <translation type="unfinished">Службы</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="87"/>
         <source>Use transport specific icons for contacts</source>
-        <translation>Использовать иконки служб для контактов</translation>
+        <translation type="unfinished">Использовать иконки служб для контактов</translation>
     </message>
 </context>
 <context>
     <name>IconsetSystem</name>
     <message>
+        <location filename="../src/options/opt_iconset_system.ui" line="13"/>
+        <source>IconsetSystemUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/options/opt_iconset_system.ui" line="42"/>
         <source>&amp;Show details</source>
-        <translation>&amp;Показать описание</translation>
+        <translation type="unfinished">&amp;Показать описание</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_system.ui" line="45"/>
         <source>Alt+S</source>
-        <translation>Alt+S</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_iconset_system.ui" line="13"/>
-        <source>IconsetSystemUI</source>
-        <translation></translation>
+        <translation type="unfinished">Alt+S</translation>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_system.ui" line="28"/>
         <source>System iconset:</source>
-        <translation>Системные иконки:</translation>
+        <translation type="unfinished">Системные иконки:</translation>
     </message>
 </context>
 <context>
@@ -4455,62 +4731,57 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="396"/>
         <source>About</source>
-        <translation>О себе</translation>
+        <translation type="unfinished">О себе</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="163"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished">Alt+C</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="70"/>
         <source>E-Mail:</source>
-        <translation>E-Mail:</translation>
+        <translation type="unfinished">E-Mail:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="80"/>
         <source>Birthday:</source>
-        <translation>Дата рождения:</translation>
+        <translation type="unfinished">Дата рождения:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="139"/>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="unfinished">Alt+O</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="160"/>
         <source>&amp;Clear</source>
-        <translation>О&amp;чистить</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="485"/>
-        <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="32"/>
-        <source>General</source>
-        <translation>Общее</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="304"/>
-        <source>Location</source>
-        <translation>Адрес</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="136"/>
-        <source>&amp;Open...</source>
-        <translation>О&amp;ткрыть...</translation>
-    </message>
-    <message>
-        <location filename="../src/info.ui" line="488"/>
-        <source>psi/close</source>
-        <translation></translation>
+        <translation type="unfinished">О&amp;чистить</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="478"/>
         <source>psi/reload</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/info.ui" line="485"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/info.ui" line="32"/>
+        <source>General</source>
+        <translation type="unfinished">Общее</translation>
+    </message>
+    <message>
+        <location filename="../src/info.ui" line="304"/>
+        <source>Location</source>
+        <translation type="unfinished">Адрес</translation>
+    </message>
+    <message>
+        <location filename="../src/info.ui" line="136"/>
+        <source>&amp;Open...</source>
+        <translation type="unfinished">О&amp;ткрыть...</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="95"/>
@@ -4525,67 +4796,67 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="180"/>
         <source>Full Name:</source>
-        <translation>ФИО:</translation>
+        <translation type="unfinished">ФИО:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="187"/>
         <source>Phone #:</source>
-        <translation>Телефон:</translation>
+        <translation type="unfinished">Телефон:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="194"/>
         <source>Homepage:</source>
-        <translation>Сайт:</translation>
+        <translation type="unfinished">Сайт:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="201"/>
         <source>Nickname:</source>
-        <translation>Ник:</translation>
+        <translation type="unfinished">Ник:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="248"/>
         <source>Company:</source>
-        <translation>Компания:</translation>
+        <translation type="unfinished">Компания:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="255"/>
         <source>Position:</source>
-        <translation>Должность:</translation>
+        <translation type="unfinished">Должность:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="265"/>
         <source>Department:</source>
-        <translation>Отдел:</translation>
+        <translation type="unfinished">Отдел:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="278"/>
         <source>Role:</source>
-        <translation>Обязанности:</translation>
+        <translation type="unfinished">Обязанности:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="324"/>
         <source>Country:</source>
-        <translation>Страна:</translation>
+        <translation type="unfinished">Страна:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="331"/>
         <source>Postal Code:</source>
-        <translation>Индекс:</translation>
+        <translation type="unfinished">Индекс:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="347"/>
         <source>State:</source>
-        <translation>Регион:</translation>
+        <translation type="unfinished">Регион:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="354"/>
         <source>City:</source>
-        <translation>Город:</translation>
+        <translation type="unfinished">Город:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="364"/>
         <source>Street:</source>
-        <translation>Улица:</translation>
+        <translation type="unfinished">Улица:</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="458"/>
@@ -4600,116 +4871,121 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="468"/>
         <source>&amp;Publish</source>
-        <translation>О&amp;публиковать</translation>
+        <translation type="unfinished">О&amp;публиковать</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="475"/>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Обновить</translation>
+        <translation type="unfinished">&amp;Обновить</translation>
+    </message>
+    <message>
+        <location filename="../src/info.ui" line="488"/>
+        <source>psi/close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="412"/>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation type="unfinished">Статус</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="16"/>
         <source>User Info</source>
-        <translation>vCard</translation>
+        <translation type="unfinished">vCard</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="225"/>
         <source>Work</source>
-        <translation>Работа</translation>
+        <translation type="unfinished">Работа</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
-        <location filename="../src/infodlg.cpp" line="191"/>
+        <location filename="../src/infodlg.cpp" line="190"/>
         <source>Close and discard</source>
         <translation>Закрыть и отказаться</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="191"/>
+        <location filename="../src/infodlg.cpp" line="190"/>
         <source>Don&apos;t close</source>
         <translation>Не закрывать</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="243"/>
-        <location filename="../src/infodlg.cpp" line="245"/>
-        <location filename="../src/infodlg.cpp" line="248"/>
+        <location filename="../src/infodlg.cpp" line="242"/>
+        <location filename="../src/infodlg.cpp" line="244"/>
+        <location filename="../src/infodlg.cpp" line="247"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="640"/>
+        <location filename="../src/infodlg.cpp" line="639"/>
         <source>Picture not
 available</source>
         <translation>Фото
 недоступно</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="670"/>
+        <location filename="../src/infodlg.cpp" line="669"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="238"/>
+        <location filename="../src/infodlg.cpp" line="237"/>
         <source>Success</source>
         <translation>Публикация завершена</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="248"/>
+        <location filename="../src/infodlg.cpp" line="247"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
         <translation>Невозможно опубликовать информацию о вашем аккаунте.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="245"/>
+        <location filename="../src/infodlg.cpp" line="244"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
         <translation>Невозможно получить информацию об этом контакте.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="243"/>
+        <location filename="../src/infodlg.cpp" line="242"/>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>Невозможно получить данные о вашем аккаунте. Возможно, вы никогда не вводили их раньше.</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="191"/>
+        <location filename="../src/infodlg.cpp" line="190"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
+        <location filename="../src/infodlg.cpp" line="113"/>
+        <location filename="../src/infodlg.cpp" line="270"/>
+        <source>First Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/infodlg.cpp" line="114"/>
         <location filename="../src/infodlg.cpp" line="271"/>
-        <source>First Name:</source>
+        <source>Middle Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="115"/>
         <location filename="../src/infodlg.cpp" line="272"/>
-        <source>Middle Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../src/infodlg.cpp" line="116"/>
-        <location filename="../src/infodlg.cpp" line="273"/>
         <source>Last Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="191"/>
+        <location filename="../src/infodlg.cpp" line="190"/>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>Вы не сохранили изменения, произведённые в вашем аккаунте.
 Вы уверены, что хотите отказаться от них?</translation>
     </message>
     <message>
-        <location filename="../src/infodlg.cpp" line="238"/>
+        <location filename="../src/infodlg.cpp" line="237"/>
         <source>Your account information has been published.</source>
         <translation>Данные о вашем аккаунте опубликованы.</translation>
     </message>
@@ -4717,7 +4993,7 @@ Are you sure you want to discard them?</source>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1055"/>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1070"/>
         <source>No VCard available</source>
         <translation>vCard недоступен</translation>
     </message>
@@ -4730,87 +5006,87 @@ Are you sure you want to discard them?</source>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="260"/>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="304"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="68"/>
         <source>&amp;Add</source>
-        <translation>&amp;Добавить</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="71"/>
-        <source>Alt+A</source>
-        <translation>Alt+A</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="81"/>
-        <source>Alt+D</source>
-        <translation>Alt+D</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="78"/>
-        <source>&amp;Delete</source>
-        <translation>&amp;Удалить</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="134"/>
-        <source>Enabled</source>
-        <translation>Включена</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="144"/>
-        <source>Locked</source>
-        <translation>Заблокирована</translation>
+        <translation type="unfinished">&amp;Добавить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="13"/>
         <source>LookFeelToolbarsUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="71"/>
+        <source>Alt+A</source>
+        <translation type="unfinished">Alt+A</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="81"/>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="78"/>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="134"/>
+        <source>Enabled</source>
+        <translation type="unfinished">Включена</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="144"/>
+        <source>Locked</source>
+        <translation type="unfinished">Заблокирована</translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="111"/>
         <source>Name:</source>
-        <translation>Имя:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="245"/>
-        <source>psi/arrowDown</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="286"/>
-        <source>A&amp;vailable actions:</source>
-        <translation>&amp;Доступные действия:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="307"/>
-        <source>psi/arrowLeft</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="335"/>
-        <source>Curr&amp;ent actions:</source>
-        <translation>&amp;Выбранные действия:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="263"/>
-        <source>psi/arrowRight</source>
-        <translation></translation>
+        <translation type="unfinished">Имя:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="217"/>
         <source>psi/arrowUp</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="245"/>
+        <source>psi/arrowDown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="263"/>
+        <source>psi/arrowRight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="286"/>
+        <source>A&amp;vailable actions:</source>
+        <translation type="unfinished">&amp;Доступные действия:</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="307"/>
+        <source>psi/arrowLeft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="335"/>
+        <source>Curr&amp;ent actions:</source>
+        <translation type="unfinished">&amp;Выбранные действия:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="131"/>
         <source>Specifies, whether toolbar is enabled and visible.</source>
-        <translation>Указывает, включена и видима ли панель инструментов.</translation>
+        <translation type="unfinished">Указывает, включена и видима ли панель инструментов.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="33"/>
         <source>Toolbar:</source>
-        <translation>Панель инструментов:</translation>
+        <translation type="unfinished">Панель инструментов:</translation>
     </message>
 </context>
 <context>
@@ -4841,52 +5117,52 @@ Are you sure you want to discard them?</source>
     <message>
         <location filename="../src/mucconfig.ui" line="101"/>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation type="unfinished">Добавить</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="32"/>
         <source>Affiliations</source>
-        <translation>Участники</translation>
+        <translation type="unfinished">Участники</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="256"/>
         <source>Apply</source>
-        <translation>Применить</translation>
+        <translation type="unfinished">Применить</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="263"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="206"/>
         <source>Destroy Room</source>
-        <translation>Уничтожить комнату</translation>
+        <translation type="unfinished">Уничтожить комнату</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="57"/>
         <source>Filter:</source>
-        <translation>Фильтр:</translation>
+        <translation type="unfinished">Фильтр:</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="116"/>
         <source>General</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="154"/>
         <source>message</source>
-        <translation>сообщение</translation>
+        <translation type="unfinished">сообщение</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="108"/>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <location filename="../src/mucconfig.ui" line="16"/>
         <source>Room Configuration</source>
-        <translation>Настройки комнаты</translation>
+        <translation type="unfinished">Настройки комнаты</translation>
     </message>
 </context>
 <context>
@@ -4967,49 +5243,49 @@ Are you sure you want to discard them?</source>
 <context>
     <name>MUCJoin</name>
     <message>
-        <location filename="../src/mucjoin.ui" line="58"/>
+        <location filename="../src/mucjoin.ui" line="59"/>
         <source>Host:</source>
-        <translation>Сервер:</translation>
+        <translation type="unfinished">Сервер:</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="19"/>
+        <location filename="../src/mucjoin.ui" line="20"/>
         <source>Identity:</source>
-        <translation>Аккаунт:</translation>
+        <translation type="unfinished">Аккаунт:</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="13"/>
+        <location filename="../src/mucjoin.ui" line="14"/>
         <source>Join Groupchat</source>
-        <translation>Войти в конференцию</translation>
+        <translation type="unfinished">Войти в конференцию</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="52"/>
+        <location filename="../src/mucjoin.ui" line="53"/>
         <source>Room information</source>
-        <translation>Информация о комнате</translation>
+        <translation type="unfinished">Информация о комнате</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="84"/>
+        <location filename="../src/mucjoin.ui" line="85"/>
         <source>Nickname:</source>
-        <translation>Ник:</translation>
+        <translation type="unfinished">Ник:</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="97"/>
+        <location filename="../src/mucjoin.ui" line="98"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="unfinished">Пароль:</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="32"/>
+        <location filename="../src/mucjoin.ui" line="33"/>
         <source>Recent:</source>
-        <translation>История:</translation>
+        <translation type="unfinished">История:</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="114"/>
+        <location filename="../src/mucjoin.ui" line="115"/>
         <source>Request chat history</source>
-        <translation>Запросить историю чата</translation>
+        <translation type="unfinished">Запросить историю чата</translation>
     </message>
     <message>
-        <location filename="../src/mucjoin.ui" line="71"/>
+        <location filename="../src/mucjoin.ui" line="72"/>
         <source>Room:</source>
-        <translation>Комната:</translation>
+        <translation type="unfinished">Комната:</translation>
     </message>
 </context>
 <context>
@@ -5164,99 +5440,98 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../src/mainwin.cpp" line="1251"/>
+        <location filename="../src/mainwin.cpp" line="1234"/>
         <source>%1 events received</source>
         <translation>Новых сообщений: %1</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="1248"/>
+        <location filename="../src/mainwin.cpp" line="1231"/>
         <source>1 event received</source>
         <translation>1 новое сообщение</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="985"/>
+        <location filename="../src/mainwin.cpp" line="968"/>
         <source>Connecting</source>
         <translation>Соединение</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="397"/>
+        <location filename="../src/mainwin.cpp" line="386"/>
         <source>Diagnostics</source>
         <translation>Диагностика</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="359"/>
-        <location filename="../src/mainwin.cpp" line="362"/>
+        <location filename="../src/mainwin.cpp" line="310"/>
+        <location filename="../src/mainwin.cpp" line="348"/>
         <source>General</source>
         <translation>Общее</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="732"/>
+        <location filename="../src/mainwin.cpp" line="690"/>
         <source>&amp;Help</source>
         <translation>Сп&amp;равка</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="386"/>
+        <location filename="../src/mainwin.cpp" line="375"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="951"/>
+        <location filename="../src/mainwin.cpp" line="935"/>
         <source>&amp;Hide</source>
         <translation>&amp;Скрыть</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="909"/>
+        <location filename="../src/mainwin.cpp" line="893"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Текст диагностики ключа защиты памяти</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="352"/>
+        <location filename="../src/mainwin.cpp" line="341"/>
         <source>Menu</source>
         <translation>Меню</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="791"/>
+        <location filename="../src/mainwin.cpp" line="775"/>
         <source>ReadMe</source>
         <translation>Инструкции</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="855"/>
+        <location filename="../src/mainwin.cpp" line="839"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>Это приложение использует GStreamer %1 - кроссплатформенный мультимедийный фреймворк c открытым исходным кодом. Для получения дополнительной информации просмотрите &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="867"/>
+        <location filename="../src/mainwin.cpp" line="851"/>
         <source>About GStreamer</source>
         <translation>О GStreamer</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="943"/>
+        <location filename="../src/mainwin.cpp" line="927"/>
         <source>Receive next event</source>
         <translation>&amp;Показать сообщение</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="900"/>
+        <location filename="../src/mainwin.cpp" line="884"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Текст диагностики модуля безопасности</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="365"/>
-        <location filename="../src/mainwin.cpp" line="954"/>
+        <location filename="../src/mainwin.cpp" line="309"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="382"/>
+        <location filename="../src/mainwin.cpp" line="371"/>
         <source>Tools</source>
         <translation>Сервис</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="948"/>
+        <location filename="../src/mainwin.cpp" line="932"/>
         <source>Un&amp;hide</source>
         <translation>&amp;Восстановить</translation>
     </message>
     <message>
-        <location filename="../src/mainwin.cpp" line="368"/>
+        <location filename="../src/mainwin.cpp" line="357"/>
         <source>View</source>
         <translation>Вид</translation>
     </message>
@@ -5264,9 +5539,62 @@ Reason: %1</source>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../src/mainwin.cpp" line="219"/>
+        <location filename="../src/mainwin.cpp" line="217"/>
         <source>Diagnostics</source>
         <translation>Диагностика</translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="46"/>
+        <source>New</source>
+        <translation type="unfinished">Создать</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="48"/>
+        <source>Save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="52"/>
+        <source>Quit</source>
+        <translation type="unfinished">Выход</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="55"/>
+        <source>About the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="57"/>
+        <source>Game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="59"/>
+        <source>Help</source>
+        <translation type="unfinished">Справка</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="62"/>
+        <source>Ready</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="129"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="129"/>
+        <source>is a network game chess for two players.
+It has a client and a server in the same program.
+You can modify and redistribute the source code
+because it is under GPL.
+
+Russia, Tambov, 2005 (denis@silversoft.net)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5300,27 +5628,27 @@ Details: %1</source>
     <message>
         <location filename="../src/mood.ui" line="99"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
         <location filename="../src/mood.ui" line="92"/>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation type="unfinished">ОК</translation>
     </message>
     <message>
         <location filename="../src/mood.ui" line="16"/>
         <source>Set Mood</source>
-        <translation>Установить настроение</translation>
+        <translation type="unfinished">Установить настроение</translation>
     </message>
     <message>
         <location filename="../src/mood.ui" line="49"/>
         <source>Text:</source>
-        <translation>Пояснение:</translation>
+        <translation type="unfinished">Пояснение:</translation>
     </message>
     <message>
         <location filename="../src/mood.ui" line="39"/>
         <source>Type:</source>
-        <translation>Настроение:</translation>
+        <translation type="unfinished">Настроение:</translation>
     </message>
 </context>
 <context>
@@ -5333,169 +5661,182 @@ Details: %1</source>
     </message>
 </context>
 <context>
+    <name>MyHeaderViewWidget</name>
+    <message>
+        <location filename="../src/tools/optionstree/optionstreeviewtest/optionstreeviewtest.cpp" line="27"/>
+        <source>Flat</source>
+        <translation type="unfinished">Развёрнуто</translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="109"/>
         <source>Animate the roster when a contact comes online</source>
-        <translation>Анимация только что подключившихся контактов</translation>
+        <translation type="unfinished">Анимация только что подключившихся контактов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="67"/>
         <source>Automatically copy selected text to clipboard</source>
-        <translation>Автокопирование выделенного текста в буфер обмена</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="25"/>
-        <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation>Включить событие &quot;Печатает...&quot;</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="32"/>
-        <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
-        <translation>Включить события &quot;неактивности&quot; (окончание/пауза разговора)</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="102"/>
-        <source>Automatically get vCard when becoming online</source>
-        <translation>Автополучение vCard при подключении к серверу</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="156"/>
-        <source>Chats</source>
-        <translation>Как чаты</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="46"/>
-        <source>Check spelling</source>
-        <translation>Проверка орфографии</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="146"/>
-        <source>Determined by sender</source>
-        <translation>Определяется отправителем</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="39"/>
-        <source>Enable remote controlling from other locations</source>
-        <translation>Включить удалённое управление</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="74"/>
-        <source>Grab URLs from clipboard</source>
-        <translation>Захватывать URL из буфера обмена</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="123"/>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>Игнорировать &quot;объявления&quot; (например, новости MSN)</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="81"/>
-        <source>Jabber ID completion</source>
-        <translation>Автодополнение Jabber ID</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="151"/>
-        <source>Messages</source>
-        <translation>Как сообщения</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="161"/>
-        <source>Messages (Chats if Chatting)</source>
-        <translation>Как сообщения (как чаты, если идет чат)</translation>
+        <translation type="unfinished">Автокопирование выделенного текста в буфер обмена</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="13"/>
         <source>OptAdvancedUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="25"/>
+        <source>Enable &quot;Contact is typing ...&quot; events</source>
+        <translation type="unfinished">Включить событие &quot;Печатает...&quot;</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="32"/>
+        <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
+        <translation type="unfinished">Включить события &quot;неактивности&quot; (окончание/пауза разговора)</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="102"/>
+        <source>Automatically get vCard when becoming online</source>
+        <translation type="unfinished">Автополучение vCard при подключении к серверу</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="156"/>
+        <source>Chats</source>
+        <translation type="unfinished">Как чаты</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="46"/>
+        <source>Check spelling</source>
+        <translation type="unfinished">Проверка орфографии</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="146"/>
+        <source>Determined by sender</source>
+        <translation type="unfinished">Определяется отправителем</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="39"/>
+        <source>Enable remote controlling from other locations</source>
+        <translation type="unfinished">Включить удалённое управление</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="74"/>
+        <source>Grab URLs from clipboard</source>
+        <translation type="unfinished">Захватывать URL из буфера обмена</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="123"/>
+        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
+        <translation type="unfinished">Игнорировать &quot;объявления&quot; (например, новости MSN)</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="81"/>
+        <source>Jabber ID completion</source>
+        <translation type="unfinished">Автодополнение Jabber ID</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="151"/>
+        <source>Messages</source>
+        <translation type="unfinished">Как сообщения</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_advanced.ui" line="161"/>
+        <source>Messages (Chats if Chatting)</source>
+        <translation type="unfinished">Как сообщения (как чаты, если идет чат)</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="116"/>
         <source>Scroll roster to contact on event</source>
-        <translation>Прокручивать ростер к контакту с новым сообщением</translation>
+        <translation type="unfinished">Прокручивать ростер к контакту с новым сообщением</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="95"/>
         <source>Show character counter</source>
-        <translation>Показывать счетчик символов</translation>
+        <translation type="unfinished">Показывать счетчик символов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="88"/>
         <source>Show subject line in events</source>
-        <translation>Показывать строку с темой в сообщениях</translation>
+        <translation type="unfinished">Показывать строку с темой в сообщениях</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="60"/>
         <source>Single-click triggers default action</source>
-        <translation>Одиночный клик вызывает действие по умолчанию</translation>
+        <translation type="unfinished">Одиночный клик вызывает действие по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="138"/>
         <source>Treat incoming messages and chats as:</source>
-        <translation>Принимать входящие сообщения и чаты:</translation>
+        <translation type="unfinished">Принимать входящие сообщения и чаты:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_advanced.ui" line="53"/>
         <source>Use contacts&apos; message formatting</source>
-        <translation>Использовать формат текста отправителя</translation>
+        <translation type="unfinished">Использовать формат текста отправителя</translation>
     </message>
 </context>
 <context>
     <name>OptAppearance</name>
     <message>
+        <location filename="../src/options/opt_appearance.ui" line="16"/>
+        <source>OptAppearanceUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../src/options/opt_appearance.ui" line="28"/>
         <source>Colors</source>
-        <translation>Цвета</translation>
+        <translation type="unfinished">Цвета</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="40"/>
         <source>Online contacts:</source>
-        <translation>Контакты со статусом &quot;Доступен&quot;:</translation>
+        <translation type="unfinished">Контакты со статусом &quot;Доступен&quot;:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="47"/>
         <source>Away contacts:</source>
-        <translation>Контакты со статусами &quot;Отсутствую/Недоступен&quot;:</translation>
+        <translation type="unfinished">Контакты со статусами &quot;Отсутствую/Недоступен&quot;:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="54"/>
         <source>DND contacts:</source>
-        <translation>Контакты со статусом &quot;Не беспокоить&quot;:</translation>
+        <translation type="unfinished">Контакты со статусом &quot;Не беспокоить&quot;:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="61"/>
         <source>Offline contacts:</source>
-        <translation>Отключённые контакты:</translation>
+        <translation type="unfinished">Отключённые контакты:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="81"/>
         <source>Contact list background:</source>
-        <translation>Фон ростера:</translation>
+        <translation type="unfinished">Фон ростера:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="88"/>
         <source>Status messages:</source>
-        <translation>Статус сообщений:</translation>
+        <translation type="unfinished">Статус сообщений:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="137"/>
         <source>Account heading background:</source>
-        <translation>Фон для заголовка аккаунта:</translation>
+        <translation type="unfinished">Фон для заголовка аккаунта:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="144"/>
         <source>Group heading background:</source>
-        <translation>Фон для заголовка группы:</translation>
+        <translation type="unfinished">Фон для заголовка группы:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="340"/>
         <source>Nick animation foreground:</source>
-        <translation>Цвет ника при анимации:</translation>
+        <translation type="unfinished">Цвет ника при анимации:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="347"/>
         <source>Nick animation background:</source>
-        <translation>Цвет фона при анимации:</translation>
+        <translation type="unfinished">Цвет фона при анимации:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="354"/>
@@ -5515,22 +5856,22 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="375"/>
         <source>Account heading foreground:</source>
-        <translation>Цвет заголовка аккаунта:</translation>
+        <translation type="unfinished">Цвет заголовка аккаунта:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="382"/>
         <source>Group heading foreground:</source>
-        <translation>Цвет заголовка группы:</translation>
+        <translation type="unfinished">Цвет заголовка группы:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="494"/>
         <source>Chat:</source>
-        <translation>Чат:</translation>
+        <translation type="unfinished">Чат:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="501"/>
         <source>Message:</source>
-        <translation>Сообщение:</translation>
+        <translation type="unfinished">Сообщение:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="508"/>
@@ -5538,71 +5879,66 @@ Details: %1</source>
         <location filename="../src/options/opt_appearance.ui" line="528"/>
         <location filename="../src/options/opt_appearance.ui" line="535"/>
         <source>Choose...</source>
-        <translation>Выбрать...</translation>
+        <translation type="unfinished">Выбрать...</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="542"/>
         <source>Roster:</source>
-        <translation>Список контактов:</translation>
+        <translation type="unfinished">Список контактов:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="549"/>
         <source>Popup:</source>
-        <translation>Всплывающее окно:</translation>
+        <translation type="unfinished">Всплывающее окно:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="476"/>
         <source>Fonts</source>
-        <translation>Шрифты</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance.ui" line="16"/>
-        <source>OptAppearanceUI</source>
-        <translation></translation>
+        <translation type="unfinished">Шрифты</translation>
     </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
     <message>
-        <location filename="../src/options/opt_appearance_misc.ui" line="88"/>
-        <location filename="../src/options/opt_appearance_misc.ui" line="124"/>
-        <source>100</source>
-        <translation></translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="134"/>
         <source>Chat dialog opacity:</source>
-        <translation>Прозрачность окна чата:</translation>
+        <translation type="unfinished">Прозрачность окна чата:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="28"/>
         <source>Headings</source>
-        <translation>Заголовки</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_appearance_misc.ui" line="57"/>
-        <source>Opacity</source>
-        <translation>Прозрачность</translation>
+        <translation type="unfinished">Заголовки</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="16"/>
         <source>OptAppearanceMiscUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_appearance_misc.ui" line="57"/>
+        <source>Opacity</source>
+        <translation type="unfinished">Прозрачность</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="47"/>
         <source>Outline headings</source>
-        <translation>Выделять заголовки</translation>
+        <translation type="unfinished">Выделять заголовки</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_appearance_misc.ui" line="88"/>
+        <location filename="../src/options/opt_appearance_misc.ui" line="124"/>
+        <source>100</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="111"/>
         <source>Roster opacity:</source>
-        <translation>Прозрачность ростера:</translation>
+        <translation type="unfinished">Прозрачность ростера:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="40"/>
         <source>Slim group headings</source>
-        <translation>Узкие заголовки группы</translation>
+        <translation type="unfinished">Узкие заголовки группы</translation>
     </message>
 </context>
 <context>
@@ -5610,42 +5946,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_application.ui" line="26"/>
         <source>Auto-resize contact list</source>
-        <translation>Автоматически изменять размер ростера</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="195"/>
-        <source>Data transfer external address:</source>
-        <translation>Внешний адрес для передачи данных:</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="67"/>
-        <source>Docklet</source>
-        <translation>Трей</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="57"/>
-        <source>Enable docklet</source>
-        <translation>Использовать иконку в трее</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="95"/>
-        <source>Start minimized</source>
-        <translation>Запускать свёрнутым</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="88"/>
-        <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>Управлять двойным кликом</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="102"/>
-        <source>Make roster window a &quot;tool window&quot;</source>
-        <translation>Окно ростера в виде окна инструментов</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_application.ui" line="124"/>
-        <source>Data transfer base port:</source>
-        <translation>Базовый порт для передачи данных:</translation>
+        <translation type="unfinished">Автоматически изменять размер ростера</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="137"/>
@@ -5655,37 +5956,72 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_application.ui" line="153"/>
         <source>(1 TCP, 4 UDP)</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="195"/>
+        <source>Data transfer external address:</source>
+        <translation type="unfinished">Внешний адрес для передачи данных:</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="67"/>
+        <source>Docklet</source>
+        <translation type="unfinished">Трей</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="13"/>
         <source>OptApplicationUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="57"/>
+        <source>Enable docklet</source>
+        <translation type="unfinished">Использовать иконку в трее</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="95"/>
+        <source>Start minimized</source>
+        <translation type="unfinished">Запускать свёрнутым</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="88"/>
+        <source>Use &quot;double-click&quot; style (like ICQ)</source>
+        <translation type="unfinished">Управлять двойным кликом</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="102"/>
+        <source>Make roster window a &quot;tool window&quot;</source>
+        <translation type="unfinished">Окно ростера в виде окна инструментов</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_application.ui" line="124"/>
+        <source>Data transfer base port:</source>
+        <translation type="unfinished">Базовый порт для передачи данных:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="33"/>
         <source>Remember window sizes</source>
-        <translation>Запоминать размеры окон</translation>
+        <translation type="unfinished">Запоминать размеры окон</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="19"/>
         <source>Roster window always on top</source>
-        <translation>Окно ростера всегда наверху</translation>
+        <translation type="unfinished">Окно ростера всегда наверху</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="50"/>
         <source>Show menubar</source>
-        <translation>Отображать панель меню в ростере</translation>
+        <translation type="unfinished">Отображать панель меню в ростере</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="43"/>
         <source>Use left-click for menu</source>
-        <translation>Вызов меню левой кнопкой мыши</translation>
+        <translation type="unfinished">Вызов меню левой кнопкой мыши</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.ui" line="112"/>
         <source>Check for updates on startup</source>
-        <translation>Проверка обновлений при запуске</translation>
+        <translation type="unfinished">Проверка обновлений при запуске</translation>
     </message>
 </context>
 <context>
@@ -5693,22 +6029,22 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="13"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="19"/>
         <source>Audio output:</source>
-        <translation>Аудиовыход:</translation>
+        <translation type="unfinished">Аудиовыход:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="36"/>
         <source>Audio input:</source>
-        <translation>Аудиовход:</translation>
+        <translation type="unfinished">Аудиовход:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="53"/>
         <source>Video input:</source>
-        <translation>Видеовход:</translation>
+        <translation type="unfinished">Видеовход:</translation>
     </message>
 </context>
 <context>
@@ -5716,12 +6052,17 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_chat.ui" line="97"/>
         <source>[customized]</source>
-        <translation>[Произвольно]</translation>
+        <translation type="unfinished">[Произвольно]</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="32"/>
         <source>Alert chat messages even if chat window is open</source>
-        <translation>Уведомлять о событиях в открытых окнах</translation>
+        <translation type="unfinished">Уведомлять о событиях в открытых окнах</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_chat.ui" line="13"/>
+        <source>OptChatUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="69"/>
@@ -5731,87 +6072,86 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_chat.ui" line="120"/>
         <source>Auto-resize text input field</source>
-        <translation>Автоматически изменять размер поля ввода</translation>
+        <translation type="unfinished">Автоматически изменять размер поля ввода</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="146"/>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="unfinished">Чат</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="156"/>
         <source>Delete chat window contents</source>
-        <translation>Очищать окно чата</translation>
+        <translation type="unfinished">Очищать окно чата</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="25"/>
         <source>Enter key sends chat messages</source>
-        <translation>Отправлять сообщения по нажатию Enter</translation>
+        <translation type="unfinished">Отправлять сообщения по нажатию Enter</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="87"/>
         <source>for chats and mucs separately</source>
-        <translation>для чатов и конференций</translation>
+        <translation type="unfinished">для чатов и конференций</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="77"/>
         <source>for chats only</source>
-        <translation>только для чатов</translation>
+        <translation type="unfinished">только для чатов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="82"/>
         <source>for mucs only</source>
-        <translation>только для конференций</translation>
+        <translation type="unfinished">только для конференций</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="139"/>
         <source>Message</source>
-        <translation>Сообщение</translation>
+        <translation type="unfinished">Сообщение</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="189"/>
         <source>Never</source>
-        <translation>Никогда</translation>
+        <translation type="unfinished">Никогда</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="182"/>
         <source>One day after chat window was closed</source>
-        <translation>Через день после закрытия</translation>
+        <translation type="unfinished">Через день после закрытия</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="175"/>
         <source>One hour after chat window was closed</source>
-        <translation>Через час после закрытия</translation>
+        <translation type="unfinished">Через час после закрытия</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="46"/>
         <source>Open chats in compact mode</source>
-        <translation>Компактное окно чатов</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_chat.ui" line="13"/>
-        <source>OptChatUI</source>
-        <translation></translation>
+        <translation type="unfinished">Компактное окно чатов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="39"/>
         <source>Raise chat window on receiving new messages</source>
-        <translation>Открывать окно чата при получении новых сообщений</translation>
+        <translation type="unfinished">Открывать окно чата при получении новых сообщений</translation>
+    </message>
+    <message>
+        <source>Use tabbed mode</source>
+        <translation type="obsolete">Использовать режим табов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="92"/>
         <source>for mucs and chats in one window</source>
-        <translation>для чатов и конференций в одном окне</translation>
+        <translation type="unfinished">для чатов и конференций в одном окне</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="127"/>
         <source>Default action</source>
-        <translation>Действие по умолчанию</translation>
+        <translation type="unfinished">Действие по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="168"/>
         <source>When chat window is closed</source>
-        <translation>При закрытии окна</translation>
+        <translation type="unfinished">При закрытии окна</translation>
     </message>
 </context>
 <context>
@@ -5819,132 +6159,132 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_events.ui" line="53"/>
         <source>Allow auto-open even from unlisted users</source>
-        <translation>Разрешить авто-открытие даже от контактов не из списка</translation>
+        <translation type="unfinished">Разрешить авто-открытие даже от контактов не из списка</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="46"/>
         <source>Allow auto-open even when Away/XA</source>
-        <translation>Разрешить авто-открытие даже в режимах отсутствия</translation>
+        <translation type="unfinished">Разрешить авто-открытие даже в режимах отсутствия</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="175"/>
         <source>Animate</source>
-        <translation>Анимация</translation>
+        <translation type="unfinished">Анимация</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="151"/>
         <source>Animation:</source>
-        <translation>Анимация:</translation>
+        <translation type="unfinished">Анимация:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="74"/>
         <source>Auto-authorize contacts</source>
-        <translation>Автоматическая авторизация контактов</translation>
+        <translation type="unfinished">Автоматическая авторизация контактов</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="39"/>
         <source>Auto-open new files</source>
-        <translation>Автоматически принимать новые файлы</translation>
+        <translation type="unfinished">Автоматически принимать новые файлы</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="32"/>
         <source>Auto-open new headlines</source>
-        <translation>Автоматически открывать новые объявления</translation>
+        <translation type="unfinished">Автоматически открывать новые объявления</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="25"/>
         <source>Auto-open new messages</source>
-        <translation>Автоматически открывать новые сообщения</translation>
+        <translation type="unfinished">Автоматически открывать новые сообщения</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="170"/>
         <source>Blink</source>
-        <translation>Мигание</translation>
+        <translation type="unfinished">Мигание</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="96"/>
         <source>Bounce dock:</source>
-        <translation>Изменять док состояния:</translation>
+        <translation type="unfinished">Изменять док состояния:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="198"/>
         <source>Enable popup notifications</source>
-        <translation>Включить всплывающие оповещения</translation>
+        <translation type="unfinished">Включить всплывающие оповещения</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="120"/>
         <source>Forever</source>
-        <translation>Всегда</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="67"/>
-        <source>Ignore events from contacts not already in your roster</source>
-        <translation>Игнорировать сообщения от контактов не из ростера</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="110"/>
-        <source>Never</source>
-        <translation>Никогда</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="165"/>
-        <source>No animation</source>
-        <translation>Без анимации</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="81"/>
-        <source>Notify when authorization was received</source>
-        <translation>Уведомлять о получении авторизации</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="234"/>
-        <source>On incoming file event</source>
-        <translation>При входящем файле</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="227"/>
-        <source>On incoming headline event</source>
-        <translation>При входящем объявлении</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="220"/>
-        <source>On incoming message event</source>
-        <translation>При входящем сообщении</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.ui" line="115"/>
-        <source>Once</source>
-        <translation>Один раз</translation>
+        <translation type="unfinished">Всегда</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="13"/>
         <source>OptEventsUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="67"/>
+        <source>Ignore events from contacts not already in your roster</source>
+        <translation type="unfinished">Игнорировать сообщения от контактов не из ростера</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="110"/>
+        <source>Never</source>
+        <translation type="unfinished">Никогда</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="165"/>
+        <source>No animation</source>
+        <translation type="unfinished">Без анимации</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="81"/>
+        <source>Notify when authorization was received</source>
+        <translation type="unfinished">Уведомлять о получении авторизации</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="234"/>
+        <source>On incoming file event</source>
+        <translation type="unfinished">При входящем файле</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="227"/>
+        <source>On incoming headline event</source>
+        <translation type="unfinished">При входящем объявлении</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="220"/>
+        <source>On incoming message event</source>
+        <translation type="unfinished">При входящем сообщении</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_events.ui" line="115"/>
+        <source>Once</source>
+        <translation type="unfinished">Один раз</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="208"/>
         <source>Popup notifications</source>
-        <translation>Всплывающие оповещения</translation>
+        <translation type="unfinished">Всплывающие оповещения</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="60"/>
         <source>Raise roster window on new event</source>
-        <translation>Показывать окно ростера при возникновении событий</translation>
+        <translation type="unfinished">Показывать окно ростера при возникновении событий</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="241"/>
         <source>When a contact becomes available</source>
-        <translation>Когда контакт становится доступен</translation>
+        <translation type="unfinished">Когда контакт становится доступен</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="248"/>
         <source>When a contact becomes unavailable</source>
-        <translation>Когда контакт становится недоступен</translation>
+        <translation type="unfinished">Когда контакт становится недоступен</translation>
     </message>
     <message>
         <location filename="../src/options/opt_events.ui" line="255"/>
         <source>When a contact changes status</source>
-        <translation>Когда контакт меняет статус</translation>
+        <translation type="unfinished">Когда контакт меняет статус</translation>
     </message>
 </context>
 <context>
@@ -5952,65 +6292,65 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="70"/>
         <source>Load this plugin</source>
-        <translation>Загрузить этот модуль</translation>
+        <translation type="unfinished">Загрузить этот модуль</translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="52"/>
         <source>No plugin selected</source>
-        <translation>Модуль не выбран</translation>
+        <translation type="unfinished">Модуль не выбран</translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="16"/>
         <source>OptPluginsUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="42"/>
         <source>Plugin Location:</source>
-        <translation>Расположение модуля:</translation>
+        <translation type="unfinished">Расположение модуля:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_plugins.ui" line="28"/>
         <source>Plugin Name:</source>
-        <translation>Название модуля:</translation>
+        <translation type="unfinished">Название модуля:</translation>
     </message>
 </context>
 <context>
     <name>OptShortcuts</name>
     <message>
-        <location filename="../src/options/opt_shortcuts.ui" line="47"/>
-        <source>Description</source>
-        <translation>Описание</translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_shortcuts.ui" line="19"/>
         <source>OptShortcutsUI</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_shortcuts.ui" line="47"/>
+        <source>Description</source>
+        <translation type="unfinished">Описание</translation>
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="68"/>
         <source>Add...</source>
-        <translation>Добавить...</translation>
+        <translation type="unfinished">Добавить...</translation>
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="75"/>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="82"/>
         <source>Edit...</source>
-        <translation>Изменить...</translation>
+        <translation type="unfinished">Изменить...</translation>
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="102"/>
         <source>Restore defaults</source>
-        <translation>Восстановить стандартные</translation>
+        <translation type="unfinished">Восстановить стандартные</translation>
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.ui" line="52"/>
         <source>Shortcut</source>
-        <translation>Комбинация клавиш</translation>
+        <translation type="unfinished">Комбинация клавиш</translation>
     </message>
 </context>
 <context>
@@ -6027,82 +6367,82 @@ Details: %1</source>
         <location filename="../src/options/opt_sound.ui" line="307"/>
         <location filename="../src/options/opt_sound.ui" line="321"/>
         <source>Enter a filename or !beep for a system beep</source>
-        <translation>Введите имя файла или &apos;!beep&apos; для использования системного гудка</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="16"/>
-        <source>OptSoundUI</source>
-        <translation></translation>
+        <translation type="unfinished">Введите имя файла или &apos;!beep&apos; для использования системного гудка</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="36"/>
         <source>Player:</source>
-        <translation>Проигрыватель:</translation>
+        <translation type="unfinished">Проигрыватель:</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_sound.ui" line="16"/>
+        <source>OptSoundUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="55"/>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>Включить звуки для всех сообщений в конференции</translation>
+        <translation type="unfinished">Включить звуки для всех сообщений в конференции</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="97"/>
         <source>Headline:</source>
-        <translation>Объявление:</translation>
+        <translation type="unfinished">Объявление:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="111"/>
         <source>Receive online status:</source>
-        <translation>Получение статуса &quot;Доступен&quot;:</translation>
+        <translation type="unfinished">Получение статуса &quot;Доступен&quot;:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="146"/>
         <source>Receive message:</source>
-        <translation>Получение сообщения:</translation>
+        <translation type="unfinished">Получение сообщения:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="195"/>
         <source>Send message:</source>
-        <translation>Отправка сообщения:</translation>
+        <translation type="unfinished">Отправка сообщения:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="216"/>
         <source>System message:</source>
-        <translation>Системное сообщение:</translation>
+        <translation type="unfinished">Системное сообщение:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="286"/>
         <source>Incoming file transfer:</source>
-        <translation>Запрос на передачу файла:</translation>
+        <translation type="unfinished">Запрос на передачу файла:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="293"/>
         <source>File transfer complete:</source>
-        <translation>Окончание передачи файла:</translation>
+        <translation type="unfinished">Окончание передачи файла:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="328"/>
         <source>Receive next chat:</source>
-        <translation>Получение следующего сообщения:</translation>
+        <translation type="unfinished">Получение следующего сообщения:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="342"/>
         <source>Receive first chat:</source>
-        <translation>Получение первого сообщения:</translation>
+        <translation type="unfinished">Получение первого сообщения:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="356"/>
         <source>Receive offline status:</source>
-        <translation>Получение статуса &quot;Отключён&quot;:</translation>
+        <translation type="unfinished">Получение статуса &quot;Отключён&quot;:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="389"/>
         <source>Reset to defaults</source>
-        <translation>Сбросить</translation>
+        <translation type="unfinished">Сбросить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_sound.ui" line="48"/>
         <source>Play sounds when away/XA</source>
-        <translation>Включить звуки в режимах &quot;Отсутствую&quot; и &quot;Недоступен&quot;</translation>
+        <translation type="unfinished">Включить звуки в режимах &quot;Отсутствую&quot; и &quot;Недоступен&quot;</translation>
     </message>
 </context>
 <context>
@@ -6110,84 +6450,84 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_status.ui" line="123"/>
         <source>Auto away after:</source>
-        <translation>Устанавливать статус &quot;Отсутствую&quot; через:</translation>
+        <translation type="unfinished">Устанавливать статус &quot;Отсутствую&quot; через:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="109"/>
         <source>Auto offline after:</source>
-        <translation>Автоматически отключаться через:</translation>
+        <translation type="unfinished">Автоматически отключаться через:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="139"/>
         <source>Auto status message:</source>
-        <translation>Сообщение для автоматического статуса:</translation>
+        <translation type="unfinished">Сообщение для автоматического статуса:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="116"/>
         <source>Auto XA after:</source>
-        <translation>Устанавливать статус &quot;Недоступен&quot; через:</translation>
+        <translation type="unfinished">Устанавливать статус &quot;Недоступен&quot; через:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="265"/>
         <source>Content:</source>
-        <translation>Содержимое:</translation>
+        <translation type="unfinished">Содержимое:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="206"/>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/options/opt_status.ui" line="16"/>
+        <source>OptStatusUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="75"/>
         <location filename="../src/options/opt_status.ui" line="85"/>
         <location filename="../src/options/opt_status.ui" line="102"/>
         <source>Minutes</source>
-        <translation>минут(ы)</translation>
+        <translation type="unfinished">минут(ы)</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="199"/>
         <source>New</source>
-        <translation>Создать</translation>
+        <translation type="unfinished">Создать</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="47"/>
         <source>Offline</source>
-        <translation>Отключён</translation>
+        <translation type="unfinished">Отключён</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="40"/>
         <source>Online</source>
-        <translation>Доступен</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_status.ui" line="16"/>
-        <source>OptStatusUI</source>
-        <translation></translation>
+        <translation type="unfinished">Доступен</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="176"/>
         <source>Preset:</source>
-        <translation>Шаблон:</translation>
+        <translation type="unfinished">Шаблон:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="156"/>
         <source>Presets</source>
-        <translation>Шаблоны</translation>
+        <translation type="unfinished">Шаблоны</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="246"/>
         <source>Priority:</source>
-        <translation>Приоритет:</translation>
+        <translation type="unfinished">Приоритет:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="28"/>
         <source>Prompt for status message when choosing</source>
-        <translation>Запрашивать сообщение при выборе статуса</translation>
+        <translation type="unfinished">Запрашивать сообщение при выборе статуса</translation>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="223"/>
         <source>Status:</source>
-        <translation>Статус:</translation>
+        <translation type="unfinished">Статус:</translation>
     </message>
 </context>
 <context>
@@ -6200,7 +6540,7 @@ Details: %1</source>
     <message>
         <location filename="../src/optioneditor.ui" line="30"/>
         <source>Option:</source>
-        <translation>Параметр:</translation>
+        <translation type="unfinished">Параметр:</translation>
     </message>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="87"/>
@@ -6225,12 +6565,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/optioneditor.ui" line="53"/>
         <source>Typ:</source>
-        <translation>Тип:</translation>
+        <translation type="unfinished">Тип:</translation>
     </message>
     <message>
         <location filename="../src/optioneditor.ui" line="66"/>
         <source>Value: </source>
-        <translation>Значение:</translation>
+        <translation type="unfinished">Значение:</translation>
     </message>
 </context>
 <context>
@@ -6329,12 +6669,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabAppearance</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="72"/>
+        <location filename="../src/options/opt_appearance.cpp" line="76"/>
         <source>Appearance</source>
         <translation>Внешний вид</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="72"/>
+        <location filename="../src/options/opt_appearance.cpp" line="76"/>
         <source>Psi&apos;s appearance</source>
         <translation>Внешний вид Psi</translation>
     </message>
@@ -6342,117 +6682,117 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabAppearanceGeneral</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="229"/>
+        <location filename="../src/options/opt_appearance.cpp" line="233"/>
         <source>away</source>
         <translation>отсутствует</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="231"/>
+        <location filename="../src/options/opt_appearance.cpp" line="235"/>
         <source>do not disturb</source>
         <translation>не беспокоить</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="245"/>
+        <location filename="../src/options/opt_appearance.cpp" line="249"/>
         <source>Specifies the color for sent messages in chat and history windows.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="247"/>
+        <location filename="../src/options/opt_appearance.cpp" line="251"/>
         <source>Specifies the color for received messages in chat and history windows.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="249"/>
-        <source>Specifies the color for informational Messages in chat windows, like status changes and offline messages.</source>
+        <location filename="../src/options/opt_appearance.cpp" line="253"/>
+        <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="142"/>
+        <location filename="../src/options/opt_appearance.cpp" line="146"/>
         <source>Fonts &amp;&amp; Color Settings</source>
         <translation>Настройка шрифтов и цветов</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="142"/>
+        <location filename="../src/options/opt_appearance.cpp" line="146"/>
         <source>Fonts &amp;&amp; Colors</source>
         <translation>Шрифты и цвета</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="227"/>
+        <location filename="../src/options/opt_appearance.cpp" line="231"/>
         <source>offline</source>
         <translation>отключён</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="225"/>
+        <location filename="../src/options/opt_appearance.cpp" line="229"/>
         <source>online</source>
         <translation>доступен</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="203"/>
+        <location filename="../src/options/opt_appearance.cpp" line="207"/>
         <source>Selects a font for chat windows using the font selection dialog.</source>
         <translation>Выбор шрифта для окон чатов.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="201"/>
+        <location filename="../src/options/opt_appearance.cpp" line="205"/>
         <source>Selects a font for message windows using the font selection dialog.</source>
         <translation>Выбор шрифта для окон сообщений.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="199"/>
+        <location filename="../src/options/opt_appearance.cpp" line="203"/>
         <source>Selects a font for the roster window using the font selection dialog.</source>
         <translation>Выбрать шрифт для окна ростера в диалоге выбора шрифтов.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="243"/>
+        <location filename="../src/options/opt_appearance.cpp" line="247"/>
         <source>Specifies the background animation color for nicks.</source>
         <translation>Цвет фона для анимации ников.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="237"/>
+        <location filename="../src/options/opt_appearance.cpp" line="241"/>
         <source>Specifies the background color for a group name in the main window.</source>
         <translation>Цвет фона для имени группы в основном окне.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="235"/>
+        <location filename="../src/options/opt_appearance.cpp" line="239"/>
         <source>Specifies the background color for an account name in the main window.</source>
         <translation>Цвет фона для имени аккаунта в основном окне.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="239"/>
+        <location filename="../src/options/opt_appearance.cpp" line="243"/>
         <source>Specifies the background color for the main window.</source>
         <translation>Цвет фона основного окна.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="195"/>
+        <location filename="../src/options/opt_appearance.cpp" line="199"/>
         <source>Specifies the font style for chat windows.</source>
         <translation>Начертание шрифта для окон чатов.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="193"/>
+        <location filename="../src/options/opt_appearance.cpp" line="197"/>
         <source>Specifies the font style for message windows.</source>
         <translation>Начертание шрифта для окон сообщений.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="197"/>
+        <location filename="../src/options/opt_appearance.cpp" line="201"/>
         <source>Specifies the font style for popup windows.</source>
         <translation>Начертание шрифта для всплывающих окон.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="191"/>
+        <location filename="../src/options/opt_appearance.cpp" line="195"/>
         <source>Specifies the font style for the main window.</source>
         <translation>Начертание шрифта, используемого в основном окне.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="241"/>
+        <location filename="../src/options/opt_appearance.cpp" line="245"/>
         <source>Specifies the foreground animation color for nicks.</source>
         <translation>Цвет текста для анимации ников.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="223"/>
+        <location filename="../src/options/opt_appearance.cpp" line="227"/>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
         <translation>Цвет имени контакта в главном окне, когда пользователь имеет статус &quot;%1&quot;.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="233"/>
+        <location filename="../src/options/opt_appearance.cpp" line="237"/>
         <source>Status message</source>
         <translation>Сообщение состояния</translation>
     </message>
@@ -6460,12 +6800,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabAppearanceMisc</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="86"/>
+        <location filename="../src/options/opt_appearance.cpp" line="90"/>
         <source>Misc.</source>
         <translation>Разное</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="86"/>
+        <location filename="../src/options/opt_appearance.cpp" line="90"/>
         <source>Miscellaneous Settings</source>
         <translation>Дополнительные настройки</translation>
     </message>
@@ -6473,67 +6813,67 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabApplication</name>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="25"/>
+        <location filename="../src/options/opt_application.cpp" line="24"/>
         <source>Application</source>
         <translation>Приложение</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="25"/>
+        <location filename="../src/options/opt_application.cpp" line="24"/>
         <source>General application options</source>
         <translation>Основные настройки приложения</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="47"/>
+        <location filename="../src/options/opt_application.cpp" line="46"/>
         <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
         <translation>Запоминать размеры и расположение окон чатов и сообщений. Если опция отключена, они будут появляться с размерами и расположением по умолчанию.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="57"/>
+        <location filename="../src/options/opt_application.cpp" line="56"/>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
         <translation>Отображать иконку Psi в трее.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="43"/>
+        <location filename="../src/options/opt_application.cpp" line="42"/>
         <source>Makes the main Psi window always be in front of other windows.</source>
         <translation>Помещать основное окно Psi поверх всех других окон.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="45"/>
+        <location filename="../src/options/opt_application.cpp" line="44"/>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
         <translation>Автоматически изменять размер основного окна для отображения всех контактов.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="50"/>
+        <location filename="../src/options/opt_application.cpp" line="49"/>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
         <translation>Обычно при клике правой кнопкой мыши по контакту открывается контекстное меню.  Отметьте эту опцию, если хотите использовать для этого левую кнопку.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="59"/>
+        <location filename="../src/options/opt_application.cpp" line="58"/>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
         <translation>Обычно при клике мышью по иконке Psi, расположенной в трее, открывается основное окно.  Включите эту опцию, если хотите использовать для этого двойной клик.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="64"/>
+        <location filename="../src/options/opt_application.cpp" line="63"/>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
         <translation>Psi не будет занимать много места на панели задач, а заголовок его основного окна будет короче.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="158"/>
+        <location filename="../src/options/opt_application.cpp" line="157"/>
         <source>(TCP: Disabled, UDP: Auto)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="161"/>
+        <location filename="../src/options/opt_application.cpp" line="160"/>
         <source>(TCP: %1, UDP: %1-%2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="53"/>
+        <location filename="../src/options/opt_application.cpp" line="52"/>
         <source>Shows the menubar in the application window.</source>
         <translation>Показывать меню в окне приложения.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="62"/>
+        <location filename="../src/options/opt_application.cpp" line="61"/>
         <source>Starts Psi with only the docklet icon visible.</source>
         <translation>Запускать Psi только с видимой в трее иконкой.</translation>
     </message>
@@ -6708,17 +7048,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabIconsetEmoticons</name>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="559"/>
+        <location filename="../src/options/opt_iconset.cpp" line="551"/>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
         <translation>&lt;P&gt;Смайлы - набор символов, визуально выражающие эмоции или идеи.&lt;/P&gt;&lt;P&gt;Включите эту опцию, если хотите заменять общеупотребительные смайлы на картинки.&lt;/P&gt;&lt;P&gt;Например, &lt;B&gt;:-)&lt;/B&gt; будет заменено на &lt;icon name=&quot;psi/smile&quot;&gt;.&lt;/P&gt;</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="533"/>
+        <location filename="../src/options/opt_iconset.cpp" line="525"/>
         <source>Emoticons</source>
         <translation>Смайлы</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="533"/>
+        <location filename="../src/options/opt_iconset.cpp" line="525"/>
         <source>Select your emoticon iconsets</source>
         <translation>Выбрать наборы смайлов</translation>
     </message>
@@ -6726,22 +7066,22 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsTabIconsetRoster</name>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="724"/>
+        <location filename="../src/options/opt_iconset.cpp" line="704"/>
         <source>Roster Icons</source>
         <translation>Иконки ростера</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="724"/>
+        <location filename="../src/options/opt_iconset.cpp" line="704"/>
         <source>Select iconsets for your roster</source>
         <translation>Выбрать наборы иконок для ростера</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="779"/>
+        <location filename="../src/options/opt_iconset.cpp" line="759"/>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
         <translation>Переключает показ иконок транспортов для контактов, использующих эти транспорты.</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="758"/>
+        <location filename="../src/options/opt_iconset.cpp" line="738"/>
         <source>Transport</source>
         <translation>Транспорт</translation>
     </message>
@@ -7018,98 +7358,96 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>OptionsUI</name>
     <message>
-        <location filename="../src/options/ui_options.ui" line="51"/>
-        <source>1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/options/ui_options.ui" line="141"/>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="obsolete">Alt+A</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_options.ui" line="151"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="obsolete">Alt+C</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_options.ui" line="131"/>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="obsolete">Alt+O</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_options.ui" line="138"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Применить</translation>
+        <translation type="obsolete">&amp;Применить</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_options.ui" line="148"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тмена</translation>
+        <translation type="obsolete">О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_options.ui" line="128"/>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation type="obsolete">&amp;ОК</translation>
     </message>
     <message>
-        <location filename="../src/options/ui_options.ui" line="13"/>
+        <location filename="../src/options/ui_options.ui" line="14"/>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
 </context>
 <context>
     <name>PGPKey</name>
     <message>
-        <location filename="../src/pgpkey.ui" line="89"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тмена</translation>
+        <translation type="obsolete">О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../src/pgpkey.ui" line="66"/>
         <source>&amp;Diagnostics</source>
-        <translation>&amp;Диагностика</translation>
+        <translation type="obsolete">&amp;Диагностика</translation>
     </message>
     <message>
-        <location filename="../src/pgpkey.ui" line="16"/>
-        <source>Form1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/pgpkey.ui" line="36"/>
         <source>Key ID</source>
-        <translation>ID ключа</translation>
+        <translation type="obsolete">ID ключа</translation>
     </message>
     <message>
-        <location filename="../src/pgpkey.ui" line="96"/>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation type="obsolete">&amp;ОК</translation>
     </message>
     <message>
-        <location filename="../src/pgpkey.ui" line="22"/>
         <source>Please select the key to use for security:</source>
-        <translation>Выбрать ключ, который будет использоваться для шифрования:</translation>
+        <translation type="obsolete">Выбрать ключ, который будет использоваться для шифрования:</translation>
     </message>
     <message>
-        <location filename="../src/pgpkey.ui" line="47"/>
         <source>User ID</source>
-        <translation>ID пользователя</translation>
+        <translation type="obsolete">ID пользователя</translation>
+    </message>
+    <message>
+        <location filename="../src/pgpkey.ui" line="30"/>
+        <source>Filter:</source>
+        <translation type="unfinished">Фильтр:</translation>
     </message>
 </context>
 <context>
     <name>PGPKeyDlg</name>
     <message>
-        <location filename="../src/pgpkeydlg.cpp" line="105"/>
+        <location filename="../src/pgpkeydlg.cpp" line="86"/>
+        <source>&amp;Diagnostics</source>
+        <translation type="unfinished">&amp;Диагностика</translation>
+    </message>
+    <message>
+        <location filename="../src/pgpkeydlg.cpp" line="90"/>
+        <source>Key ID</source>
+        <translation type="unfinished">ID ключа</translation>
+    </message>
+    <message>
+        <location filename="../src/pgpkeydlg.cpp" line="91"/>
+        <source>User ID</source>
+        <translation type="unfinished">ID пользователя</translation>
+    </message>
+    <message>
+        <location filename="../src/pgpkeydlg.cpp" line="199"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/pgpkeydlg.cpp" line="116"/>
+        <location filename="../src/pgpkeydlg.cpp" line="210"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Текст диагностики ключа защиты памяти</translation>
     </message>
     <message>
-        <location filename="../src/pgpkeydlg.cpp" line="105"/>
+        <location filename="../src/pgpkeydlg.cpp" line="199"/>
         <source>Please select a key.</source>
         <translation>Выберите ключ.</translation>
     </message>
@@ -7144,23 +7482,23 @@ Reason: %1.</source>
     <message>
         <location filename="../src/passphrase.ui" line="105"/>
         <source>&amp;Cancel</source>
-        <translation>О&amp;тмена</translation>
+        <translation type="unfinished">О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/passphrase.ui" line="112"/>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation type="unfinished">&amp;ОК</translation>
     </message>
     <message>
         <location filename="../src/passphrase.ui" line="16"/>
         <source>OpenPGP Passphrase</source>
-        <translation>Ключевая фраза OpenPGP</translation>
+        <translation type="unfinished">Ключевая фраза OpenPGP</translation>
     </message>
     <message>
         <location filename="../src/passphrase.ui" line="65"/>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Для использования шифрования OpenPGP нужна ваша ключевая фраза.
+        <translation type="unfinished">Для использования шифрования OpenPGP нужна ваша ключевая фраза.
 Введите ключевую фразу:</translation>
     </message>
 </context>
@@ -7175,89 +7513,87 @@ Please enter your passphrase below:</source>
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="80"/>
+        <location filename="../src/privacy/privacy.ui" line="63"/>
         <source>Active List (current session):</source>
-        <translation>Активный список (текущий сеанс):</translation>
+        <translation type="unfinished">Активный список (текущий сеанс):</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="190"/>
+        <location filename="../src/privacy/privacy.ui" line="149"/>
         <source>Add</source>
-        <translation>Добавить</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="238"/>
-        <source>Apply</source>
-        <translation>Применить</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="160"/>
-        <source>Automatically activate this list on connect</source>
-        <translation>Автоматически активировать список при соединении</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="274"/>
-        <source>Close</source>
-        <translation>Закрыть</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="73"/>
-        <source>Default List (all sessions):</source>
-        <translation>Список по умолчанию (для всех сеансов):</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="151"/>
-        <source>Delete List</source>
-        <translation>Удалить список</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="211"/>
-        <source>Down</source>
-        <translation>Ниже</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="218"/>
-        <source>Edit ...</source>
-        <translation>Изменить...</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="16"/>
-        <source>Form</source>
-        <translation>Форма</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="97"/>
-        <source>List Editor</source>
-        <translation>Редактор списка</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="117"/>
-        <source>List:</source>
-        <translation>Список:</translation>
-    </message>
-    <message>
-        <location filename="../src/privacy/privacy.ui" line="144"/>
-        <source>New List</source>
-        <translation>Новый список</translation>
+        <translation type="unfinished">Добавить</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacy.ui" line="197"/>
+        <source>Apply</source>
+        <translation type="unfinished">Применить</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="131"/>
+        <source>Automatically activate this list on connect</source>
+        <translation type="unfinished">Автоматически активировать список при соединении</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="56"/>
+        <source>Default List (all sessions):</source>
+        <translation type="unfinished">Список по умолчанию (для всех сеансов):</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="122"/>
+        <source>Delete List</source>
+        <translation type="unfinished">Удалить список</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="170"/>
+        <source>Down</source>
+        <translation type="unfinished">Ниже</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="177"/>
+        <source>Edit ...</source>
+        <translation type="unfinished">Изменить...</translation>
+    </message>
+    <message>
+        <source>Form</source>
+        <translation type="obsolete">Форма</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="80"/>
+        <source>List Editor</source>
+        <translation type="unfinished">Редактор списка</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="88"/>
+        <source>List:</source>
+        <translation type="unfinished">Список:</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="115"/>
+        <source>New List</source>
+        <translation type="unfinished">Новый список</translation>
+    </message>
+    <message>
+        <location filename="../src/privacy/privacy.ui" line="156"/>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Удалить</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="167"/>
+        <location filename="../src/privacy/privacy.ui" line="138"/>
         <source>Rules</source>
-        <translation>Правила</translation>
+        <translation type="unfinished">Правила</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="28"/>
+        <location filename="../src/privacy/privacy.ui" line="17"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="204"/>
+        <location filename="../src/privacy/privacy.ui" line="163"/>
         <source>Up</source>
-        <translation>Выше</translation>
+        <translation type="unfinished">Выше</translation>
     </message>
 </context>
 <context>
@@ -7268,28 +7604,28 @@ Please enter your passphrase below:</source>
         <translation>%1: Списки приватности</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="147"/>
-        <location filename="../src/privacy/privacydlg.cpp" line="159"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="148"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="160"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;нет&gt;</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="307"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="308"/>
         <source>A list with this name already exists.</source>
         <translation>Список с таким названием уже существует.</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="302"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="303"/>
         <source>Enter the name of the new list:</source>
         <translation>Введите название нового списка:</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="307"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="308"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="302"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="303"/>
         <source>New List</source>
         <translation>Новый список</translation>
     </message>
@@ -7299,47 +7635,47 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="171"/>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="16"/>
         <source>Edit Privacy Rule</source>
-        <translation>Редактировать правила приватности</translation>
+        <translation type="unfinished">Редактировать правила приватности</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="87"/>
         <source>If:</source>
-        <translation>Если:</translation>
+        <translation type="unfinished">Если:</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="72"/>
         <source>Incoming Presence</source>
-        <translation>Входящие статусы</translation>
+        <translation type="unfinished">Входящие статусы</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="51"/>
         <source>Messages</source>
-        <translation>Сообщения</translation>
+        <translation type="unfinished">Сообщения</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="164"/>
         <source>OK</source>
-        <translation>ОК</translation>
+        <translation type="unfinished">ОК</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="65"/>
         <source>Outgoing Presence</source>
-        <translation>Исходящие статусы</translation>
+        <translation type="unfinished">Исходящие статусы</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="58"/>
         <source>Queries</source>
-        <translation>Запросы</translation>
+        <translation type="unfinished">Запросы</translation>
     </message>
     <message>
         <location filename="../src/privacy/privacyrule.ui" line="36"/>
         <source>Then:</source>
-        <translation>Тогда:</translation>
+        <translation type="unfinished">Тогда:</translation>
     </message>
 </context>
 <context>
@@ -7399,50 +7735,57 @@ Please enter your passphrase below:</source>
 <context>
     <name>ProfileManage</name>
     <message>
-        <location filename="../src/profilemanage.ui" line="135"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/profilemanage.ui" line="74"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Удалить</translation>
+        <translation type="obsolete">&amp;Удалить</translation>
     </message>
     <message>
-        <location filename="../src/profilemanage.ui" line="16"/>
+        <location filename="../src/profilemanage.ui" line="14"/>
         <source>Manage Profiles</source>
-        <translation>Работа с профилями</translation>
+        <translation type="unfinished">Работа с профилями</translation>
     </message>
     <message>
-        <location filename="../src/profilemanage.ui" line="41"/>
         <source>&amp;New</source>
-        <translation>&amp;Создать</translation>
+        <translation type="obsolete">&amp;Создать</translation>
     </message>
     <message>
-        <location filename="../src/profilemanage.ui" line="44"/>
+        <location filename="../src/profilemanage.ui" line="30"/>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Добавить</translation>
+    </message>
+    <message>
+        <location filename="../src/profilemanage.ui" line="33"/>
         <source>psi/addContact</source>
-        <translation></translation>
+        <translation type="unfinished">psi/addContact</translation>
     </message>
     <message>
-        <location filename="../src/profilemanage.ui" line="77"/>
+        <location filename="../src/profilemanage.ui" line="47"/>
+        <source>Rem&amp;ove</source>
+        <translation type="unfinished">&amp;Удалить</translation>
+    </message>
+    <message>
+        <location filename="../src/profilemanage.ui" line="50"/>
         <source>psi/remove</source>
-        <translation></translation>
+        <translation type="unfinished">psi/remove</translation>
     </message>
     <message>
-        <location filename="../src/profilemanage.ui" line="51"/>
+        <location filename="../src/profilemanage.ui" line="40"/>
         <source>&amp;Rename</source>
-        <translation>&amp;Переименовать</translation>
+        <translation type="unfinished">&amp;Переименовать</translation>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="259"/>
+        <location filename="../src/profiledlg.cpp" line="265"/>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Удалить профиль &quot;&lt;b&gt;%1&lt;/b&gt;&quot;? При этом также будут удалены его история сообщений и настройки!&lt;/qt&gt;</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="271"/>
+        <location filename="../src/profiledlg.cpp" line="277"/>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
@@ -7451,57 +7794,57 @@ Proceed?</source>
 Подтверждаете?</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="264"/>
+        <location filename="../src/profiledlg.cpp" line="270"/>
         <source>Delete it!</source>
         <translation>Удалить!</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="258"/>
-        <location filename="../src/profiledlg.cpp" line="270"/>
+        <location filename="../src/profiledlg.cpp" line="264"/>
+        <location filename="../src/profiledlg.cpp" line="276"/>
         <source>Delete Profile</source>
         <translation>Удалить профиль</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="277"/>
+        <location filename="../src/profiledlg.cpp" line="283"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="263"/>
+        <location filename="../src/profiledlg.cpp" line="269"/>
         <source>No, I changed my mind</source>
         <translation>Нет, я передумал</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="230"/>
+        <location filename="../src/profiledlg.cpp" line="236"/>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>Введите новое название профиля. Желательно, чтобы оно было простым.
 Можно использовать только буквы и цифры. Пробелы и знаки препинания использовать нельзя.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="230"/>
-        <location filename="../src/profiledlg.cpp" line="235"/>
-        <location filename="../src/profiledlg.cpp" line="239"/>
+        <location filename="../src/profiledlg.cpp" line="236"/>
+        <location filename="../src/profiledlg.cpp" line="241"/>
+        <location filename="../src/profiledlg.cpp" line="245"/>
         <source>Rename Profile</source>
         <translation>Переименовать профиль</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="235"/>
+        <location filename="../src/profiledlg.cpp" line="241"/>
         <source>There is already another profile with this name.  Please choose another.</source>
         <translation>Профиль с таким названием уже существует. Введите другое.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="282"/>
+        <location filename="../src/profiledlg.cpp" line="288"/>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
         <translation>Невозможно полностью удалить профиль. Убедитесь, что для этого у вас достаточно прав.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="239"/>
+        <location filename="../src/profiledlg.cpp" line="245"/>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
         <translation>Невозможно переименовать профиль. Используйте только буквы и цифры.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="278"/>
+        <location filename="../src/profiledlg.cpp" line="284"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -7511,32 +7854,37 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <location filename="../src/profilenew.ui" line="180"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished">Alt+C</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="106"/>
         <source>Chat</source>
-        <translation>Чат</translation>
+        <translation type="unfinished">Чат</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="170"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="unfinished">&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="177"/>
         <source>&amp;Create</source>
-        <translation>&amp;Создать</translation>
+        <translation type="unfinished">&amp;Создать</translation>
+    </message>
+    <message>
+        <location filename="../src/profilenew.ui" line="189"/>
+        <source>psi/addContact</source>
+        <translation type="unfinished">psi/addContact</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="87"/>
         <source>Default Action</source>
-        <translation>Действие по умолчанию</translation>
+        <translation type="unfinished">Действие по умолчанию</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="116"/>
         <source>Enable Emoticons</source>
-        <translation>Разрешить смайлы</translation>
+        <translation type="unfinished">Разрешить смайлы</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="48"/>
@@ -7545,7 +7893,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Выберите простое и понятное &lt;i&gt;Название профиля&lt;/i&gt;. Оно должно быть словом, состоящим только из букв и цифр.&lt;br&gt;
+        <translation type="unfinished">Выберите простое и понятное &lt;i&gt;Название профиля&lt;/i&gt;. Оно должно быть словом, состоящим только из букв и цифр.&lt;br&gt;
 &lt;br&gt;
 &lt;i&gt;Действие по умолчанию&lt;/i&gt; - действие, которое происходит при двойном щелчке на контакте в вашем списке. Возможные варианты: &lt;b&gt;Сообщение&lt;/b&gt; (как в ICQ) или &lt;b&gt;Чат&lt;/b&gt; (как в AIM). Этот режим можно будет сменить позже в меню настройки.&lt;br&gt;
 &lt;br&gt;
@@ -7554,39 +7902,34 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/profilenew.ui" line="99"/>
         <source>Message</source>
-        <translation>Сообщение</translation>
+        <translation type="unfinished">Сообщение</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="16"/>
         <source>New Profile</source>
-        <translation>Новый профиль</translation>
+        <translation type="unfinished">Новый профиль</translation>
     </message>
     <message>
         <location filename="../src/profilenew.ui" line="75"/>
         <source>Profile Name:</source>
-        <translation>Название профиля:</translation>
-    </message>
-    <message>
-        <location filename="../src/profilenew.ui" line="189"/>
-        <source>psi/addContact</source>
-        <translation></translation>
+        <translation type="unfinished">Название профиля:</translation>
     </message>
 </context>
 <context>
     <name>ProfileNewDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="327"/>
-        <location filename="../src/profiledlg.cpp" line="332"/>
+        <location filename="../src/profiledlg.cpp" line="341"/>
+        <location filename="../src/profiledlg.cpp" line="346"/>
         <source>New Profile</source>
         <translation>Новый профиль</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="327"/>
+        <location filename="../src/profiledlg.cpp" line="341"/>
         <source>There is already an existing profile with this name.  Please choose another.</source>
         <translation>Профиль с таким названием уже существует. Укажите другое название.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="332"/>
+        <location filename="../src/profiledlg.cpp" line="346"/>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
         <translation>Невозможно создать профиль с таким названием. Используйте только буквы и цифры.</translation>
     </message>
@@ -7596,84 +7939,84 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/profileopen.ui" line="105"/>
         <source>&amp;Automatically open on startup</source>
-        <translation>&amp;Автоматически открывать при запуске</translation>
+        <translation type="unfinished">&amp;Автоматически открывать при запуске</translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="43"/>
         <source>Image goes here</source>
-        <translation>Изображение</translation>
-    </message>
-    <message>
-        <location filename="../src/profileopen.ui" line="123"/>
-        <source>Language:</source>
-        <translation>Язык:</translation>
+        <translation type="unfinished">Изображение</translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="36"/>
         <source>left</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/profileopen.ui" line="50"/>
+        <source>right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/profileopen.ui" line="123"/>
+        <source>Language:</source>
+        <translation type="unfinished">Язык:</translation>
+    </message>
+    <message>
+        <location filename="../src/profileopen.ui" line="162"/>
+        <source>psi/quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/profileopen.ui" line="188"/>
+        <source>psi/profile</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="195"/>
         <source>&amp;Open</source>
-        <translation>О&amp;ткрыть</translation>
+        <translation type="unfinished">О&amp;ткрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/profileopen.ui" line="198"/>
+        <source>psi/logo_16</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="16"/>
         <location filename="../src/profileopen.ui" line="64"/>
         <source>Open Profile</source>
-        <translation>Выбор профиля</translation>
+        <translation type="unfinished">Выбор профиля</translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="84"/>
         <source>Profile:</source>
-        <translation>Профиль:</translation>
+        <translation type="unfinished">Профиль:</translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="185"/>
         <source>&amp;Profiles...</source>
-        <translation>&amp;Профили...</translation>
-    </message>
-    <message>
-        <location filename="../src/profileopen.ui" line="198"/>
-        <source>psi/logo_16</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/profileopen.ui" line="188"/>
-        <source>psi/profile</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/profileopen.ui" line="162"/>
-        <source>psi/quit</source>
-        <translation></translation>
+        <translation type="unfinished">&amp;Профили...</translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="159"/>
         <source>&amp;Quit</source>
-        <translation>&amp;Выход</translation>
-    </message>
-    <message>
-        <location filename="../src/profileopen.ui" line="50"/>
-        <source>right</source>
-        <translation></translation>
+        <translation type="unfinished">&amp;Выход</translation>
     </message>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="114"/>
+        <location filename="../src/profiledlg.cpp" line="118"/>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
         <translation>Автоматически открывать этот профиль при запуске. Удобно, если у вас всего один профиль.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="111"/>
+        <location filename="../src/profiledlg.cpp" line="115"/>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
         <translation>Выберите язык интерфейса. Вы можете загрузить дополнительные пакеты локализации с домашней страницы Psi.</translation>
     </message>
     <message>
-        <location filename="../src/profiledlg.cpp" line="109"/>
+        <location filename="../src/profiledlg.cpp" line="113"/>
         <source>Select a profile to open from this list.</source>
         <translation>Выберите профиль из списка.</translation>
     </message>
@@ -7681,70 +8024,95 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>Proxy</name>
     <message>
-        <location filename="../src/proxy.ui" line="165"/>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="obsolete">&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/proxy.ui" line="84"/>
         <source>Name:</source>
-        <translation>Название:</translation>
+        <translation type="obsolete">Название:</translation>
     </message>
     <message>
-        <location filename="../src/proxy.ui" line="49"/>
+        <location filename="../src/proxy.ui" line="34"/>
         <source>&amp;New</source>
-        <translation>&amp;Создать</translation>
+        <translation type="unfinished">&amp;Создать</translation>
     </message>
     <message>
-        <location filename="../src/proxy.ui" line="73"/>
         <source>Properties</source>
-        <translation>Настроить</translation>
+        <translation type="obsolete">Настроить</translation>
     </message>
     <message>
-        <location filename="../src/proxy.ui" line="16"/>
+        <location filename="../src/proxy.ui" line="14"/>
         <source>Proxy Profiles</source>
-        <translation>Профили прокси-сервера</translation>
+        <translation type="unfinished">Профили прокси-сервера</translation>
     </message>
     <message>
-        <location filename="../src/proxy.ui" line="122"/>
         <source>proxyedit</source>
-        <translation>Редактор прокси</translation>
+        <translation type="obsolete">Редактор прокси</translation>
     </message>
     <message>
-        <location filename="../src/proxy.ui" line="52"/>
+        <location filename="../src/proxy.ui" line="37"/>
         <source>psi/addContact</source>
-        <translation></translation>
+        <translation type="unfinished">psi/addContact</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="47"/>
+        <source>psi/remove</source>
+        <translation type="unfinished">psi/remove</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="93"/>
+        <source>Host:</source>
+        <translation type="unfinished">Сервер:</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="103"/>
+        <source>Port:</source>
+        <translation type="unfinished">Порт:</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="126"/>
+        <source>Polling URL:</source>
+        <translation type="unfinished">URL для поллинга:</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="136"/>
+        <source>Use authentication</source>
+        <translation type="unfinished">Использовать аутентификацию</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="145"/>
+        <source>Username:</source>
+        <translation type="unfinished">Имя пользователя:</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="155"/>
+        <source>Password:</source>
+        <translation type="unfinished">Пароль:</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.ui" line="44"/>
+        <source>Rem&amp;ove</source>
+        <translation type="unfinished">&amp;Удалить</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="obsolete">Со&amp;хранить</translation>
     </message>
     <message>
         <location filename="../src/proxy.ui" line="62"/>
-        <source>psi/remove</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/proxy.ui" line="59"/>
-        <source>Rem&amp;ove</source>
-        <translation>&amp;Удалить</translation>
-    </message>
-    <message>
-        <location filename="../src/proxy.ui" line="172"/>
-        <source>&amp;Save</source>
-        <translation>Со&amp;хранить</translation>
-    </message>
-    <message>
-        <location filename="../src/proxy.ui" line="101"/>
         <source>Type:</source>
-        <translation>Тип:</translation>
+        <translation type="unfinished">Тип:</translation>
     </message>
 </context>
 <context>
     <name>ProxyChooser</name>
     <message>
-        <location filename="../src/proxy.cpp" line="551"/>
+        <location filename="../src/proxy.cpp" line="365"/>
         <source>Edit...</source>
         <translation>Изменить...</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="603"/>
+        <location filename="../src/proxy.cpp" line="413"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -7752,64 +8120,79 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>ProxyDlg</name>
     <message>
-        <location filename="../src/proxy.cpp" line="375"/>
+        <location filename="../src/proxy.cpp" line="317"/>
+        <location filename="../src/proxy.cpp" line="322"/>
+        <location filename="../src/proxy.cpp" line="326"/>
+        <location filename="../src/proxy.cpp" line="329"/>
         <source>Consult your network administrator if necessary.</source>
         <translation>При необходимости обратитесь к вашему системному администратору.</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="374"/>
+        <location filename="../src/proxy.cpp" line="316"/>
+        <source>Enter the hostname and port of your proxy server.</source>
+        <translation type="unfinished">Введите имя и порт прокси-сервера.</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.cpp" line="320"/>
+        <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
+        <translation type="unfinished">Введите имя пользователя прокси-сервера или оставьте это поле пустым, если он не нужен.</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.cpp" line="324"/>
+        <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
+        <translation type="unfinished">Введите пароль, соответствующий введённому выше имени пользователя, или оставьте это поле пустым, если он не нужен.</translation>
+    </message>
+    <message>
+        <location filename="../src/proxy.cpp" line="328"/>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
         <translation>Если для работы вам необходим прокси-сервер, укажите здесь его тип.</translation>
     </message>
 </context>
 <context>
+    <name>ProxyDlg::Private</name>
+    <message>
+        <location filename="../src/proxy.cpp" line="285"/>
+        <source>Unnamed</source>
+        <translation type="unfinished">Без названия</translation>
+    </message>
+</context>
+<context>
     <name>ProxyEdit</name>
     <message>
-        <location filename="../src/proxy.cpp" line="242"/>
-        <location filename="../src/proxy.cpp" line="246"/>
-        <location filename="../src/proxy.cpp" line="250"/>
         <source>Consult your network administrator if necessary.</source>
-        <translation>При необходимости обратитесь к своему системному администратору.</translation>
+        <translation type="obsolete">При необходимости обратитесь к своему системному администратору.</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="241"/>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>Введите имя и порт прокси-сервера.</translation>
+        <translation type="obsolete">Введите имя и порт прокси-сервера.</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="244"/>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation>Введите имя пользователя прокси-сервера или оставьте это поле пустым, если он не нужен.</translation>
+        <translation type="obsolete">Введите имя пользователя прокси-сервера или оставьте это поле пустым, если он не нужен.</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="248"/>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>Введите пароль, соответствующий введённому выше имени пользователя, или оставьте это поле пустым, если он не нужен.</translation>
+        <translation type="obsolete">Введите пароль, соответствующий введённому выше имени пользователя, или оставьте это поле пустым, если он не нужен.</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="235"/>
         <source>Password:</source>
-        <translation>Пароль:</translation>
+        <translation type="obsolete">Пароль:</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="225"/>
         <source>Polling URL:</source>
-        <translation>URL для поллинга:</translation>
+        <translation type="obsolete">URL для поллинга:</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="211"/>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation type="obsolete">Настройки</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="228"/>
         <source>Use authentication</source>
-        <translation>Использовать аутентификацию</translation>
+        <translation type="obsolete">Использовать аутентификацию</translation>
     </message>
     <message>
-        <location filename="../src/proxy.cpp" line="233"/>
         <source>Username:</source>
-        <translation>Имя пользователя:</translation>
+        <translation type="obsolete">Имя пользователя:</translation>
     </message>
 </context>
 <context>
@@ -7820,269 +8203,269 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="5036"/>
+        <location filename="../src/psiaccount.cpp" line="5038"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Невозможно найти ключ OpenPGP для использования с &lt;b&gt;%1&lt;/b&gt;.
 &lt;br&gt;&lt;br&gt;
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1587"/>
+        <location filename="../src/psiaccount.cpp" line="1585"/>
         <source>A required remote connection failed</source>
         <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1637"/>
+        <location filename="../src/psiaccount.cpp" line="1635"/>
         <source>Authentication error: %1</source>
         <translation>Ошибка аутентификации: %1</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1619"/>
+        <location filename="../src/psiaccount.cpp" line="1617"/>
         <source>Bad server response</source>
         <translation>Неправильный ответ сервера</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1640"/>
+        <location filename="../src/psiaccount.cpp" line="1638"/>
         <source>Broken security layer (SASL)</source>
         <translation>Нарушен слой защиты (SASL)</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1606"/>
+        <location filename="../src/psiaccount.cpp" line="1604"/>
         <source>Broken security layer (TLS)</source>
         <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="5041"/>
+        <location filename="../src/psiaccount.cpp" line="5043"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1536"/>
+        <location filename="../src/psiaccount.cpp" line="1534"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1576"/>
+        <location filename="../src/psiaccount.cpp" line="1574"/>
         <source>Connection Error: %1</source>
         <translation>Ошибка соединения: %1</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="984"/>
+        <location filename="../src/psiaccount.cpp" line="977"/>
         <source>Disable Account</source>
         <translation>Отключить аккаунт</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1510"/>
+        <location filename="../src/psiaccount.cpp" line="1508"/>
         <source>Disconnected</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="5041"/>
+        <location filename="../src/psiaccount.cpp" line="5043"/>
         <source>Do &amp;nothing</source>
         <translation>&amp;Отмена</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="2233"/>
+        <location filename="../src/psiaccount.cpp" line="2232"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1623"/>
+        <location filename="../src/psiaccount.cpp" line="1621"/>
         <source>Encryption required for chosen SASL mechanism</source>
         <translation>Шифрование необходимо для выбранного механизма SASL</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="980"/>
-        <location filename="../src/psiaccount.cpp" line="2305"/>
+        <location filename="../src/psiaccount.cpp" line="973"/>
+        <location filename="../src/psiaccount.cpp" line="2304"/>
         <location filename="../src/psiaccount.cpp" line="2579"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1567"/>
+        <location filename="../src/psiaccount.cpp" line="1565"/>
         <source>Error connecting to proxy</source>
         <translation>Ошибка соединения с прокси-сервером</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1569"/>
+        <location filename="../src/psiaccount.cpp" line="1567"/>
         <source>Error during proxy negotiation</source>
         <translation>Ошибка согласования с прокси-сервером</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1534"/>
+        <location filename="../src/psiaccount.cpp" line="1532"/>
         <source>Generic stream error</source>
         <translation>Общая ошибка потока</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1583"/>
+        <location filename="../src/psiaccount.cpp" line="1581"/>
         <source>Host no longer hosted</source>
         <translation>Сервер больше не обслуживается</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1565"/>
+        <location filename="../src/psiaccount.cpp" line="1563"/>
         <source>Host not found</source>
         <translation>Сервер не найден</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1585"/>
+        <location filename="../src/psiaccount.cpp" line="1583"/>
         <source>Host unknown</source>
         <translation>Узел не найден</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="2233"/>
+        <location filename="../src/psiaccount.cpp" line="2232"/>
         <source>Incoming file</source>
         <translation>Входящий файл</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1542"/>
+        <location filename="../src/psiaccount.cpp" line="1540"/>
         <source>Internal server error</source>
         <translation>Внутренняя ошибка сервера</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1625"/>
+        <location filename="../src/psiaccount.cpp" line="1623"/>
         <source>Invalid account information</source>
         <translation>Неправильная информация аккаунта</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1629"/>
+        <location filename="../src/psiaccount.cpp" line="1627"/>
         <source>Invalid realm</source>
         <translation>Неправильный realm</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1627"/>
+        <location filename="../src/psiaccount.cpp" line="1625"/>
         <source>Invalid SASL mechanism</source>
         <translation>Неправильный механизм SASL</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1544"/>
+        <location filename="../src/psiaccount.cpp" line="1542"/>
         <source>Invalid XML</source>
         <translation>Неправильный XML</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="2312"/>
+        <location filename="../src/psiaccount.cpp" line="2311"/>
         <source>Need Password</source>
         <translation>Введите пароль</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1616"/>
+        <location filename="../src/psiaccount.cpp" line="1614"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>Не доступен подходящий механизм для текущих настроек безопасности (проблема в библиотеке SASL или не включена аутентификация открытым текстом)</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="5036"/>
+        <location filename="../src/psiaccount.cpp" line="5038"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1642"/>
+        <location filename="../src/psiaccount.cpp" line="1640"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1633"/>
+        <location filename="../src/psiaccount.cpp" line="1631"/>
         <source>Not authorized</source>
         <translation>Не авторизован</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="2314"/>
+        <location filename="../src/psiaccount.cpp" line="2313"/>
         <source>Please enter the password for %1:</source>
         <translation>Введите пароль для %1:</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="2315"/>
+        <location filename="../src/psiaccount.cpp" line="2314"/>
         <source>Please enter your password:</source>
         <translation>Введите ваш пароль:</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1546"/>
+        <location filename="../src/psiaccount.cpp" line="1544"/>
         <source>Policy violation</source>
         <translation>Нарушение правил</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1571"/>
+        <location filename="../src/psiaccount.cpp" line="1569"/>
         <source>Proxy authentication failed</source>
         <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="5048"/>
+        <location filename="../src/psiaccount.cpp" line="5050"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1631"/>
+        <location filename="../src/psiaccount.cpp" line="1629"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Механизм SASL слишком слаб для этого аккаунта</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1591"/>
+        <location filename="../src/psiaccount.cpp" line="1589"/>
         <source>See other host: %1</source>
         <translation>См. другой сервер: %1</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1343"/>
+        <location filename="../src/psiaccount.cpp" line="1341"/>
         <source>Server Authentication</source>
         <translation>Аутентификация</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1593"/>
+        <location filename="../src/psiaccount.cpp" line="1591"/>
         <source>Server does not support proper XMPP version</source>
         <translation>Сервер не поддерживает нужную версию XMPP</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1494"/>
-        <location filename="../src/psiaccount.cpp" line="1686"/>
+        <location filename="../src/psiaccount.cpp" line="1491"/>
+        <location filename="../src/psiaccount.cpp" line="1684"/>
         <source>Server Error</source>
         <translation>Ошибка сервера</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1621"/>
+        <location filename="../src/psiaccount.cpp" line="1619"/>
         <source>Server failed mutual authentication</source>
         <translation>Сервер не прошёл взаимную аутентификацию</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1554"/>
+        <location filename="../src/psiaccount.cpp" line="1552"/>
         <source>Server is shutting down</source>
         <translation>Сервер был остановлен</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1550"/>
+        <location filename="../src/psiaccount.cpp" line="1548"/>
         <source>Server out of resources</source>
         <translation>Нехватка ресурсов сервера</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1600"/>
+        <location filename="../src/psiaccount.cpp" line="1598"/>
         <source>Server rejected STARTTLS</source>
         <translation>Сервер отверг STARTTLS</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1575"/>
+        <location filename="../src/psiaccount.cpp" line="1573"/>
         <source>Socket/stream error</source>
         <translation>Ошибка сокета или потока</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1594"/>
+        <location filename="../src/psiaccount.cpp" line="1592"/>
         <source>Stream Negotiation Error: %1</source>
         <translation>Ошибка согласования потока: %1</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1635"/>
+        <location filename="../src/psiaccount.cpp" line="1633"/>
         <source>Temporary auth failure</source>
         <translation>Временный сбой аутентификации</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="984"/>
+        <location filename="../src/psiaccount.cpp" line="977"/>
         <source>The account is currently active.
 Do you want to log out ?</source>
         <translation>Этот аккаунт сейчас используется.
 Вы хотите отключиться?</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1494"/>
+        <location filename="../src/psiaccount.cpp" line="1491"/>
         <source>The server does not support TLS encryption.</source>
         <translation>Сервер не поддерживает шифрование TLS.</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1687"/>
+        <location filename="../src/psiaccount.cpp" line="1685"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Ошибка обмена данными с сервером.
@@ -8096,47 +8479,47 @@ Reason: %1.</source>
 Причина: %1.</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1540"/>
+        <location filename="../src/psiaccount.cpp" line="1538"/>
         <source>Timed out from inactivity</source>
         <translation>Таймаут из-за неактивности</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1604"/>
+        <location filename="../src/psiaccount.cpp" line="1602"/>
         <source>TLS handshake error</source>
         <translation>Ошибка TLS handshake</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1563"/>
+        <location filename="../src/psiaccount.cpp" line="1561"/>
         <source>Unable to connect to server</source>
         <translation>Невозможно соединиться с сервером</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="980"/>
+        <location filename="../src/psiaccount.cpp" line="973"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>Невозможно отключить аккаунт, так как есть непросмотренные сообщения.</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1614"/>
+        <location filename="../src/psiaccount.cpp" line="1612"/>
         <source>Unable to login</source>
         <translation>Невозможно войти</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="2305"/>
+        <location filename="../src/psiaccount.cpp" line="2304"/>
         <source>Unable to login.  Ensure your account information is filled out.</source>
         <translation>Невозможно подключиться. Проверьте правильность ввода регистрационной информации.</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1514"/>
+        <location filename="../src/psiaccount.cpp" line="1512"/>
         <source>XML Parsing Error</source>
         <translation>Ошибка обработки XML</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1518"/>
+        <location filename="../src/psiaccount.cpp" line="1516"/>
         <source>XMPP Protocol Error</source>
         <translation>Ошибка протокола XMPP</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1556"/>
+        <location filename="../src/psiaccount.cpp" line="1554"/>
         <source>XMPP Stream Error: %1</source>
         <translation>Ошибка потока XMPP: %1</translation>
     </message>
@@ -8146,12 +8529,12 @@ Reason: %1.</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1198"/>
+        <location filename="../src/psiaccount.cpp" line="1196"/>
         <source>Encryption Error</source>
         <translation>Ошибка шифрования</translation>
     </message>
     <message>
-        <location filename="../src/psiaccount.cpp" line="1198"/>
+        <location filename="../src/psiaccount.cpp" line="1196"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
         <translation>Невозможно подключиться: Шифрование включено, но QCA2 SSL/TLS модуль недоступен.</translation>
     </message>
@@ -8734,130 +9117,300 @@ Reason: %1.</source>
     </message>
 </context>
 <context>
+    <name>PsiCli</name>
+    <message>
+        <location filename="../src/psicli.h" line="57"/>
+        <source>PROFILE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="57"/>
+        <source>URI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="35"/>
+        <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="57"/>
+        <source>MSG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="15"/>
+        <source>PROFILE</source>
+        <comment>translate in UPPER_CASE with no spaces</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="16"/>
+        <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
+        <comment>do not translate --remote</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="22"/>
+        <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
+        <comment>do not translate --profile, --choose-profile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="30"/>
+        <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
+        <comment>do not translate --remote</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="34"/>
+        <source>URI</source>
+        <comment>translate in UPPER_CASE with no spaces</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="38"/>
+        <source>STATUS</source>
+        <comment>translate in UPPER_CASE with no spaces</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="39"/>
+        <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="42"/>
+        <source>MSG</source>
+        <comment>translate in UPPER_CASE with no spaces</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="43"/>
+        <source>Set status message. Must be used together with --status.</source>
+        <comment>do not translate --status</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="46"/>
+        <source>Show this help message and exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="50"/>
+        <source>Show version information and exit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="55"/>
+        <source>Usage:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="57"/>
+        <source>STATUS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="61"/>
+        <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="63"/>
+        <source>Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="67"/>
+        <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicli.h" line="75"/>
+        <source>Compiled with Qt %1</source>
+        <comment>%1 will contain Qt version number</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiCon</name>
     <message>
-        <location filename="../src/psicon.cpp" line="1469"/>
+        <location filename="../src/psicon.cpp" line="1488"/>
         <source>Account setup</source>
         <translation>Настройки аккаунта</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1443"/>
+        <location filename="../src/psicon.cpp" line="1462"/>
         <source>Computer went to sleep</source>
         <translation>Компьютер вошёл в спящий режим</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="433"/>
-        <location filename="../src/psicon.cpp" line="707"/>
-        <location filename="../src/psicon.cpp" line="1006"/>
+        <location filename="../src/psicon.cpp" line="428"/>
+        <location filename="../src/psicon.cpp" line="704"/>
+        <location filename="../src/psicon.cpp" line="1026"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1102"/>
+        <location filename="../src/psicon.cpp" line="1122"/>
         <source>I understand</source>
         <translation>Я понимаю</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1072"/>
+        <location filename="../src/psicon.cpp" line="1092"/>
         <source>Information</source>
         <translation>Информация</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="707"/>
+        <location filename="../src/psicon.cpp" line="704"/>
         <source>Please disconnect before changing the profile.</source>
         <translation>Отключитесь от сервера перед изменением профиля.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1326"/>
+        <location filename="../src/psicon.cpp" line="706"/>
+        <source>&amp;Disconnect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/psicon.cpp" line="1345"/>
         <source>Call ended</source>
         <translation>Вызов завершён</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1326"/>
+        <location filename="../src/psicon.cpp" line="1345"/>
         <source>Other party canceled call.</source>
         <translation>Собеседник отменил вызов.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1470"/>
+        <location filename="../src/psicon.cpp" line="1489"/>
         <source>Register new account</source>
         <translation>Зарегистрировать новый</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1072"/>
+        <location filename="../src/psicon.cpp" line="1092"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
         <translation>Большинство изменений вступят в силу только после перезапуска.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1436"/>
+        <location filename="../src/psicon.cpp" line="1455"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Невозможно подключиться к порту %1 для передачи данных.
 Скорее всего, у вас запущена другая копия Psi. Это приведёт к проблемам передачи и приёма файлов.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="433"/>
+        <location filename="../src/psicon.cpp" line="428"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>Невозможно загрузить набор иконок! Проверьте установку Psi.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1471"/>
+        <location filename="../src/psicon.cpp" line="1490"/>
         <source>Use existing account</source>
         <translation>Использовать существующий</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1100"/>
-        <location filename="../src/psicon.cpp" line="1436"/>
+        <location filename="../src/psicon.cpp" line="1120"/>
+        <location filename="../src/psicon.cpp" line="1455"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1101"/>
+        <location filename="../src/psicon.cpp" line="1121"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>Вы не можете отключить &lt;i&gt;все&lt;/i&gt; инструментальные панели &lt;i&gt;и&lt;/i&gt; строку меню. Если Вы сделаете так, то будете неспособны вернуть их назад, когда вы передумаете.</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="1469"/>
+        <location filename="../src/psicon.cpp" line="1488"/>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
         <translation>Вам нужно настроить аккаунт для начала работы. Вы хотите зарегистрировать новый аккаунт или использовать существующий?</translation>
     </message>
     <message>
-        <location filename="../src/psicon.cpp" line="997"/>
+        <location filename="../src/psicon.cpp" line="1017"/>
         <source>Unsupported URI type</source>
         <translation>Неподдерживаемый тип URI</translation>
     </message>
 </context>
 <context>
+    <name>PsiGroupChatBrowseWindow</name>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="348"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="366"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="380"/>
+        <source>Error</source>
+        <translation type="unfinished">Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="348"/>
+        <source>Unable to join groupchat.
+Reason: %1</source>
+        <translation type="unfinished">Невозможно войти в конференцию.
+Причина: %1</translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="366"/>
+        <source>Unable to create groupchat.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="380"/>
+        <source>Unable to destroy groupchat.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiGroupChatBrowseWindow::Private</name>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="177"/>
+        <source>Destroy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="203"/>
+        <source>Create Groupchat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="204"/>
+        <source>Choose a name for the groupchat you want to create</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiMain</name>
     <message>
-        <location filename="../src/main.cpp" line="184"/>
+        <location filename="../src/main.cpp" line="203"/>
         <source>Activate</source>
         <translation>Активировать</translation>
     </message>
     <message>
-        <location filename="../src/main.cpp" line="218"/>
+        <location filename="../src/main.cpp" line="237"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Невозможно открыть этот профиль - уже используется, но не отвечает</translation>
     </message>
     <message>
-        <location filename="../src/main.cpp" line="128"/>
-        <location filename="../src/main.cpp" line="218"/>
+        <location filename="../src/main.cpp" line="147"/>
+        <location filename="../src/main.cpp" line="237"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/main.cpp" line="181"/>
+        <location filename="../src/main.cpp" line="200"/>
         <source>Profile already in use</source>
         <translation>Профиль уже используется</translation>
     </message>
     <message>
-        <location filename="../src/main.cpp" line="182"/>
+        <location filename="../src/main.cpp" line="201"/>
         <source>The &quot;%1&quot; profile is already in use.
 Would you like to activate that session now?</source>
         <translation>Профиль&quot;%1&quot; уже используется
 Активировать сессию?</translation>
     </message>
     <message>
-        <location filename="../src/main.cpp" line="129"/>
+        <location filename="../src/main.cpp" line="148"/>
         <source>There was an error creating the default profile.</source>
         <translation>Произошла ошибка при создании профиля по умолчанию.</translation>
     </message>
@@ -8988,67 +9541,67 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiOptionsEditor</name>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="225"/>
+        <location filename="../src/psioptionseditor.cpp" line="226"/>
         <source>(internal node)</source>
         <translation>(внутренний узел)</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="131"/>
+        <location filename="../src/psioptionseditor.cpp" line="132"/>
         <source>(no selection)</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="151"/>
+        <location filename="../src/psioptionseditor.cpp" line="152"/>
         <source>Display all options as a flat list.</source>
         <translation>Показать все опции развёрнуто</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="150"/>
+        <location filename="../src/psioptionseditor.cpp" line="151"/>
         <source>Flat</source>
         <translation>Развёрнуто</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="125"/>
+        <location filename="../src/psioptionseditor.cpp" line="126"/>
         <source>Full name of the currently selected option.</source>
         <translation>Полное название выбранной опции.</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="266"/>
+        <location filename="../src/psioptionseditor.cpp" line="267"/>
         <source>Psi: Option Editor</source>
         <translation>Psi: Редактор опций</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="264"/>
+        <location filename="../src/psioptionseditor.cpp" line="265"/>
         <source>Really delete all options starting with %1.?</source>
         <translation>Действительно удалите все опции, начинающиеся с %1.?</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="159"/>
+        <location filename="../src/psioptionseditor.cpp" line="160"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="164"/>
+        <location filename="../src/psioptionseditor.cpp" line="165"/>
         <source>Edit...</source>
         <translation>Изменить...</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="168"/>
+        <location filename="../src/psioptionseditor.cpp" line="169"/>
         <source>Add...</source>
         <translation>Добавить...</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="177"/>
+        <location filename="../src/psioptionseditor.cpp" line="178"/>
         <source>Open a detached option editor window.</source>
         <translation>Открыть отдельное окно редактора опции.</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="261"/>
+        <location filename="../src/psioptionseditor.cpp" line="262"/>
         <source>Really delete options %1?</source>
         <translation>Действительно удалить опцию %1?</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="228"/>
+        <location filename="../src/psioptionseditor.cpp" line="229"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
@@ -9056,47 +9609,47 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiPopup</name>
     <message>
-        <location filename="../src/psipopup.cpp" line="252"/>
+        <location filename="../src/psipopup.cpp" line="251"/>
         <source>Contact offline</source>
         <translation>Контакт отключился</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="248"/>
+        <location filename="../src/psipopup.cpp" line="247"/>
         <source>Contact online</source>
         <translation>Контакт вошёл в сеть</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="270"/>
+        <location filename="../src/psipopup.cpp" line="269"/>
         <source>Headline</source>
         <translation>Объявление</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="265"/>
+        <location filename="../src/psipopup.cpp" line="264"/>
         <source>Incoming chat message</source>
         <translation>Сообщение в чате</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="275"/>
+        <location filename="../src/psipopup.cpp" line="274"/>
         <source>Incoming file</source>
         <translation>Входящий файл</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="260"/>
+        <location filename="../src/psipopup.cpp" line="259"/>
         <source>Incoming message</source>
         <translation>Получено сообщение</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="256"/>
+        <location filename="../src/psipopup.cpp" line="255"/>
         <source>Status change</source>
         <translation>Смена статуса</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="390"/>
+        <location filename="../src/psipopup.cpp" line="389"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location filename="../src/psipopup.cpp" line="280"/>
+        <location filename="../src/psipopup.cpp" line="279"/>
         <source>Incoming call</source>
         <translation>Входящий звонок</translation>
     </message>
@@ -9112,17 +9665,17 @@ Would you like to activate that session now?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="916"/>
+        <location filename="../src/groupchatdlg.cpp" line="907"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Предупреждение: команда %1 не рекомендуется и будет удалена в будущем</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="919"/>
+        <location filename="../src/groupchatdlg.cpp" line="910"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>Пожалуйста, установите горячую клавишу для &apos;Перехода в режим ввода команд&apos;, используя эту клавишу введите &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="921"/>
+        <location filename="../src/groupchatdlg.cpp" line="912"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>Пожалуйста, нажмите %1 и введите &apos;%2&apos;</translation>
     </message>
@@ -9137,7 +9690,7 @@ Would you like to activate that session now?</source>
         <translation>%1 пишет:</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="485"/>
+        <location filename="../src/userlist.cpp" line="488"/>
         <source>[blank]</source>
         <translation>[пусто]</translation>
     </message>
@@ -9172,7 +9725,7 @@ Would you like to activate that session now?</source>
         <translation>гость</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2720"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2761"/>
         <source>Address</source>
         <translation>Адрес</translation>
     </message>
@@ -9182,7 +9735,7 @@ Would you like to activate that session now?</source>
         <translation>администратор</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="541"/>
+        <location filename="../src/userlist.cpp" line="544"/>
         <source>Affiliation: %1</source>
         <translation>Ранг: %1</translation>
     </message>
@@ -9258,7 +9811,7 @@ Would you like to activate that session now?</source>
         <translation>Отсутствую</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="520"/>
+        <location filename="../src/userlist.cpp" line="523"/>
         <source>Bad signature</source>
         <translation>Неправильная подпись</translation>
     </message>
@@ -9293,7 +9846,7 @@ Would you like to activate that session now?</source>
         <translation>Выберите статус и соответствующее сообщение</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2721"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2762"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
@@ -9342,7 +9895,7 @@ Would you like to activate that session now?</source>
         <translation>Любознательное</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2726"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2767"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
@@ -9382,7 +9935,7 @@ Would you like to activate that session now?</source>
         <translation>Иначе %1 %2</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2719"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2760"/>
         <source>E-mail</source>
         <translation>E-mail</translation>
     </message>
@@ -9407,8 +9960,8 @@ Would you like to activate that session now?</source>
         <translation>Шифрующий ключ не заверен</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="264"/>
-        <location filename="../src/privacy/privacydlg.cpp" line="277"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="265"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="278"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9428,7 +9981,7 @@ Would you like to activate that session now?</source>
         <translation>Недоступен</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2717"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2758"/>
         <source>First Name</source>
         <translation>Имя</translation>
     </message>
@@ -9463,8 +10016,8 @@ Would you like to activate that session now?</source>
         <translation>Общая ошибка проверки сертификата.</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="472"/>
-        <location filename="../src/userlist.cpp" line="563"/>
+        <location filename="../src/userlist.cpp" line="475"/>
+        <location filename="../src/userlist.cpp" line="566"/>
         <source>Geolocation</source>
         <translation>Местонахождение</translation>
     </message>
@@ -9637,12 +10190,12 @@ Would you like to activate that session now?</source>
         <translation>Невидимый</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="314"/>
+        <location filename="../src/eventdlg.cpp" line="318"/>
         <source>Invitation to %1</source>
         <translation>Приглашение в %1</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="312"/>
+        <location filename="../src/eventdlg.cpp" line="316"/>
         <source>Invitation to %1 from %2</source>
         <translation>Приглашение в %1 от %2</translation>
     </message>
@@ -9652,40 +10205,40 @@ Would you like to activate that session now?</source>
         <translation>Ревнивое</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="538"/>
+        <location filename="../src/userlist.cpp" line="541"/>
         <source>JID: %1</source>
         <translation>JID: %1</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="596"/>
+        <location filename="../src/userlist.cpp" line="599"/>
         <source>Last Available</source>
         <translation>В последний раз был доступен</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2718"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2759"/>
         <source>Last Name</source>
         <translation>Фамилия</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="532"/>
+        <location filename="../src/userlist.cpp" line="535"/>
         <source>Last Status</source>
         <translation>Последний статус</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="611"/>
+        <location filename="../src/userlist.cpp" line="614"/>
         <source>Last Status Message</source>
         <translation>Последний статус</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="464"/>
-        <location filename="../src/userlist.cpp" line="550"/>
-        <location filename="../src/userlist.cpp" line="555"/>
+        <location filename="../src/userlist.cpp" line="467"/>
+        <location filename="../src/userlist.cpp" line="553"/>
+        <location filename="../src/userlist.cpp" line="558"/>
         <source>Listening to</source>
         <translation>Слушает</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="468"/>
-        <location filename="../src/userlist.cpp" line="559"/>
+        <location filename="../src/userlist.cpp" line="471"/>
+        <location filename="../src/userlist.cpp" line="562"/>
         <source>Location</source>
         <translation>Адрес</translation>
     </message>
@@ -9710,7 +10263,7 @@ Would you like to activate that session now?</source>
         <translation>Сообщение</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2727"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2768"/>
         <source>Misc</source>
         <translation>Разное</translation>
     </message>
@@ -9720,7 +10273,7 @@ Would you like to activate that session now?</source>
         <translation>модератор</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="456"/>
+        <location filename="../src/userlist.cpp" line="459"/>
         <source>Mood</source>
         <translation>Настроение</translation>
     </message>
@@ -9730,7 +10283,7 @@ Would you like to activate that session now?</source>
         <translation>Капризное</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2716"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2757"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
@@ -9745,7 +10298,7 @@ Would you like to activate that session now?</source>
         <translation>Безразличное</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2714"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2755"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
@@ -9772,7 +10325,7 @@ Would you like to activate that session now?</source>
         <translation>Доступен</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="452"/>
+        <location filename="../src/userlist.cpp" line="455"/>
         <source>OpenPGP</source>
         <translation>OpenPGP</translation>
     </message>
@@ -9792,7 +10345,7 @@ Would you like to activate that session now?</source>
         <translation>участник</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2715"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2756"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
@@ -9802,7 +10355,7 @@ Would you like to activate that session now?</source>
         <translation>GPG карта отсутствует</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2724"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2765"/>
         <source>Phone</source>
         <translation>Номер телефона</translation>
     </message>
@@ -9817,7 +10370,7 @@ Would you like to activate that session now?</source>
         <translation>Игривое</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="602"/>
+        <location filename="../src/userlist.cpp" line="605"/>
         <source>Presence Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9847,7 +10400,7 @@ Would you like to activate that session now?</source>
         <translation>Неугомонное</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="540"/>
+        <location filename="../src/userlist.cpp" line="543"/>
         <source>Role: %1</source>
         <translation>Роль: %1</translation>
     </message>
@@ -9897,8 +10450,8 @@ Would you like to activate that session now?</source>
         <translation>Болезненное</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="513"/>
-        <location filename="../src/userlist.cpp" line="517"/>
+        <location filename="../src/userlist.cpp" line="516"/>
+        <location filename="../src/userlist.cpp" line="520"/>
         <source>Signed</source>
         <translation>Подписанное</translation>
     </message>
@@ -9913,7 +10466,7 @@ Would you like to activate that session now?</source>
         <translation>Сонное</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2722"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2763"/>
         <source>State</source>
         <translation>Регион</translation>
     </message>
@@ -9923,7 +10476,7 @@ Would you like to activate that session now?</source>
         <translation>Статус</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="577"/>
+        <location filename="../src/userlist.cpp" line="580"/>
         <source>Status Message</source>
         <translation>Статус</translation>
     </message>
@@ -9933,7 +10486,7 @@ Would you like to activate that session now?</source>
         <translation>Напряжённое</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="449"/>
+        <location filename="../src/userlist.cpp" line="452"/>
         <source>Subscription</source>
         <translation>Подписка</translation>
     </message>
@@ -9953,12 +10506,12 @@ Would you like to activate that session now?</source>
         <translation>Сервер не предоставил сертификат.</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="264"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="265"/>
         <source>There was an error changing the list.</source>
         <translation>Произошла ошибка при изменении списка.</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="277"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="278"/>
         <source>There was an error processing your request.</source>
         <translation>Возникла ошибка при выполнении запроса.</translation>
     </message>
@@ -9978,17 +10531,17 @@ Would you like to activate that session now?</source>
         <translation>Неизвестная ошибка</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2725"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2766"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2713"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2754"/>
         <source>Username</source>
         <translation>Имя пользователя</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="571"/>
+        <location filename="../src/userlist.cpp" line="574"/>
         <source>Using</source>
         <translation>Клиент</translation>
     </message>
@@ -10003,7 +10556,7 @@ Would you like to activate that session now?</source>
         <translation>Беспокойное</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2723"/>
+        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="2764"/>
         <source>Zipcode</source>
         <translation>Почтовый индекс</translation>
     </message>
@@ -10032,81 +10585,126 @@ Would you like to activate that session now?</source>
         <source>&amp;Trust this domain</source>
         <translation>&amp;Доверять этому домену</translation>
     </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="86"/>
+        <source>No certificate presented.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="91"/>
+        <source>Hostname mismatch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="94"/>
+        <source>Invalid Certificate.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="123"/>
+        <source>General validation error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/adhoc_fileserver.cpp" line="55"/>
+        <source>Choose file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/adhoc_fileserver.cpp" line="56"/>
+        <source>Choose a file</source>
+        <translation type="unfinished">Выбрать файл</translation>
+    </message>
+    <message>
+        <location filename="../src/adhoc_fileserver.cpp" line="63"/>
+        <source>File</source>
+        <translation type="unfinished">Файл</translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/main.cpp" line="48"/>
+        <source>Socket Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/main.cpp" line="49"/>
+        <source>Cannot create a server socket!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RegistrationDlg</name>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="272"/>
+        <location filename="../src/registrationdlg.cpp" line="268"/>
         <source>&lt;b&gt;Registration for &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
         <translation>&lt;b&gt;Регистрация &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="212"/>
+        <location filename="../src/registrationdlg.cpp" line="211"/>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Регистрационная информация уже отправлена, поэтому закрытие этого окна ни к чему не приведёт. Закрыть его?&lt;/qt&gt;</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="212"/>
+        <location filename="../src/registrationdlg.cpp" line="211"/>
         <source>Busy</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="187"/>
+        <location filename="../src/registrationdlg.cpp" line="186"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="375"/>
-        <location filename="../src/registrationdlg.cpp" line="379"/>
+        <location filename="../src/registrationdlg.cpp" line="374"/>
+        <location filename="../src/registrationdlg.cpp" line="378"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="379"/>
+        <location filename="../src/registrationdlg.cpp" line="378"/>
         <source>Error submitting registration form.
 Reason: %1</source>
         <translation>Ошибка отправки регистрационных данных.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="221"/>
+        <location filename="../src/registrationdlg.cpp" line="220"/>
         <source>Fetching registration form for %1 ...</source>
         <translation>Загрузка регистрационной формы для %1...</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="212"/>
+        <location filename="../src/registrationdlg.cpp" line="211"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="183"/>
+        <location filename="../src/registrationdlg.cpp" line="182"/>
         <source>&amp;Register</source>
         <translation>За&amp;регистрироваться</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="369"/>
+        <location filename="../src/registrationdlg.cpp" line="368"/>
         <source>Registration successful.</source>
         <translation>Регистрация была успешно завершена.</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="161"/>
+        <location filename="../src/registrationdlg.cpp" line="157"/>
         <source>Registration: %1</source>
         <translation>Регистрация: %1</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="369"/>
+        <location filename="../src/registrationdlg.cpp" line="368"/>
         <source>Success</source>
         <translation>Регистрация завершена</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="375"/>
+        <location filename="../src/registrationdlg.cpp" line="374"/>
         <source>Unable to retrieve registration form.
 Reason: %1</source>
         <translation>Невозможно загрузить регистрационную форму.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="212"/>
+        <location filename="../src/registrationdlg.cpp" line="211"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -10117,6 +10715,14 @@ Reason: %1</source>
         <location filename="../src/resourcemenu.cpp" line="53"/>
         <source>[blank]</source>
         <translation>[пусто]</translation>
+    </message>
+</context>
+<context>
+    <name>RoomModel</name>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="55"/>
+        <source>Groupchat name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10132,92 +10738,92 @@ Reason: %1</source>
     <message>
         <location filename="../src/search.ui" line="239"/>
         <source>&amp;Add Contact</source>
-        <translation>&amp;Добавить контакт</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="299"/>
-        <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="193"/>
-        <source>E-Mail Address</source>
-        <translation>E-Mail</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="171"/>
-        <source>First Name</source>
-        <translation>Имя</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="72"/>
-        <source>form</source>
-        <translation>форма</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="62"/>
-        <source>Instructions go here.</source>
-        <translation>Здесь будут инструкции.</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="204"/>
-        <source>Jabber ID</source>
-        <translation>Jabber ID</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="182"/>
-        <source>Last Name</source>
-        <translation>Фамилия</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="160"/>
-        <source>Nickname</source>
-        <translation>Ник</translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="242"/>
-        <source>psi/addContact</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="87"/>
-        <source>psi/search</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/search.ui" line="116"/>
-        <source>psi/stop</source>
-        <translation></translation>
+        <translation type="unfinished">&amp;Добавить контакт</translation>
     </message>
     <message>
         <location filename="../src/search.ui" line="252"/>
         <source>psi/vCard</source>
-        <translation></translation>
+        <translation type="unfinished">psi/vCard</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="299"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="193"/>
+        <source>E-Mail Address</source>
+        <translation type="unfinished">E-Mail</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="171"/>
+        <source>First Name</source>
+        <translation type="unfinished">Имя</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="72"/>
+        <source>form</source>
+        <translation type="unfinished">форма</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="62"/>
+        <source>Instructions go here.</source>
+        <translation type="unfinished">Здесь будут инструкции.</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="87"/>
+        <source>psi/search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="116"/>
+        <source>psi/stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="204"/>
+        <source>Jabber ID</source>
+        <translation type="unfinished">Jabber ID</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="182"/>
+        <source>Last Name</source>
+        <translation type="unfinished">Фамилия</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="160"/>
+        <source>Nickname</source>
+        <translation type="unfinished">Ник</translation>
     </message>
     <message>
         <location filename="../src/search.ui" line="84"/>
         <source>&amp;Search</source>
-        <translation>&amp;Поиск</translation>
+        <translation type="unfinished">&amp;Поиск</translation>
     </message>
     <message>
         <location filename="../src/search.ui" line="39"/>
         <source>Search Fields</source>
-        <translation>Поля поиска</translation>
+        <translation type="unfinished">Поля поиска</translation>
     </message>
     <message>
         <location filename="../src/search.ui" line="16"/>
         <source>Search: %1</source>
-        <translation>Поиск: %1</translation>
+        <translation type="unfinished">Поиск: %1</translation>
     </message>
     <message>
         <location filename="../src/search.ui" line="113"/>
         <source>&amp;Stop</source>
-        <translation>&amp;Стоп</translation>
+        <translation type="unfinished">&amp;Стоп</translation>
+    </message>
+    <message>
+        <location filename="../src/search.ui" line="242"/>
+        <source>psi/addContact</source>
+        <translation type="unfinished">psi/addContact</translation>
     </message>
     <message>
         <location filename="../src/search.ui" line="249"/>
         <source>User &amp;Info</source>
-        <translation>&amp;vCard</translation>
+        <translation type="unfinished">&amp;vCard</translation>
     </message>
 </context>
 <context>
@@ -10279,14 +10885,52 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>SelectGame</name>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="167"/>
+        <source>New game with...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="168"/>
+        <source>To play with </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="172"/>
+        <source>Choose your game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="173"/>
+        <source>White game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="174"/>
+        <source>Black game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="176"/>
+        <source>Play!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="177"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Отмена</translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="526"/>
+        <location filename="../src/mainwin_p.cpp" line="525"/>
         <source>&lt;Separator&gt;</source>
         <translation>&lt;Разделитель&gt;</translation>
     </message>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="529"/>
+        <location filename="../src/mainwin_p.cpp" line="528"/>
         <source>Separator</source>
         <translation>Разделитель</translation>
     </message>
@@ -10514,8 +11158,8 @@ Reason: %1</source>
 <context>
     <name>ShowTextDlg</name>
     <message>
-        <location filename="../src/showtextdlg.cpp" line="56"/>
-        <location filename="../src/showtextdlg.cpp" line="81"/>
+        <location filename="../src/showtextdlg.cpp" line="58"/>
+        <location filename="../src/showtextdlg.cpp" line="85"/>
         <source>&amp;OK</source>
         <translation>&amp;ОК</translation>
     </message>
@@ -10523,13 +11167,13 @@ Reason: %1</source>
 <context>
     <name>SpacerAction</name>
     <message>
+        <location filename="../src/mainwin_p.cpp" line="494"/>
         <location filename="../src/mainwin_p.cpp" line="495"/>
-        <location filename="../src/mainwin_p.cpp" line="496"/>
         <source>&lt;Spacer&gt;</source>
         <translation>&lt;Разделитель&gt;</translation>
     </message>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="497"/>
+        <location filename="../src/mainwin_p.cpp" line="496"/>
         <source>Spacer provides spacing to separate actions</source>
         <translation>Динамический разделитель</translation>
     </message>
@@ -10760,73 +11404,73 @@ Reason: %1</source>
 <context>
     <name>StatusSetDlg</name>
     <message>
-        <location filename="../src/statusdlg.cpp" line="150"/>
+        <location filename="../src/statusdlg.cpp" line="154"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Нет&gt;</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="169"/>
+        <location filename="../src/statusdlg.cpp" line="173"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Отмена</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="223"/>
+        <location filename="../src/statusdlg.cpp" line="227"/>
         <source>Can&apos;t create a blank preset!</source>
         <translation>Невозможно создать пустой шаблон!</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="222"/>
         <location filename="../src/statusdlg.cpp" line="226"/>
+        <location filename="../src/statusdlg.cpp" line="230"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="214"/>
+        <location filename="../src/statusdlg.cpp" line="218"/>
         <source>New Status Preset</source>
         <translation>Новый шаблон статуса</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="215"/>
+        <location filename="../src/statusdlg.cpp" line="219"/>
         <source>Please enter a name for the new status preset:</source>
         <translation>Введите название нового шаблона:</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="147"/>
+        <location filename="../src/statusdlg.cpp" line="151"/>
         <source>Preset:</source>
         <translation>Шаблон:</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="140"/>
+        <location filename="../src/statusdlg.cpp" line="144"/>
         <source>Priority:</source>
         <translation>Приоритет:</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="171"/>
+        <location filename="../src/statusdlg.cpp" line="175"/>
         <source>Sa&amp;ve as Preset</source>
         <translation>&amp;Сохранить как шаблон</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="168"/>
+        <location filename="../src/statusdlg.cpp" line="172"/>
         <source>&amp;Set</source>
         <translation>&amp;Установить</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="120"/>
+        <location filename="../src/statusdlg.cpp" line="122"/>
         <source>Set Status: %1</source>
         <translation>Статус: %1</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="106"/>
+        <location filename="../src/statusdlg.cpp" line="108"/>
         <source>Set Status: All accounts</source>
         <translation>Статус для всех аккаунтов</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="134"/>
+        <location filename="../src/statusdlg.cpp" line="138"/>
         <source>Status:</source>
         <translation>Статус:</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="227"/>
+        <location filename="../src/statusdlg.cpp" line="231"/>
         <source>You already have a preset with that name!</source>
         <translation>Шаблон с таким названием уже существует!</translation>
     </message>
@@ -10834,12 +11478,12 @@ Reason: %1</source>
 <context>
     <name>StatusShowDlg</name>
     <message>
-        <location filename="../src/statusdlg.cpp" line="59"/>
+        <location filename="../src/statusdlg.cpp" line="61"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/statusdlg.cpp" line="70"/>
+        <location filename="../src/statusdlg.cpp" line="72"/>
         <source>Status for %1</source>
         <translation>Статус %1</translation>
     </message>
@@ -10847,52 +11491,52 @@ Reason: %1</source>
 <context>
     <name>TabDlg</name>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="476"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="477"/>
         <source> is composing</source>
         <translation> печатает...</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="472"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="473"/>
         <source>%1 Conversations</source>
         <translation>%1 Чаты</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="265"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="266"/>
         <source>Close Current Tab</source>
         <translation>Закрыть таб</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="229"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="230"/>
         <source>Close Tab</source>
         <translation>Закрыть таб</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="264"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="265"/>
         <source>Detach Current Tab</source>
         <translation>Отсоединить таб</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="226"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="227"/>
         <source>Detach Tab</source>
         <translation>Отсоединить таб</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="234"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="235"/>
         <source>Send Tab To</source>
         <translation>Присоединить таб к</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="268"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="269"/>
         <source>Send Current Tab To</source>
         <translation>Присоединить таб к</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="280"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="281"/>
         <source>Use for New Chats</source>
         <translation>Использовать для новых чатов</translation>
     </message>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="283"/>
+        <location filename="../src/tabs/tabdlg.cpp" line="284"/>
         <source>Use for New Mucs</source>
         <translation>Использовать для новых конференций</translation>
     </message>
@@ -10906,61 +11550,343 @@ Reason: %1</source>
     </message>
 </context>
 <context>
+    <name>TestDlg</name>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="203"/>
+        <source>XMPP Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="223"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="322"/>
+        <source>&amp;Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="290"/>
+        <source>About %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="290"/>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  JEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="336"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="346"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="350"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="358"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="383"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="393"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="398"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="478"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="492"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="500"/>
+        <source>Error</source>
+        <translation type="unfinished">Ошибка</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="336"/>
+        <source>Please enter the Full JID to connect with.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="346"/>
+        <source>You must specify a host:port for the proxy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="350"/>
+        <source>You must at least enter a URL to use http poll.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="358"/>
+        <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="383"/>
+        <source>Please enter the host in the form &apos;host:port&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="393"/>
+        <source>Error: SSF Min is greater than SSF Max.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="398"/>
+        <source>Error: TLS not available.  Disable any TLS options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="423"/>
+        <source>&amp;Disconnect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="478"/>
+        <source>Bad XML input (%1,%2): %3
+Please correct and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="492"/>
+        <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="500"/>
+        <source>You must enter at least one stanza!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="655"/>
+        <source>Password</source>
+        <translation type="unfinished">Пароль</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="655"/>
+        <source>Enter the password for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>TestUI</name>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="13"/>
+        <source>Form1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="28"/>
+        <source>Core</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="37"/>
+        <source>Server</source>
+        <translation type="unfinished">Сервер</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="48"/>
+        <source>Full JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="65"/>
+        <source>User (if needed):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="79"/>
+        <source>Pass:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="100"/>
+        <source>SSL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="108"/>
+        <source>None</source>
+        <translation type="unfinished">Нет</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="113"/>
+        <source>HTTP(S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="118"/>
+        <source>SOCKS5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="123"/>
+        <source>HTTP Polling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="131"/>
+        <location filename="../iris/tools/xmpptest/test.ui" line="163"/>
+        <source>Host:Port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="138"/>
+        <source>Legacy SSL probe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="145"/>
+        <source>Proxy:</source>
+        <translation type="unfinished">Прокси-сервер:</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="157"/>
+        <source>Proxy Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="173"/>
+        <source>User/Pass:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="183"/>
+        <location filename="../iris/tools/xmpptest/test.ui" line="245"/>
+        <source>/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="197"/>
+        <source>Polling URL:</source>
+        <translation type="unfinished">URL для поллинга:</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="210"/>
+        <source>Security Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="216"/>
+        <source>Allow plaintext login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="223"/>
+        <source>Require mutual authentication</source>
+        <translation type="unfinished">Требовать взаимную аутентификацию</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="235"/>
+        <source>SASL SSF min/max:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="268"/>
+        <source>&amp;Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="271"/>
+        <source>Alt+C</source>
+        <translation type="unfinished">Alt+C</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="294"/>
+        <source>&amp;About</source>
+        <translation type="unfinished">&amp;О программе</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="319"/>
+        <source>Quick XML &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="330"/>
+        <source>To:</source>
+        <translation type="unfinished">Кому:</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="347"/>
+        <source>&amp;IM Session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="354"/>
+        <source>&amp;Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="361"/>
+        <source>IQ &amp;Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="382"/>
+        <source>IM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="439"/>
+        <source>&amp;Send</source>
+        <translation type="unfinished">&amp;Отправить</translation>
+    </message>
+    <message>
+        <location filename="../iris/tools/xmpptest/test.ui" line="442"/>
+        <source>Alt+S</source>
+        <translation type="unfinished">Alt+S</translation>
+    </message>
+</context>
+<context>
     <name>Tip</name>
     <message>
         <location filename="../src/tip.ui" line="241"/>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished">Alt+C</translation>
     </message>
     <message>
         <location filename="../src/tip.ui" line="228"/>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
-    </message>
-    <message>
-        <location filename="../src/tip.ui" line="215"/>
-        <source>Alt+P</source>
-        <translation>Alt+P</translation>
-    </message>
-    <message>
-        <location filename="../src/tip.ui" line="238"/>
-        <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
-    </message>
-    <message>
-        <location filename="../src/tip.ui" line="225"/>
-        <source>&amp;Next</source>
-        <translation>&amp;Следующий</translation>
-    </message>
-    <message>
-        <location filename="../src/tip.ui" line="212"/>
-        <source>&amp;Previous</source>
-        <translation>&amp;Предыдущий</translation>
-    </message>
-    <message>
-        <location filename="../src/tip.ui" line="218"/>
-        <source>psi/arrowLeft</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/tip.ui" line="231"/>
-        <source>psi/arrowRight</source>
-        <translation></translation>
+        <translation type="unfinished">Alt+N</translation>
     </message>
     <message>
         <location filename="../src/tip.ui" line="59"/>
         <source>psi/logo_128</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/tip.ui" line="215"/>
+        <source>Alt+P</source>
+        <translation type="unfinished">Alt+P</translation>
+    </message>
+    <message>
+        <location filename="../src/tip.ui" line="218"/>
+        <source>psi/arrowLeft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/tip.ui" line="231"/>
+        <source>psi/arrowRight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/tip.ui" line="238"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Закрыть</translation>
+    </message>
+    <message>
+        <location filename="../src/tip.ui" line="225"/>
+        <source>&amp;Next</source>
+        <translation type="unfinished">&amp;Следующий</translation>
+    </message>
+    <message>
+        <location filename="../src/tip.ui" line="212"/>
+        <source>&amp;Previous</source>
+        <translation type="unfinished">&amp;Предыдущий</translation>
     </message>
     <message>
         <location filename="../src/tip.ui" line="189"/>
         <source>Show tips at startup</source>
-        <translation>Показывать советы при запуске</translation>
+        <translation type="unfinished">Показывать советы при запуске</translation>
     </message>
     <message>
         <location filename="../src/tip.ui" line="16"/>
         <source>Useful Tips</source>
-        <translation>Полезные советы</translation>
+        <translation type="unfinished">Полезные советы</translation>
     </message>
 </context>
 <context>
@@ -11139,6 +12065,10 @@ And these work only in groupchat dialog:
         <translation>Открыть в браузере</translation>
     </message>
     <message>
+        <source>Send massage to</source>
+        <translation type="obsolete">Отправить сообщение</translation>
+    </message>
+    <message>
         <location filename="../src/widgets/urlobject.cpp" line="53"/>
         <source>Open</source>
         <translation>Открыть</translation>
@@ -11154,22 +12084,22 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/voicecall.ui" line="37"/>
         <source>Accept</source>
-        <translation>Принять</translation>
+        <translation type="unfinished">Принять</translation>
     </message>
     <message>
         <location filename="../src/voicecall.ui" line="67"/>
         <source>Hang Up</source>
-        <translation>Повесить трубку</translation>
+        <translation type="unfinished">Повесить трубку</translation>
     </message>
     <message>
         <location filename="../src/voicecall.ui" line="44"/>
         <source>Reject</source>
-        <translation>Отклонить</translation>
+        <translation type="unfinished">Отклонить</translation>
     </message>
     <message>
         <location filename="../src/voicecall.ui" line="16"/>
         <source>Voice Call</source>
-        <translation>Звонок</translation>
+        <translation type="unfinished">Звонок</translation>
     </message>
 </context>
 <context>
@@ -11487,64 +12417,64 @@ The contents of the whiteboard will be lost.</source>
     <message>
         <location filename="../src/xmlconsole.ui" line="134"/>
         <source>Clear</source>
-        <translation>Очистить</translation>
+        <translation type="unfinished">Очистить</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="148"/>
         <source>Close</source>
-        <translation>Закрыть</translation>
+        <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="127"/>
         <source>Dump Ringbuf</source>
-        <translation>Дамп буфера</translation>
+        <translation type="unfinished">Дамп буфера</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="107"/>
         <source>Enable</source>
-        <translation>Включить</translation>
+        <translation type="unfinished">Включить</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="31"/>
         <source>Filter</source>
-        <translation>Фильтр</translation>
+        <translation type="unfinished">Фильтр</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="63"/>
         <source>IQ</source>
-        <translation>IQ</translation>
+        <translation type="unfinished">IQ</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="86"/>
         <source>JID:</source>
-        <translation>JID:</translation>
+        <translation type="unfinished">JID:</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="43"/>
         <source>Message</source>
-        <translation>Сообщения</translation>
+        <translation type="unfinished">Сообщения</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="53"/>
         <source>Presence</source>
-        <translation>Присутствия</translation>
+        <translation type="unfinished">Присутствия</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="13"/>
         <source>XML Console</source>
-        <translation>Консоль XML</translation>
+        <translation type="unfinished">Консоль XML</translation>
     </message>
     <message>
         <location filename="../src/xmlconsole.ui" line="141"/>
         <source>XML Input...</source>
-        <translation>Ввод XML...</translation>
+        <translation type="unfinished">Ввод XML...</translation>
     </message>
 </context>
 <context>
     <name>XmlConsole</name>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="86"/>
-        <location filename="../src/xmlconsole.cpp" line="88"/>
+        <location filename="../src/xmlconsole.cpp" line="87"/>
+        <location filename="../src/xmlconsole.cpp" line="89"/>
         <source>XML Console</source>
         <translation>Консоль XML</translation>
     </message>
@@ -11552,37 +12482,37 @@ The contents of the whiteboard will be lost.</source>
 <context>
     <name>XmlPrompt</name>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="195"/>
+        <location filename="../src/xmlconsole.cpp" line="198"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="213"/>
+        <location filename="../src/xmlconsole.cpp" line="216"/>
         <source>Malformed XML</source>
         <translation>Неправильный XML</translation>
     </message>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="213"/>
+        <location filename="../src/xmlconsole.cpp" line="216"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="189"/>
+        <location filename="../src/xmlconsole.cpp" line="192"/>
         <source>&amp;Transmit</source>
         <translation>&amp;Передать</translation>
     </message>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="178"/>
+        <location filename="../src/xmlconsole.cpp" line="179"/>
         <source>XML Input</source>
         <translation>Ввод XML</translation>
     </message>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="213"/>
+        <location filename="../src/xmlconsole.cpp" line="216"/>
         <source>Yes</source>
         <translation>Да</translation>
     </message>
     <message>
-        <location filename="../src/xmlconsole.cpp" line="213"/>
+        <location filename="../src/xmlconsole.cpp" line="216"/>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
         <translation>Вы ввели неправильный XML. Вы уверены в необходимости его отправки?</translation>
     </message>
