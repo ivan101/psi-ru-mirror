@@ -5799,10 +5799,6 @@ Details: %1</source>
         <translation>Открывать окно чата при получении новых сообщений</translation>
     </message>
     <message>
-        <source>Use tabbed mode</source>
-        <translation type="obsolete">Использовать режим табов</translation>
-    </message>
-    <message>
         <location filename="../src/options/opt_chat.ui" line="92"/>
         <source>for mucs and chats in one window</source>
         <translation>для чатов и конференций в одном окне</translation>
@@ -11141,10 +11137,6 @@ And these work only in groupchat dialog:
         <location filename="../src/widgets/urlobject.cpp" line="61"/>
         <source>Open web browser</source>
         <translation>Открыть в браузере</translation>
-    </message>
-    <message>
-        <source>Send massage to</source>
-        <translation type="obsolete">Отправить сообщение</translation>
     </message>
     <message>
         <location filename="../src/widgets/urlobject.cpp" line="53"/>
