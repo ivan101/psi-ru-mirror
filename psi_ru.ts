@@ -100,7 +100,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../src/aboutdlg.cpp" line="73"/>
         <source>Former language coordinator, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Бывший координатор перевода, различная помощь</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="82"/>
@@ -128,7 +128,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>Координатор перевода, разная помощь</translation>
+        <translation>Координатор перевода, различная помощь</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="48"/>
@@ -3070,12 +3070,12 @@ contact is offline.</source>
     <message>
         <location filename="../src/filetrans.ui" line="152"/>
         <source>stop</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="159"/>
         <source>start</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/filetrans.ui" line="34"/>
@@ -3698,12 +3698,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/gcuserview.cpp" line="361"/>
         <source>No reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Без причины</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="362"/>
         <source>Custom reason</source>
-        <translation type="unfinished"></translation>
+        <translation>Указание причины</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="378"/>
@@ -4599,7 +4599,7 @@ Are you sure you want to do this?</source>
     <message>
         <location filename="../src/info.ui" line="98"/>
         <source>View in real size</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр в реальном размере</translation>
     </message>
     <message>
         <location filename="../src/info.ui" line="180"/>
@@ -4768,17 +4768,17 @@ Reason: %1</source>
     <message>
         <location filename="../src/infodlg.cpp" line="113"/>
         <source>First Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя:</translation>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="114"/>
         <source>Middle Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отчество:</translation>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="115"/>
         <source>Last Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фамилия:</translation>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="190"/>
@@ -5204,12 +5204,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="13"/>
         <source>Reason editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор причин</translation>
     </message>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="25"/>
         <source>Reasons</source>
-        <translation type="unfinished"></translation>
+        <translation>Причина</translation>
     </message>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="55"/>
@@ -5219,7 +5219,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="62"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../src/mucreasonseditor.ui" line="95"/>
@@ -5633,17 +5633,17 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="354"/>
         <source>Sent message foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет иcходящего сообщения:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="361"/>
         <source>Received message foreground:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет входящего сообщения:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="368"/>
         <source>Informational messages in chats:</source>
-        <translation type="unfinished"></translation>
+        <translation>Информационные сообщения в чате:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="375"/>
@@ -5855,7 +5855,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_chat.ui" line="69"/>
         <source>Use tabbed mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать режим табов:</translation>
     </message>
     <message>
         <location filename="../src/options/opt_chat.ui" line="120"/>
@@ -6465,17 +6465,17 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="249"/>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет имени контакта в чате для исходящих сообщений, а также  цвет исходящих сообщений в истории.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="251"/>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет имени контакта в чате для входящих сообщений, а также  цвет входящих сообщений в истории.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="253"/>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет информационных сообщений в окне чата, таких как изменение статуса и сообщение выхода.</translation>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.cpp" line="146"/>
@@ -6631,7 +6631,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../src/options/opt_application.cpp" line="157"/>
         <source>(TCP: Disabled, UDP: Auto)</source>
-        <translation type="unfinished"></translation>
+        <translation>(TCP: Отключено, UDP: Авто)</translation>
     </message>
     <message>
         <location filename="../src/options/opt_application.cpp" line="160"/>
@@ -7641,12 +7641,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/profileopen.ui" line="36"/>
         <source>left</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="50"/>
         <source>right</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="123"/>
@@ -8886,7 +8886,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psicon.cpp" line="706"/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отключиться</translation>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="1345"/>
@@ -10198,12 +10198,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/adhoc_fileserver.cpp" line="55"/>
         <source>Choose file</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать файл</translation>
     </message>
     <message>
         <location filename="../src/adhoc_fileserver.cpp" line="56"/>
         <source>Choose a file</source>
-        <translation type="unfinished">Выбрать файл</translation>
+        <translation>Выбрать файл</translation>
     </message>
     <message>
         <location filename="../src/adhoc_fileserver.cpp" line="63"/>
@@ -10713,17 +10713,17 @@ Reason: %1</source>
     <message>
         <location filename="../src/vcardphotodlg.cpp" line="17"/>
         <source>Photo Preview: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпросмотр фото: %1</translation>
     </message>
     <message>
         <location filename="../src/vcardphotodlg.cpp" line="41"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сохранить как...</translation>
     </message>
     <message>
         <location filename="../src/vcardphotodlg.cpp" line="44"/>
         <source>&amp;Restore Size</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Восстановить размер</translation>
     </message>
     <message>
         <location filename="../src/vcardphotodlg.cpp" line="50"/>
@@ -10733,12 +10733,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/vcardphotodlg.cpp" line="50"/>
         <source>photo.png</source>
-        <translation type="unfinished"></translation>
+        <translation>photo.png</translation>
     </message>
     <message>
         <location filename="../src/vcardphotodlg.cpp" line="51"/>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл PNG (*.png);;Файл JPEG (*.jpeg);;Файл BMP (*.bmp);;Файл PPM (*.ppm);;Все файлы (*)</translation>
     </message>
 </context>
 <context>
@@ -11613,7 +11613,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../src/widgets/urlobject.cpp" line="69"/>
         <source>Send message to</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить сообщение</translation>
     </message>
     <message>
         <location filename="../src/widgets/urlobject.cpp" line="81"/>
