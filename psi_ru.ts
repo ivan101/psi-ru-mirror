@@ -123,7 +123,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 25.11.2009</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 27.11.2009</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="70"/>
@@ -2479,22 +2479,22 @@ Proceed?</source>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1651"/>
         <source>Error moving</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка перемещения</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1651"/>
         <source>You cannot move this figure because the king is in check</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы не можете передвигать эту фигуру пока идет проверка</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1813"/>
         <source>To castle</source>
-        <translation type="unfinished"></translation>
+        <translation>В башню</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1814"/>
         <source>Do you want to castle?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам нужна башня?</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1814"/>
@@ -2834,7 +2834,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1831"/>
         <source>What figure should I set?</source>
-        <translation type="unfinished"></translation>
+        <translation>Какую фигуру нужно установить?</translation>
     </message>
 </context>
 <context>
@@ -3756,179 +3756,181 @@ Reason: %1</source>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="660"/>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белые</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="662"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Чёрные</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="663"/>
         <source>game with</source>
-        <translation type="unfinished"></translation>
+        <translation>играть с</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="673"/>
         <source>Game chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Игровой чат</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="681"/>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>История</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="692"/>
         <source>Looking up the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск сервера</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="768"/>
         <source>Accepted a new connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтверждение нового соединения</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="940"/>
         <source>The host found</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер найден</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="950"/>
         <source>Connected to the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Соединение с сервером</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="982"/>
         <source>Socket Error...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка сокета...</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="983"/>
         <source>You have a socket error number</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы получили номер ошибки сокета</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1016"/>
         <source>game from</source>
-        <translation type="unfinished"></translation>
+        <translation>приглашение от</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1017"/>
         <source>Accepted the</source>
-        <translation type="unfinished"></translation>
+        <translation>Подтвердить</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1039"/>
         <source>Your move...</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы ходите...</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1066"/>
         <source>Waiting a move...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ожидание хода...</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1076"/>
         <source>End the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Конец игры</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1077"/>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите закончить игру?
+В таком случае вы проиграете</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1078"/>
         <source>Yes, end</source>
-        <translation type="unfinished"></translation>
+        <translation>Да, закончить</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1078"/>
         <source>No, continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет, продолжить</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1146"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1149"/>
         <source>K</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1152"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1155"/>
         <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1158"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка!</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1232"/>
         <source>Lookup Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка просмотра</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1233"/>
         <source>The host</source>
-        <translation type="unfinished"></translation>
+        <translation>Узел</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1233"/>
         <source>not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>не найден.</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1246"/>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить изображение</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1260"/>
         <source>Do you want to save the image?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить изображение?</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1261"/>
         <source>Yes, save</source>
-        <translation type="unfinished"></translation>
+        <translation>Да, сохранить</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1262"/>
         <source>No, don&apos;t save</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет, не сохранять</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1263"/>
         <source>Game over</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы проиграли</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1267"/>
         <source>You scored the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы выиграли</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1272"/>
         <source>You have a mate.
 You lost the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам мат.
+Вы проиграли.</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1277"/>
         <source>You have a stalemate</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас пат</translation>
     </message>
 </context>
 <context>
@@ -4060,7 +4062,7 @@ You lost the game.</source>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="21"/>
         <source>Groupchat server:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер конференций</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="31"/>
@@ -4070,12 +4072,12 @@ You lost the game.</source>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="45"/>
         <source>Specify groupchat name manually:</source>
-        <translation type="unfinished"></translation>
+        <translation>Укажите имя конференции вручную:</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="55"/>
         <source>Show your name in the groupchat as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш ник в конференции:</translation>
     </message>
 </context>
 <context>
@@ -5348,7 +5350,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="48"/>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить изображение</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="52"/>
@@ -5358,12 +5360,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="55"/>
         <source>About the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Об игре</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="57"/>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation>Игра</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="59"/>
@@ -5373,12 +5375,12 @@ Reason: %1</source>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="62"/>
         <source>Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="129"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="129"/>
@@ -5388,7 +5390,10 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="unfinished"></translation>
+        <translation>Это сетевая игра в шахматы для двух игроков.
+Данное программное обеспечение распространяется под лицензией GPL.
+
+Россия, Тамбов, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
@@ -8832,7 +8837,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psicli.h" line="61"/>
         <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi - мультиплатформенный джаббер-клиент для опытного пользователя</translation>
     </message>
     <message>
         <location filename="../src/psicli.h" line="63"/>
@@ -8848,7 +8853,7 @@ Reason: %1.</source>
         <location filename="../src/psicli.h" line="75"/>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cкомпилировано c Qt %1</translation>
     </message>
 </context>
 <context>
@@ -8964,13 +8969,15 @@ Reason: %1</source>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="366"/>
         <source>Unable to create groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно создать конференцию.
+Причина: %1</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="380"/>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно уничтожить конференцию.
+Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -8978,17 +8985,17 @@ Reason: %1</source>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="177"/>
         <source>Destroy</source>
-        <translation type="unfinished"></translation>
+        <translation>Уничтожить</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="203"/>
         <source>Create Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать конференцию</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="204"/>
         <source>Choose a name for the groupchat you want to create</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите имя создаваемой конференции</translation>
     </message>
 </context>
 <context>
@@ -10178,22 +10185,22 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="86"/>
         <source>No certificate presented.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сертификат не предоставлен.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="91"/>
         <source>Hostname mismatch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя сервера не совпадает.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="94"/>
         <source>Invalid Certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проблемный сертификат.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="123"/>
         <source>General validation error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Общая ошибка проверки.</translation>
     </message>
     <message>
         <location filename="../src/adhoc_fileserver.cpp" line="55"/>
@@ -10213,12 +10220,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/plugins/generic/chess/main.cpp" line="48"/>
         <source>Socket Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка сокета</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/main.cpp" line="49"/>
         <source>Cannot create a server socket!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать сокет сервера!</translation>
     </message>
 </context>
 <context>
@@ -10311,7 +10318,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="55"/>
         <source>Groupchat name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя конференции</translation>
     </message>
 </context>
 <context>
@@ -10476,32 +10483,32 @@ Reason: %1</source>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="167"/>
         <source>New game with...</source>
-        <translation type="unfinished"></translation>
+        <translation>Новая игра с...</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="168"/>
         <source>To play with </source>
-        <translation type="unfinished"></translation>
+        <translation>Для игры с </translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="172"/>
         <source>Choose your game</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите ваш цвет</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="173"/>
         <source>White game</source>
-        <translation type="unfinished"></translation>
+        <translation>Игра белыми</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="174"/>
         <source>Black game</source>
-        <translation type="unfinished"></translation>
+        <translation>Игра чёрными</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="176"/>
         <source>Play!</source>
-        <translation type="unfinished"></translation>
+        <translation>Играть!</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="177"/>
@@ -11137,17 +11144,17 @@ Reason: %1</source>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="203"/>
         <source>XMPP Test</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP тест</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="223"/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Подключиться</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="290"/>
         <source>About %1</source>
-        <translation type="unfinished"></translation>
+        <translation>О %1</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="290"/>
@@ -11231,7 +11238,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="655"/>
         <source>Enter the password for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите пароль для %1</translation>
     </message>
 </context>
 <context>
@@ -11239,12 +11246,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="13"/>
         <source>Form1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="28"/>
         <source>Core</source>
-        <translation type="unfinished"></translation>
+        <translation>Ядро</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="37"/>
@@ -11254,22 +11261,22 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="48"/>
         <source>Full JID:</source>
-        <translation type="unfinished"></translation>
+        <translation>Полный JID:</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="65"/>
         <source>User (if needed):</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя пользователя (если требуется):</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="79"/>
         <source>Pass:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="100"/>
         <source>SSL</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="108"/>
@@ -11289,17 +11296,17 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="123"/>
         <source>HTTP Polling</source>
-        <translation type="unfinished"></translation>
+        <translation>Поллинг HTTP</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="131"/>
         <source>Host:Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Узел:Порт:</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="138"/>
         <source>Legacy SSL probe</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка SSL</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="145"/>
@@ -11309,17 +11316,17 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="157"/>
         <source>Proxy Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка прокси-сервера</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="173"/>
         <source>User/Pass:</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователь/пароль:</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="183"/>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="197"/>
@@ -11329,12 +11336,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="210"/>
         <source>Security Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка безопасности</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="216"/>
         <source>Allow plaintext login</source>
-        <translation type="unfinished"></translation>
+        <translation>Позволить аутентификацию открытым текстом</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="223"/>
@@ -11344,12 +11351,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="235"/>
         <source>SASL SSF min/max:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мин./макс. SASL SSF:</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="268"/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Подключиться</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="271"/>
@@ -11364,7 +11371,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="319"/>
         <source>Quick XML &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>XML &gt;&gt;</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="330"/>
@@ -11374,22 +11381,22 @@ Please correct and try again.</source>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="347"/>
         <source>&amp;IM Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Сеанс &amp;IM</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="354"/>
         <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Сообщение</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="361"/>
         <source>IQ &amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Версия &amp;IQ</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="382"/>
         <source>IM</source>
-        <translation type="unfinished"></translation>
+        <translation>IM</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="439"/>
