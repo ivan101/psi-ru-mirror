@@ -138,7 +138,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../src/aboutdlg.cpp" line="51"/>
         <source>Lead Developer and Past Maintainer</source>
-        <translation>Ведущий разработчик и прошлый сопровождающий</translation>
+        <translation>Ведущий разработчик и бывший сопровождающий</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="54"/>
@@ -788,7 +788,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../src/accountreg.ui" line="276"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/accountreg.ui" line="86"/>
@@ -2880,7 +2880,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../src/filetransdlg.cpp" line="803"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="774"/>
@@ -3218,7 +3218,7 @@ Reason: %3</source>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1355"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1358"/>
@@ -7896,7 +7896,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../src/psiaccount.cpp" line="5043"/>
         <source>Do &amp;nothing</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="2232"/>
@@ -11002,7 +11002,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/statusdlg.cpp" line="173"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Отмена</translation>
+        <translation>О&amp;тмена</translation>
     </message>
     <message>
         <location filename="../src/statusdlg.cpp" line="227"/>
