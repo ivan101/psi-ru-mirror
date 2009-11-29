@@ -5,6 +5,7 @@
     <name>@default</name>
     <message>
         <location filename="../src/aboutdlg.cpp" line="40"/>
+        <location filename="../src/translationmanager.cpp" line="161"/>
         <source>language_name</source>
         <translation>Русский</translation>
     </message>
@@ -13,6 +14,7 @@
     <name>AHCFormDlg</name>
     <message>
         <location filename="../src/ahcformdlg.cpp" line="65"/>
+        <location filename="../src/ahcformdlg.cpp" line="103"/>
         <source>Finish</source>
         <translation>Завершить</translation>
     </message>
@@ -94,6 +96,7 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="60"/>
+        <location filename="../src/aboutdlg.cpp" line="63"/>
         <source>Developer</source>
         <translation>Разработчик</translation>
     </message>
@@ -104,11 +107,13 @@ Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/aboutdlg.cpp" line="82"/>
+        <location filename="../src/aboutdlg.cpp" line="85"/>
         <source>Graphics</source>
         <translation>Графика</translation>
     </message>
     <message>
         <location filename="../src/about.ui" line="119"/>
+        <location filename="../src/about.ui" line="122"/>
         <source>http://psi-im.org</source>
         <translation></translation>
     </message>
@@ -346,6 +351,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../src/accountmodify.ui" line="41"/>
+        <location filename="../src/accountmodify.ui" line="53"/>
         <source>Account</source>
         <translation>Аккаунт</translation>
     </message>
@@ -501,6 +507,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../src/accountmodify.ui" line="603"/>
+        <location filename="../src/accountmodify.ui" line="898"/>
         <source>Port:</source>
         <translation>Порт:</translation>
     </message>
@@ -599,6 +606,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="104"/>
+        <location filename="../src/accountmodifydlg.cpp" line="111"/>
         <source>Always</source>
         <translation>Всегда</translation>
     </message>
@@ -649,6 +657,8 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="394"/>
+        <location filename="../src/accountmodifydlg.cpp" line="468"/>
+        <location filename="../src/accountmodifydlg.cpp" line="471"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -694,6 +704,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../src/accountmodifydlg.cpp" line="106"/>
+        <location filename="../src/accountmodifydlg.cpp" line="113"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
@@ -870,6 +881,9 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <location filename="../src/accountregdlg.cpp" line="124"/>
+        <location filename="../src/accountregdlg.cpp" line="196"/>
+        <location filename="../src/accountregdlg.cpp" line="283"/>
+        <location filename="../src/accountregdlg.cpp" line="301"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -965,6 +979,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/accountremove.ui" line="14"/>
+        <location filename="../src/accountremove.ui" line="20"/>
         <source>Remove Account</source>
         <translation>Удалить аккаунт</translation>
     </message>
@@ -993,6 +1008,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="167"/>
+        <location filename="../src/accountmanagedlg.cpp" line="225"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -1003,6 +1019,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
@@ -1013,11 +1030,13 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="218"/>
+        <location filename="../src/accountmanagedlg.cpp" line="233"/>
         <source>Success</source>
         <translation>Удаление завершено</translation>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="218"/>
+        <location filename="../src/accountmanagedlg.cpp" line="233"/>
         <source>The account was unregistered successfully.</source>
         <translation>Аккаунт был успешно удалён.</translation>
     </message>
@@ -1030,11 +1049,13 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
         <location filename="../src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../src/accountmanagedlg.cpp" line="173"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -1043,6 +1064,7 @@ Reason: %1</source>
     <name>ActiveProfiles</name>
     <message>
         <location filename="../src/activeprofiles_dbus.cpp" line="230"/>
+        <location filename="../src/activeprofiles_win.cpp" line="310"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
     </message>
@@ -1183,6 +1205,7 @@ To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are
     <name>AddUserDlg</name>
     <message>
         <location filename="../src/adduserdlg.cpp" line="112"/>
+        <location filename="../src/adduserdlg.cpp" line="176"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Нет&gt;</translation>
     </message>
@@ -1202,6 +1225,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <location filename="../src/adduserdlg.cpp" line="166"/>
+        <location filename="../src/adduserdlg.cpp" line="170"/>
         <source>Add User: Error</source>
         <translation>Ошибка добавления контакта</translation>
     </message>
@@ -1475,6 +1499,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     </message>
     <message>
         <location filename="../src/avcall/calldlg.cpp" line="160"/>
+        <location filename="../src/avcall/calldlg.cpp" line="179"/>
         <source>&amp;Cancel</source>
         <translation>О&amp;тмена</translation>
     </message>
@@ -1637,6 +1662,9 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <name>ChangePasswordDlg</name>
     <message>
         <location filename="../src/changepwdlg.cpp" line="79"/>
+        <location filename="../src/changepwdlg.cpp" line="84"/>
+        <location filename="../src/changepwdlg.cpp" line="91"/>
+        <location filename="../src/changepwdlg.cpp" line="132"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -1769,6 +1797,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../src/chatdlg.cpp" line="248"/>
+        <location filename="../src/chatdlg.cpp" line="675"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -1813,6 +1842,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="258"/>
+        <location filename="../src/psi_profiles.cpp" line="380"/>
         <source>Agents/Transports</source>
         <translation>Сервисы</translation>
     </message>
@@ -1833,6 +1863,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1443"/>
+        <location filename="../src/contactview.cpp" line="1496"/>
         <source>Authorize</source>
         <translation>Подписка</translation>
     </message>
@@ -1858,11 +1889,14 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1754"/>
+        <location filename="../src/contactview.cpp" line="1771"/>
+        <location filename="../src/contactview.cpp" line="1786"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="254"/>
+        <location filename="../src/psi_profiles.cpp" line="379"/>
         <source>General</source>
         <translation>Общие</translation>
     </message>
@@ -1903,6 +1937,9 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1104"/>
+        <location filename="../src/contactview.cpp" line="1116"/>
+        <location filename="../src/contactview.cpp" line="1504"/>
+        <location filename="../src/contactview.cpp" line="1729"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
@@ -1933,16 +1970,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1502"/>
+        <location filename="../src/contactview.cpp" line="1727"/>
         <source>Remove</source>
         <translation>Удаление</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1074"/>
+        <location filename="../src/contactview.cpp" line="1101"/>
         <source>Remove Group</source>
         <translation>Удаление группы</translation>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1075"/>
+        <location filename="../src/contactview.cpp" line="1113"/>
         <source>Remove Group and Contacts</source>
         <translation>Удаление группы вместе с контактами</translation>
     </message>
@@ -2019,6 +2059,9 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../src/contactview.cpp" line="1104"/>
+        <location filename="../src/contactview.cpp" line="1116"/>
+        <location filename="../src/contactview.cpp" line="1504"/>
+        <location filename="../src/contactview.cpp" line="1729"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -2182,6 +2225,13 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../src/adduserdlg.cpp" line="117"/>
+        <location filename="../src/contactview.cpp" line="1064"/>
+        <location filename="../src/contactview.cpp" line="1323"/>
+        <location filename="../src/contactview.cpp" line="1338"/>
+        <location filename="../src/contactview.cpp" line="1339"/>
+        <location filename="../src/contactview.cpp" line="1615"/>
+        <location filename="../src/contactview.cpp" line="1656"/>
+        <location filename="../src/userlist.cpp" line="343"/>
         <source>Hidden</source>
         <translation>Скрытые</translation>
     </message>
@@ -2402,6 +2452,9 @@ Proceed?</source>
     <name>DiscoListItem</name>
     <message>
         <location filename="../src/discodlg.cpp" line="430"/>
+        <location filename="../src/discodlg.cpp" line="492"/>
+        <location filename="../src/discodlg.cpp" line="556"/>
+        <location filename="../src/discodlg.cpp" line="686"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -2465,6 +2518,7 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../src/discodlg.cpp" line="724"/>
+        <location filename="../src/discodlg.cpp" line="769"/>
         <source>Node</source>
         <translation>Узел</translation>
     </message>
@@ -2616,6 +2670,7 @@ If you wish to confirm this request, please provide transaction identifier and p
     </message>
     <message>
         <location filename="../src/eventdlg.cpp" line="938"/>
+        <location filename="../src/eventdlg.cpp" line="977"/>
         <source>&amp;Deny</source>
         <translation>От&amp;клонить</translation>
     </message>
@@ -2641,6 +2696,8 @@ If you wish to confirm this request, please provide transaction identifier and p
     </message>
     <message>
         <location filename="../src/eventdlg.cpp" line="926"/>
+        <location filename="../src/eventdlg.cpp" line="2061"/>
+        <location filename="../src/eventdlg.cpp" line="2074"/>
         <source>&amp;Next</source>
         <translation>&amp;Следующее</translation>
     </message>
@@ -2707,6 +2764,7 @@ URL: %1
     </message>
     <message>
         <location filename="../src/eventdlg.cpp" line="831"/>
+        <location filename="../src/eventdlg.cpp" line="1879"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
@@ -2756,6 +2814,9 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <location filename="../src/eventdlg.cpp" line="1458"/>
+        <location filename="../src/eventdlg.cpp" line="1464"/>
+        <location filename="../src/eventdlg.cpp" line="1599"/>
+        <location filename="../src/eventdlg.cpp" line="1654"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -2849,6 +2910,8 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>FileRequestDlg</name>
     <message>
         <location filename="../src/filetransdlg.cpp" line="608"/>
+        <location filename="../src/filetransdlg.cpp" line="661"/>
+        <location filename="../src/filetransdlg.cpp" line="779"/>
         <source>%1 byte(s)</source>
         <translation>%1 байт</translation>
     </message>
@@ -2869,6 +2932,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="775"/>
+        <location filename="../src/filetransdlg.cpp" line="823"/>
         <source>All files (*)</source>
         <translation>Все файлы (*)</translation>
     </message>
@@ -2879,6 +2943,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="803"/>
+        <location filename="../src/filetransdlg.cpp" line="848"/>
         <source>&amp;Cancel</source>
         <translation>О&amp;тмена</translation>
     </message>
@@ -2889,11 +2954,18 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="576"/>
+        <location filename="../src/filetransdlg.cpp" line="906"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="596"/>
+        <location filename="../src/filetransdlg.cpp" line="601"/>
+        <location filename="../src/filetransdlg.cpp" line="791"/>
+        <location filename="../src/filetransdlg.cpp" line="797"/>
+        <location filename="../src/filetransdlg.cpp" line="831"/>
+        <location filename="../src/filetransdlg.cpp" line="937"/>
+        <location filename="../src/filetransdlg.cpp" line="952"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -2927,6 +2999,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="552"/>
+        <location filename="../src/filetransdlg.cpp" line="635"/>
         <source>Identity: </source>
         <translation>Аккаунт: </translation>
     </message>
@@ -2937,6 +3010,8 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="582"/>
+        <location filename="../src/filetransdlg.cpp" line="674"/>
+        <location filename="../src/filetransdlg.cpp" line="907"/>
         <source>Ready</source>
         <translation> </translation>
     </message>
@@ -3102,6 +3177,7 @@ contact is offline.</source>
     </message>
     <message>
         <location filename="../src/filetransdlg.cpp" line="1067"/>
+        <location filename="../src/filetransdlg.cpp" line="1291"/>
         <source>[Done]</source>
         <translation>[Завершено]</translation>
     </message>
@@ -3329,6 +3405,7 @@ Reason: %3</source>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1835"/>
+        <location filename="../src/groupchatdlg.cpp" line="1881"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
@@ -3464,6 +3541,8 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1259"/>
+        <location filename="../src/groupchatdlg.cpp" line="1263"/>
+        <location filename="../src/groupchatdlg.cpp" line="1279"/>
         <source>%1 is now %2</source>
         <translation>%1 теперь %2</translation>
     </message>
@@ -3479,6 +3558,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1235"/>
+        <location filename="../src/groupchatdlg.cpp" line="1239"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 заходит как %1</translation>
     </message>
@@ -3576,11 +3656,13 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1345"/>
+        <location filename="../src/groupchatdlg.cpp" line="1353"/>
         <source>Removed</source>
         <translation>Удалён</translation>
     </message>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="1304"/>
+        <location filename="../src/groupchatdlg.cpp" line="1310"/>
         <source>Room Destroyed</source>
         <translation>Комната уничтожена</translation>
     </message>
@@ -3664,6 +3746,7 @@ Reason: %1</source>
     <name>GCMainDlg::Private</name>
     <message>
         <location filename="../src/groupchatdlg.cpp" line="318"/>
+        <location filename="../src/groupchatdlg.cpp" line="374"/>
         <source>new nick</source>
         <translation>Новый ник</translation>
     </message>
@@ -3697,11 +3780,13 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="361"/>
+        <location filename="../src/gcuserview.cpp" line="370"/>
         <source>No reason</source>
         <translation>Без причины</translation>
     </message>
     <message>
         <location filename="../src/gcuserview.cpp" line="362"/>
+        <location filename="../src/gcuserview.cpp" line="371"/>
         <source>Custom reason</source>
         <translation>Указание причины</translation>
     </message>
@@ -3755,11 +3840,13 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="660"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1009"/>
         <source>White</source>
         <translation>Белые</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="662"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="1012"/>
         <source>Black</source>
         <translation>Чёрные</translation>
     </message>
@@ -3770,11 +3857,13 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="673"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="749"/>
         <source>Game chat</source>
         <translation>Игровой чат</translation>
     </message>
     <message>
         <location filename="../src/plugins/generic/chess/gameboard.cpp" line="681"/>
+        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="756"/>
         <source>History</source>
         <translation>История</translation>
     </message>
@@ -3937,6 +4026,7 @@ You lost the game.</source>
     <name>GeneralGroupchat</name>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="105"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="250"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
@@ -3962,6 +4052,7 @@ You lost the game.</source>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="99"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="102"/>
         <source>Adds the new word to the list</source>
         <translation>Добавить слово в список</translation>
     </message>
@@ -3992,16 +4083,19 @@ You lost the game.</source>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="118"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="263"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="257"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="260"/>
         <source>Removes the selected color from the list</source>
         <translation>Удалить выбранный цвет из списка</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="112"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="115"/>
         <source>Removes the selected word from the highlight list</source>
         <translation>Удалить выбранное слово из списка</translation>
     </message>
@@ -4017,11 +4111,13 @@ You lost the game.</source>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="193"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="196"/>
         <source>Type a colourcode here, or press the pallette to the right</source>
         <translation>Введите обозначение цвета или нажмите на кнопку палитры справа</translation>
     </message>
     <message>
         <location filename="../src/options/opt_general_groupchat.ui" line="65"/>
+        <location filename="../src/options/opt_general_groupchat.ui" line="68"/>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
         <translation>Введите слово и нажмите &quot;Добавить слово&quot; для того, что бы оно было добавлено в список</translation>
     </message>
@@ -4089,6 +4185,7 @@ You lost the game.</source>
     </message>
     <message>
         <location filename="../src/groupchatdlg.ui" line="98"/>
+        <location filename="../src/groupchatdlg.ui" line="117"/>
         <source>Select icon</source>
         <translation>Выбрать смайл</translation>
     </message>
@@ -4127,6 +4224,7 @@ You lost the game.</source>
     </message>
     <message>
         <location filename="../src/historydlg.cpp" line="416"/>
+        <location filename="../src/historydlg.cpp" line="464"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -4147,6 +4245,8 @@ You lost the game.</source>
     </message>
     <message>
         <location filename="../src/historydlg.cpp" line="193"/>
+        <location filename="../src/historydlg.cpp" line="402"/>
+        <location filename="../src/historydlg.cpp" line="450"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
@@ -4375,6 +4475,9 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="../src/options/ui_isdetails.ui" line="130"/>
+        <location filename="../src/options/ui_isdetails.ui" line="149"/>
+        <location filename="../src/options/ui_isdetails.ui" line="168"/>
+        <location filename="../src/options/ui_isdetails.ui" line="200"/>
         <source>XXX</source>
         <translation></translation>
     </message>
@@ -4464,6 +4567,8 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="48"/>
+        <location filename="../src/options/opt_iconset_roster.ui" line="180"/>
+        <location filename="../src/options/opt_iconset_roster.ui" line="257"/>
         <source>&amp;Show details</source>
         <translation>&amp;Показать описание</translation>
     </message>
@@ -4474,6 +4579,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="../src/options/opt_iconset_roster.ui" line="128"/>
+        <location filename="../src/options/opt_iconset_roster.ui" line="303"/>
         <source>Iconset</source>
         <translation>Набор иконок</translation>
     </message>
@@ -4723,6 +4829,8 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="242"/>
+        <location filename="../src/infodlg.cpp" line="244"/>
+        <location filename="../src/infodlg.cpp" line="247"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -4769,16 +4877,19 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="113"/>
+        <location filename="../src/infodlg.cpp" line="270"/>
         <source>First Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="114"/>
+        <location filename="../src/infodlg.cpp" line="271"/>
         <source>Middle Name:</source>
         <translation>Отчество:</translation>
     </message>
     <message>
         <location filename="../src/infodlg.cpp" line="115"/>
+        <location filename="../src/infodlg.cpp" line="272"/>
         <source>Last Name:</source>
         <translation>Фамилия:</translation>
     </message>
@@ -4807,6 +4918,9 @@ Are you sure you want to discard them?</source>
     <name>LookFeelToolbars</name>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="214"/>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="242"/>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="260"/>
+        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="304"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -4991,6 +5105,8 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <location filename="../src/mucconfigdlg.cpp" line="163"/>
+        <location filename="../src/mucconfigdlg.cpp" line="286"/>
+        <location filename="../src/mucconfigdlg.cpp" line="310"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -5097,6 +5213,9 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <location filename="../src/mucjoindlg.cpp" line="149"/>
+        <location filename="../src/mucjoindlg.cpp" line="155"/>
+        <location filename="../src/mucjoindlg.cpp" line="171"/>
+        <location filename="../src/mucjoindlg.cpp" line="208"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -5258,6 +5377,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/mainwin.cpp" line="310"/>
+        <location filename="../src/mainwin.cpp" line="348"/>
         <source>General</source>
         <translation>Общее</translation>
     </message>
@@ -5405,6 +5525,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <location filename="../src/miniclient.cpp" line="232"/>
+        <location filename="../src/miniclient.cpp" line="247"/>
         <source>Server Error</source>
         <translation>Ошибка сервера</translation>
     </message>
@@ -5453,6 +5574,7 @@ Details: %1</source>
     <name>MoodDlg</name>
     <message>
         <location filename="../src/mooddlg.cpp" line="38"/>
+        <location filename="../src/mooddlg.cpp" line="48"/>
         <source>&lt;unset&gt;</source>
         <translation>&lt;убрать&gt;</translation>
     </message>
@@ -5672,6 +5794,9 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../src/options/opt_appearance.ui" line="508"/>
+        <location filename="../src/options/opt_appearance.ui" line="518"/>
+        <location filename="../src/options/opt_appearance.ui" line="528"/>
+        <location filename="../src/options/opt_appearance.ui" line="535"/>
         <source>Choose...</source>
         <translation>Выбрать...</translation>
     </message>
@@ -5720,6 +5845,7 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../src/options/opt_appearance_misc.ui" line="88"/>
+        <location filename="../src/options/opt_appearance_misc.ui" line="124"/>
         <source>100</source>
         <translation></translation>
     </message>
@@ -6146,6 +6272,15 @@ Details: %1</source>
     <name>OptSound</name>
     <message>
         <location filename="../src/options/opt_sound.ui" line="90"/>
+        <location filename="../src/options/opt_sound.ui" line="104"/>
+        <location filename="../src/options/opt_sound.ui" line="118"/>
+        <location filename="../src/options/opt_sound.ui" line="139"/>
+        <location filename="../src/options/opt_sound.ui" line="181"/>
+        <location filename="../src/options/opt_sound.ui" line="209"/>
+        <location filename="../src/options/opt_sound.ui" line="279"/>
+        <location filename="../src/options/opt_sound.ui" line="300"/>
+        <location filename="../src/options/opt_sound.ui" line="307"/>
+        <location filename="../src/options/opt_sound.ui" line="321"/>
         <source>Enter a filename or !beep for a system beep</source>
         <translation>Введите имя файла или &apos;!beep&apos; для использования системного гудка</translation>
     </message>
@@ -6264,6 +6399,8 @@ Details: %1</source>
     </message>
     <message>
         <location filename="../src/options/opt_status.ui" line="75"/>
+        <location filename="../src/options/opt_status.ui" line="85"/>
+        <location filename="../src/options/opt_status.ui" line="102"/>
         <source>Minutes</source>
         <translation>минут(ы)</translation>
     </message>
@@ -6335,6 +6472,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../src/psioptionseditor.cpp" line="49"/>
+        <location filename="../src/psioptionseditor.cpp" line="73"/>
+        <location filename="../src/psioptionseditor.cpp" line="86"/>
         <source>Psi: Option Editor</source>
         <translation>Psi: Редактор опций</translation>
     </message>
@@ -6894,6 +7033,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../src/options/opt_plugins.cpp" line="119"/>
+        <location filename="../src/options/opt_plugins.cpp" line="149"/>
         <source>This plugin has no user configurable options</source>
         <translation>Этот модуль не имеет опций для настройки пользователем</translation>
     </message>
@@ -6907,6 +7047,8 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.cpp" line="230"/>
+        <location filename="../src/options/opt_shortcuts.cpp" line="282"/>
+        <location filename="../src/options/opt_shortcuts.cpp" line="318"/>
         <source>Key %1</source>
         <translation>Клавиша %1</translation>
     </message>
@@ -6927,6 +7069,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../src/options/opt_shortcuts.cpp" line="177"/>
+        <location filename="../src/options/opt_shortcuts.cpp" line="213"/>
         <source>Unnamed group</source>
         <translation>Группа без названия</translation>
     </message>
@@ -6988,6 +7131,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <location filename="../src/options/opt_status.cpp" line="265"/>
+        <location filename="../src/options/opt_status.cpp" line="267"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -7320,6 +7464,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <location filename="../src/privacy/privacydlg.cpp" line="148"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="160"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;нет&gt;</translation>
     </message>
@@ -7396,6 +7541,7 @@ Please enter your passphrase below:</source>
     <name>PrivacyRuleDlg</name>
     <message>
         <location filename="../src/privacy/privacyruledlg.cpp" line="34"/>
+        <location filename="../src/privacy/privacyruledlg.cpp" line="105"/>
         <source>*</source>
         <translation>*</translation>
     </message>
@@ -7501,6 +7647,7 @@ Proceed?</source>
     </message>
     <message>
         <location filename="../src/profiledlg.cpp" line="264"/>
+        <location filename="../src/profiledlg.cpp" line="276"/>
         <source>Delete Profile</source>
         <translation>Удалить профиль</translation>
     </message>
@@ -7523,6 +7670,8 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <location filename="../src/profiledlg.cpp" line="236"/>
+        <location filename="../src/profiledlg.cpp" line="241"/>
+        <location filename="../src/profiledlg.cpp" line="245"/>
         <source>Rename Profile</source>
         <translation>Переименовать профиль</translation>
     </message>
@@ -7617,6 +7766,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProfileNewDlg</name>
     <message>
         <location filename="../src/profiledlg.cpp" line="341"/>
+        <location filename="../src/profiledlg.cpp" line="346"/>
         <source>New Profile</source>
         <translation>Новый профиль</translation>
     </message>
@@ -7680,6 +7830,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../src/profileopen.ui" line="16"/>
+        <location filename="../src/profileopen.ui" line="64"/>
         <source>Open Profile</source>
         <translation>Выбор профиля</translation>
     </message>
@@ -7797,6 +7948,9 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyDlg</name>
     <message>
         <location filename="../src/proxy.cpp" line="317"/>
+        <location filename="../src/proxy.cpp" line="322"/>
+        <location filename="../src/proxy.cpp" line="326"/>
+        <location filename="../src/proxy.cpp" line="329"/>
         <source>Consult your network administrator if necessary.</source>
         <translation>При необходимости обратитесь к вашему системному администратору.</translation>
     </message>
@@ -7910,6 +8064,8 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="973"/>
+        <location filename="../src/psiaccount.cpp" line="2304"/>
+        <location filename="../src/psiaccount.cpp" line="2579"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -8045,6 +8201,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../src/psiaccount.cpp" line="1491"/>
+        <location filename="../src/psiaccount.cpp" line="1684"/>
         <source>Server Error</source>
         <translation>Ошибка сервера</translation>
     </message>
@@ -8259,6 +8416,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="335"/>
+        <location filename="../src/psiactionlist.cpp" line="336"/>
         <source>Home Page (Online)</source>
         <translation>Домашняя страница</translation>
     </message>
@@ -8349,6 +8507,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="341"/>
+        <location filename="../src/psiactionlist.cpp" line="342"/>
         <source>Join Psi Discussion Room (Online)</source>
         <translation>Конференция обсуждения Psi</translation>
     </message>
@@ -8444,6 +8603,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="344"/>
+        <location filename="../src/psiactionlist.cpp" line="345"/>
         <source>Report a Bug (Online)</source>
         <translation>Сообщить об ошибке</translation>
     </message>
@@ -8459,6 +8619,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="230"/>
+        <location filename="../src/psiactionlist.cpp" line="327"/>
         <source>See many useful tips</source>
         <translation>Просмотр многих полезных советов</translation>
     </message>
@@ -8524,11 +8685,13 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="229"/>
+        <location filename="../src/psiactionlist.cpp" line="326"/>
         <source>Tip of the Day</source>
         <translation>Совет дня</translation>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="229"/>
+        <location filename="../src/psiactionlist.cpp" line="326"/>
         <source>&amp;Tip of the Day</source>
         <translation>&amp;Совет дня</translation>
     </message>
@@ -8584,6 +8747,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="329"/>
+        <location filename="../src/psiactionlist.cpp" line="330"/>
         <source>User Guide (Online)</source>
         <translation>Руководство пользователя</translation>
     </message>
@@ -8599,6 +8763,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="332"/>
+        <location filename="../src/psiactionlist.cpp" line="333"/>
         <source>Wiki (Online)</source>
         <translation>Wiki</translation>
     </message>
@@ -8619,6 +8784,7 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psiactionlist.cpp" line="338"/>
+        <location filename="../src/psiactionlist.cpp" line="339"/>
         <source>Psi Forum (Online)</source>
         <translation>Форум Psi</translation>
     </message>
@@ -8870,6 +9036,8 @@ Reason: %1.</source>
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="428"/>
+        <location filename="../src/psicon.cpp" line="704"/>
+        <location filename="../src/psicon.cpp" line="1026"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -8932,6 +9100,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <location filename="../src/psicon.cpp" line="1120"/>
+        <location filename="../src/psicon.cpp" line="1455"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -8955,6 +9124,8 @@ This may mean you are already running another instance of Psi. You may experienc
     <name>PsiGroupChatBrowseWindow</name>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="348"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="366"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="380"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9012,6 +9183,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/main.cpp" line="147"/>
+        <location filename="../src/main.cpp" line="237"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9424,6 +9596,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/common.cpp" line="160"/>
+        <location filename="../src/rc.cpp" line="77"/>
         <source>Away</source>
         <translation>Отсутствую</translation>
     </message>
@@ -9479,16 +9652,20 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="65"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="74"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="134"/>
         <source>Contact becomes Available</source>
         <translation>Контакт стал доступен</translation>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="66"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="140"/>
         <source>Contact becomes Unavailable</source>
         <translation>Контакт стал недоступен</translation>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="67"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="146"/>
         <source>Contact changes Status</source>
         <translation>Контакт изменил статус</translation>
     </message>
@@ -9574,6 +9751,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/privacy/privacydlg.cpp" line="265"/>
+        <location filename="../src/privacy/privacydlg.cpp" line="278"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -9629,6 +9807,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="475"/>
+        <location filename="../src/userlist.cpp" line="566"/>
         <source>Geolocation</source>
         <translation>Местонахождение</translation>
     </message>
@@ -9739,16 +9918,23 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="70"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="77"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="176"/>
         <source>Incoming File</source>
         <translation>Входящий файл</translation>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="69"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="76"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="167"/>
         <source>Incoming Headline</source>
         <translation>Входящее уведомление</translation>
     </message>
     <message>
         <location filename="../src/psigrowlnotifier.cpp" line="68"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="75"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="152"/>
+        <location filename="../src/psigrowlnotifier.cpp" line="160"/>
         <source>Incoming Message</source>
         <translation>Входящее сообщение</translation>
     </message>
@@ -9789,6 +9975,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/common.cpp" line="164"/>
+        <location filename="../src/rc.cpp" line="92"/>
         <source>Invisible</source>
         <translation>Невидимый</translation>
     </message>
@@ -9834,11 +10021,14 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="467"/>
+        <location filename="../src/userlist.cpp" line="553"/>
+        <location filename="../src/userlist.cpp" line="558"/>
         <source>Listening to</source>
         <translation>Слушает</translation>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="471"/>
+        <location filename="../src/userlist.cpp" line="562"/>
         <source>Location</source>
         <translation>Адрес</translation>
     </message>
@@ -9914,11 +10104,13 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/common.cpp" line="159"/>
+        <location filename="../src/rc.cpp" line="97"/>
         <source>Offline</source>
         <translation>Отключён</translation>
     </message>
     <message>
         <location filename="../src/common.cpp" line="167"/>
+        <location filename="../src/rc.cpp" line="73"/>
         <source>Online</source>
         <translation>Доступен</translation>
     </message>
@@ -10049,6 +10241,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/userlist.cpp" line="516"/>
+        <location filename="../src/userlist.cpp" line="520"/>
         <source>Signed</source>
         <translation>Подписанное</translation>
     </message>
@@ -10252,6 +10445,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../src/registrationdlg.cpp" line="374"/>
+        <location filename="../src/registrationdlg.cpp" line="378"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -10431,6 +10625,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/searchdlg.cpp" line="489"/>
+        <location filename="../src/searchdlg.cpp" line="494"/>
         <source>Add User: Success</source>
         <translation>Контакт добавлен</translation>
     </message>
@@ -10450,6 +10645,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/searchdlg.cpp" line="434"/>
+        <location filename="../src/searchdlg.cpp" line="438"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -10626,6 +10822,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/option_translations.cpp" line="15"/>
+        <location filename="../src/option_translations.cpp" line="25"/>
         <source>Receive incoming event</source>
         <translation>Показать сообщение</translation>
     </message>
@@ -10752,6 +10949,7 @@ Reason: %1</source>
     <name>ShowTextDlg</name>
     <message>
         <location filename="../src/showtextdlg.cpp" line="58"/>
+        <location filename="../src/showtextdlg.cpp" line="85"/>
         <source>&amp;OK</source>
         <translation>&amp;ОК</translation>
     </message>
@@ -10760,6 +10958,7 @@ Reason: %1</source>
     <name>SpacerAction</name>
     <message>
         <location filename="../src/mainwin_p.cpp" line="494"/>
+        <location filename="../src/mainwin_p.cpp" line="495"/>
         <source>&lt;Spacer&gt;</source>
         <translation>&lt;Разделитель&gt;</translation>
     </message>
@@ -11011,6 +11210,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../src/statusdlg.cpp" line="226"/>
+        <location filename="../src/statusdlg.cpp" line="230"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -11148,6 +11348,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="223"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="322"/>
         <source>&amp;Connect</source>
         <translation>&amp;Подключиться</translation>
     </message>
@@ -11171,6 +11372,15 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="336"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="346"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="350"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="358"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="383"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="393"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="398"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="478"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="492"/>
+        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="500"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -11212,7 +11422,7 @@ Copyright (C) 2003 Justin Karneges</source>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="423"/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Отключиться</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="478"/>
@@ -11300,6 +11510,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="131"/>
+        <location filename="../iris/tools/xmpptest/test.ui" line="163"/>
         <source>Host:Port:</source>
         <translation>Узел:Порт:</translation>
     </message>
@@ -11325,6 +11536,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/test.ui" line="183"/>
+        <location filename="../iris/tools/xmpptest/test.ui" line="245"/>
         <source>/</source>
         <translation></translation>
     </message>
@@ -11777,6 +11989,7 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="75"/>
+        <location filename="../src/whiteboarding/wbdlg.cpp" line="76"/>
         <source>End session</source>
         <translation>Закрыть соединение</translation>
     </message>
@@ -11802,6 +12015,7 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="232"/>
+        <location filename="../src/whiteboarding/wbdlg.cpp" line="262"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
@@ -11887,6 +12101,7 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="232"/>
+        <location filename="../src/whiteboarding/wbdlg.cpp" line="262"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
@@ -11902,6 +12117,7 @@ The contents of the whiteboard will be lost.</source>
     </message>
     <message>
         <location filename="../src/whiteboarding/wbdlg.cpp" line="232"/>
+        <location filename="../src/whiteboarding/wbdlg.cpp" line="262"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -12044,6 +12260,7 @@ The contents of the whiteboard will be lost.</source>
     <name>XmlConsole</name>
     <message>
         <location filename="../src/xmlconsole.cpp" line="87"/>
+        <location filename="../src/xmlconsole.cpp" line="89"/>
         <source>XML Console</source>
         <translation>Консоль XML</translation>
     </message>
