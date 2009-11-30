@@ -11374,7 +11374,15 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 v1.0
+
+Утилита для демонстрации XMPP-библиотеки Iris.
+
+В настоящее время поддерживает:
+  draft-ietf-xmpp-core-21
+  JEP-0025
+
+Copyright © 2003 Justin Karneges</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="336"/>
@@ -11393,37 +11401,37 @@ Copyright (C) 2003 Justin Karneges</source>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="336"/>
         <source>Please enter the Full JID to connect with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, введите Полный JID для подключения.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="346"/>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы должны указать хост:порт для прокси.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="350"/>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы должны указать URL для поллинга.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="358"/>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите прокси-сервер в виде &apos;хост:порт&apos;.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="383"/>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите сервер в виде &apos;хост:порт&apos;.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="393"/>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка: SSF Min больше SSF Max.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="398"/>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка: TLS недоступен. Отключите все параметры TLS.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="423"/>
@@ -11434,17 +11442,18 @@ Copyright (C) 2003 Justin Karneges</source>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="478"/>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильный XML (%1,%2): %3
+Укажите правильный и повторите попытку.</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="492"/>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправильная станза &apos;%1&apos;.  Должно быть &apos;message&apos;, &apos;presence&apos;, или &apos;iq&apos;</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="500"/>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы должны ввести хотя бы одну станзу!</translation>
     </message>
     <message>
         <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="655"/>
