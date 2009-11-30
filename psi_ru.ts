@@ -9004,7 +9004,7 @@ Reason: %1.</source>
     <message>
         <location filename="../src/psicli.h" line="61"/>
         <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation>Psi —  мультиплатформенный джаббер-клиент для опытного пользователя.</translation>
+        <translation>Psi — мультиплатформенный джаббер-клиент для опытного пользователя.</translation>
     </message>
     <message>
         <location filename="../src/psicli.h" line="63"/>
@@ -9124,28 +9124,28 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiGroupChatBrowseWindow</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="348"/>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="366"/>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="380"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="389"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="407"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="421"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="348"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="389"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation>Невозможно войти в конференцию.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="366"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="407"/>
         <source>Unable to create groupchat.
 Reason: %1</source>
         <translation>Невозможно создать конференцию.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="380"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="421"/>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
         <translation>Невозможно уничтожить конференцию.
@@ -9155,19 +9155,23 @@ Reason: %1</source>
 <context>
     <name>PsiGroupChatBrowseWindow::Private</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="177"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="240"/>
+        <source>Choose a name for the groupchat you want to create:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="184"/>
         <source>Destroy</source>
         <translation>Уничтожить</translation>
     </message>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="203"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="239"/>
         <source>Create Groupchat</source>
         <translation>Создать конференцию</translation>
     </message>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="204"/>
         <source>Choose a name for the groupchat you want to create</source>
-        <translation>Выберите имя создаваемой конференции</translation>
+        <translation type="obsolete">Выберите имя создаваемой конференции</translation>
     </message>
 </context>
 <context>
@@ -10511,7 +10515,12 @@ Reason: %1</source>
 <context>
     <name>RoomModel</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="55"/>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="54"/>
+        <source>Auto-join</source>
+        <translation type="unfinished">Авто-вход</translation>
+    </message>
+    <message>
+        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="52"/>
         <source>Groupchat name</source>
         <translation>Имя конференции</translation>
     </message>
