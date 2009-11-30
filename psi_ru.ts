@@ -9157,7 +9157,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="240"/>
         <source>Choose a name for the groupchat you want to create:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите имя создаваемой конференции:</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="184"/>
@@ -9168,10 +9168,6 @@ Reason: %1</source>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="239"/>
         <source>Create Groupchat</source>
         <translation>Создать конференцию</translation>
-    </message>
-    <message>
-        <source>Choose a name for the groupchat you want to create</source>
-        <translation type="obsolete">Выберите имя создаваемой конференции</translation>
     </message>
 </context>
 <context>
@@ -10517,7 +10513,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="54"/>
         <source>Auto-join</source>
-        <translation type="unfinished">Авто-вход</translation>
+        <translation>Авто-вход</translation>
     </message>
     <message>
         <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="52"/>
