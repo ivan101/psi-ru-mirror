@@ -54,15 +54,6 @@
 </context>
 <context>
     <name>AboutDlg</name>
-    <message utf8="true">
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2009 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="obsolete">Стильный, мультиплатформенный джаббер-клиент для опытного пользователя.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2009 The Psi Team.&lt;br&gt;</translation>
-    </message>
     <message>
         <location filename="../src/about.ui" line="+67"/>
         <source>About</source>
@@ -137,7 +128,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 26.02.2010</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 14.03.2010</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -418,10 +409,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>Аутентификация открытым текстом:</translation>
     </message>
     <message>
-        <source>STUN Host:</source>
-        <translation type="obsolete">STUN сервер:</translation>
-    </message>
-    <message>
         <location line="+288"/>
         <source>Authenticate as:</source>
         <translation>Авторизоваться как:</translation>
@@ -614,10 +601,6 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <location line="-475"/>
         <source>Use None</source>
         <translation>Не использовать</translation>
-    </message>
-    <message>
-        <source>User:</source>
-        <translation type="obsolete">Пользователь:</translation>
     </message>
     <message>
         <location line="+163"/>
@@ -1320,18 +1303,6 @@ Make sure you enter a fully qualified Jabber ID.</source>
 </context>
 <context>
     <name>AuthEvent</name>
-    <message>
-        <source>This user wants to subscribe to your presence.</source>
-        <translation type="obsolete">Этот пользователь хочет иметь возможность знать, когда вы находитесь в сети.</translation>
-    </message>
-    <message>
-        <source>You are now authorized.</source>
-        <translation type="obsolete">Вы получили подписку.</translation>
-    </message>
-    <message>
-        <source>Your authorization has been removed!</source>
-        <translation type="obsolete">Ваша подписка была удалена!</translation>
-    </message>
     <message>
         <location filename="../src/psievent.cpp" line="+432"/>
         <source>%1 wants to subscribe to your presence.</source>
@@ -3922,10 +3893,6 @@ Reason: %1</source>
         <translation>Новая комната создана</translation>
     </message>
     <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Нет</translation>
-    </message>
-    <message>
         <location line="+60"/>
         <source>online</source>
         <translation>доступен</translation>
@@ -3976,10 +3943,6 @@ Reason: %1</source>
         <location line="-148"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Да</translation>
     </message>
     <message>
         <location line="+322"/>
@@ -4052,10 +4015,6 @@ Reason: %1</source>
         <location filename="../src/gcuserview.cpp" line="+384"/>
         <source>&amp;Ban</source>
         <translation>&amp;Бан (ban)</translation>
-    </message>
-    <message>
-        <source>Check &amp;Status</source>
-        <translation type="obsolete">Проверить &amp;состояние</translation>
     </message>
     <message>
         <location line="-29"/>
@@ -6719,10 +6678,6 @@ Details: %1</source>
         <translation>Автоматически отключаться через:</translation>
     </message>
     <message>
-        <source>Auto status message:</source>
-        <translation type="obsolete">Сообщение для автоматического статуса:</translation>
-    </message>
-    <message>
         <location line="+7"/>
         <source>Auto XA after:</source>
         <translation>Устанавливать статус &quot;Недоступен&quot; через:</translation>
@@ -8492,10 +8447,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Неправильный XML</translation>
     </message>
     <message>
-        <source>Need Password</source>
-        <translation type="obsolete">Введите пароль</translation>
-    </message>
-    <message>
         <location line="+74"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>Не доступен подходящий механизм для текущих настроек безопасности (проблема в библиотеке SASL или не включена аутентификация открытым текстом)</translation>
@@ -8514,14 +8465,6 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <location line="-13"/>
         <source>Not authorized</source>
         <translation>Не авторизован</translation>
-    </message>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="obsolete">Введите пароль для %1:</translation>
-    </message>
-    <message>
-        <source>Please enter your password:</source>
-        <translation type="obsolete">Введите ваш пароль:</translation>
     </message>
     <message>
         <location line="-90"/>
@@ -9139,7 +9082,7 @@ Reason: %1.</source>
     <message>
         <location line="-101"/>
         <source>&amp;XML Console</source>
-        <translation>Консоль &amp;XML</translation>
+        <translation>&amp;Консоль XML</translation>
     </message>
     <message>
         <location line="+147"/>
@@ -9228,10 +9171,6 @@ Reason: %1.</source>
         <translation>Описание:</translation>
     </message>
     <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Нет</translation>
-    </message>
-    <message>
         <location line="-47"/>
         <location line="+13"/>
         <source>Subject:</source>
@@ -9251,10 +9190,6 @@ Reason: %1.</source>
         <location line="+164"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Да</translation>
     </message>
     <message>
         <location line="+170"/>
@@ -11154,10 +11089,6 @@ Reason: %1</source>
 </context>
 <context>
     <name>RemoveConfirmationMessageBox</name>
-    <message>
-        <source>Ya.Online</source>
-        <translation type="obsolete">Я.Онлайн</translation>
-    </message>
     <message>
         <location filename="../src/removeconfirmationmessagebox.cpp" line="+71"/>
         <source>OK</source>
