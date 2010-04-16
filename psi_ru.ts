@@ -128,7 +128,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 14.03.2010</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 16.04.2010</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -340,24 +340,29 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountManageDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="+276"/>
+        <location filename="../src/accountmanagedlg.cpp" line="+286"/>
         <source>Active</source>
         <translation>Активен</translation>
     </message>
     <message>
-        <location line="+77"/>
+        <location line="+82"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-77"/>
+        <location line="-82"/>
         <source>Not active</source>
         <translation>Не активен</translation>
     </message>
     <message>
-        <location line="+77"/>
-        <source>Unable to remove the account, as it is currently active.</source>
-        <translation>Невозможно удалить аккаунт, так как в данный момент он активен.</translation>
+        <location line="+82"/>
+        <source>Please disconnect before removing the account.</source>
+        <translation>Пожалуйста, отключитесь перед удалением аккаунта.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&amp;Disconnect</source>
+        <translation>&amp;Отключиться</translation>
     </message>
 </context>
 <context>
@@ -1018,39 +1023,39 @@ Reason: %1</source>
 <context>
     <name>AccountRemoveDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="-212"/>
+        <location filename="../src/accountmanagedlg.cpp" line="-227"/>
         <source>Are you sure you want to cancel the unregistration?</source>
         <translation>Прервать удаление аккаунта?</translation>
     </message>
     <message>
-        <location line="+32"/>
+        <location line="+36"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
         <translation>Удалить аккаунт &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <location line="-6"/>
-        <location line="+58"/>
+        <location line="+62"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location line="-120"/>
+        <location line="-128"/>
+        <location line="+74"/>
         <source>&amp;Remove</source>
         <translation>&amp;Удалить</translation>
     </message>
     <message>
-        <location line="+36"/>
-        <location line="+32"/>
+        <location line="-37"/>
         <source>&amp;No</source>
         <translation>&amp;Нет</translation>
     </message>
     <message>
-        <location line="-6"/>
+        <location line="+29"/>
         <source>Password does not match account.  Please try again.</source>
         <translation>Введённый пароль не совпадает с паролем аккаунта. Попробуйте ещё раз.</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+55"/>
         <location line="+15"/>
         <source>Success</source>
         <translation>Удаление завершено</translation>
@@ -1069,14 +1074,13 @@ Reason: %1</source>
 Причина: %1</translation>
     </message>
     <message>
-        <location line="-84"/>
-        <location line="+32"/>
+        <location line="-92"/>
+        <location line="+36"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location line="-32"/>
-        <location line="+32"/>
+        <location line="-34"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
@@ -1968,6 +1972,19 @@ Do you still want to close the window?</source>
         <location line="+4"/>
         <source>&amp;Add group...</source>
         <translation>Добавить &amp;группу...</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListModel</name>
+    <message>
+        <location filename="../src/contactlistmodel.cpp" line="+581"/>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>You can&apos;t set a blank group name.</source>
+        <translation>Имя группы не может быть пустым.</translation>
     </message>
 </context>
 <context>
@@ -8292,7 +8309,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 <context>
     <name>PsiAccount</name>
     <message>
-        <location filename="../src/psiaccount.cpp" line="+5575"/>
+        <location filename="../src/psiaccount.cpp" line="+5577"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
@@ -8304,7 +8321,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-3927"/>
+        <location line="-3928"/>
         <source>A required remote connection failed</source>
         <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
@@ -8329,12 +8346,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
-        <location line="+3913"/>
+        <location line="+3914"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location line="-3985"/>
+        <location line="-3986"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
@@ -8354,12 +8371,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Отключён</translation>
     </message>
     <message>
-        <location line="+4013"/>
+        <location line="+4014"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location line="-3211"/>
+        <location line="-3212"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
@@ -8441,12 +8458,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Не доступен подходящий механизм для текущих настроек безопасности (проблема в библиотеке SASL или не включена аутентификация открытым текстом)</translation>
     </message>
     <message>
-        <location line="+3897"/>
+        <location line="+3898"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location line="-3866"/>
+        <location line="-3867"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
@@ -8466,12 +8483,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
-        <location line="+3956"/>
+        <location line="+3957"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
     <message>
-        <location line="-3893"/>
+        <location line="-3894"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Механизм SASL слишком слаб для этого аккаунта</translation>
     </message>
@@ -8551,14 +8568,14 @@ Details: %1</source>
 Подробности: %1</translation>
     </message>
     <message>
-        <location line="+3377"/>
+        <location line="+3378"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
-        <location line="-3564"/>
+        <location line="-3565"/>
         <source>Timed out from inactivity</source>
         <translation>Таймаут из-за неактивности</translation>
     </message>
@@ -9416,7 +9433,7 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Не в списке</translation>
     </message>
     <message>
-        <location line="+320"/>
+        <location line="+323"/>
         <source>Choose an image</source>
         <translation>Выберите изображение</translation>
     </message>
@@ -9429,7 +9446,7 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
-        <location filename="../src/psicontactlistviewdelegate.cpp" line="+126"/>
+        <location filename="../src/psicontactlistviewdelegate.cpp" line="+128"/>
         <source>%1 (%2)</source>
         <translation></translation>
     </message>
