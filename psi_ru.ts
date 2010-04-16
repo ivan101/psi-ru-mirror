@@ -777,7 +777,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location line="+136"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation>Этот аккаунт сейчас активен, поэтому некоторые изменения  вступят в силу после перереподключения.</translation>
+        <translation>Этот аккаунт сейчас активен, поэтому некоторые изменения  вступят в силу после переподключения.</translation>
     </message>
     <message>
         <location line="-296"/>
@@ -7154,7 +7154,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+4"/>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всеи всегда.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;При использовании этой опции история чата хранится в памяти всегда.&lt;/P&gt;</translation>
     </message>
     <message>
         <location line="-23"/>
