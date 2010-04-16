@@ -1967,7 +1967,6 @@ Do you still want to close the window?</source>
     <message>
         <location line="+4"/>
         <source>&amp;Add group...</source>
-        <translatorcomment>fixme amp</translatorcomment>
         <translation>Добавить &amp;группу...</translation>
     </message>
 </context>
@@ -1994,13 +1993,11 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/contactlistutil.cpp" line="+55"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Это действие безвозвратно удалит&lt;br&gt;%1&lt;br&gt;из Вашего списка контактов.</translation>
     </message>
     <message numerus="yes">
         <location line="+23"/>
         <source>and %n contacts </source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>
             <numerusform>и %n контакт </numerusform>
             <numerusform>и %n контакта </numerusform>
@@ -2010,7 +2007,6 @@ Do you still want to close the window?</source>
     <message numerus="yes">
         <location line="+5"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>
             <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
             <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
@@ -2020,19 +2016,16 @@ Do you still want to close the window?</source>
     <message>
         <location line="+9"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; из Вашего списка контактов.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2 из Вашего списка контактов.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Это системная группа и не может быть удалена. Удалить все контакты из списка (безвозвратно)?</translation>
     </message>
     <message>
@@ -2043,13 +2036,11 @@ Do you still want to close the window?</source>
     <message>
         <location line="+3"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Это действие безвозвратно удалит группу&lt;br&gt;%1&lt;br&gt;из Вашего списка контактов.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translatorcomment>fixme fixme</translatorcomment>
         <translation>Это действие безвозвратно удалит%1 из Вашего списка контактов. Вы можете заблокировать этот контакт для предотвращения получения дальнейших сообщений.</translation>
     </message>
     <message>
@@ -2066,7 +2057,6 @@ Do you still want to close the window?</source>
     <message>
         <location line="+5"/>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Это действие удалит контакт %1 из группы &quot;%2&quot;. Вы также можете удалить этот контакт из всех групп.</translation>
     </message>
     <message>
@@ -7509,7 +7499,6 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="+40"/>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>Укажите приоитет для автоматического статуса. Если Вы оставите поле пустым, будет использован приоритет аккаунта по умолчанию.</translation>
     </message>
     <message>
@@ -9476,7 +9465,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location line="+3"/>
         <source>&amp;Photos</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>&amp;Фотографии</translation>
     </message>
     <message>
@@ -9492,7 +9480,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location line="+3"/>
         <source>A&amp;uth</source>
-        <translatorcomment>fixme</translatorcomment>
         <translation>По&amp;дписка</translation>
     </message>
     <message>
