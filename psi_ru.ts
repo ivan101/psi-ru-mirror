@@ -128,7 +128,7 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 16.04.2010</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;http://code.google.com/p/psi-ru/downloads/list&quot;&gt;http://psi-ru.googlecode.com&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 25.04.2010</translation>
     </message>
     <message>
         <location line="-49"/>
@@ -1841,14 +1841,6 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="+767"/>
-        <source>Offered mechanisms: </source>
-        <translation>Предлагаемые механизмы: </translation>
-    </message>
-</context>
-<context>
     <name>ContactListAccountMenu::Private</name>
     <message>
         <location filename="../src/contactlistaccountmenu.cpp" line="+69"/>
@@ -3105,59 +3097,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../src/widgets/fancypopup.cpp" line="+258"/>
         <source>Close</source>
         <translation>Закрыть</translation>
-    </message>
-</context>
-<context>
-    <name>Features::FeatureName</name>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="+192"/>
-        <source>Add to roster</source>
-        <translation>Добавить в ростер</translation>
-    </message>
-    <message>
-        <location line="-11"/>
-        <source>ERROR: Incorrect usage of Features class</source>
-        <translation>Ошибка: неправильное использование класса Features</translation>
-    </message>
-    <message>
-        <location line="+8"/>
-        <source>Execute command</source>
-        <translation>Выполнить команду</translation>
-    </message>
-    <message>
-        <location line="-3"/>
-        <source>Gateway</source>
-        <translation>Шлюз</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>Groupchat</source>
-        <translation>Конференции</translation>
-    </message>
-    <message>
-        <location line="-3"/>
-        <source>None</source>
-        <translation>Нет</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Register</source>
-        <translation>Зарегистрироваться</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Search</source>
-        <translation>Найти</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Service Discovery</source>
-        <translation>Обзор сервисов</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>VCard</source>
-        <translation>vCard</translation>
     </message>
 </context>
 <context>
@@ -5196,14 +5135,6 @@ Are you sure you want to discard them?</source>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="+1068"/>
-        <source>No VCard available</source>
-        <translation>vCard недоступен</translation>
-    </message>
-</context>
-<context>
     <name>LookFeelToolbars</name>
     <message>
         <location filename="../src/options/opt_lookfeel_toolbars.ui" line="+214"/>
@@ -5660,7 +5591,8 @@ Reason: %1</source>
         <translation>Соединение</translation>
     </message>
     <message>
-        <location line="-609"/>
+        <location line="-827"/>
+        <location line="+218"/>
         <source>Diagnostics</source>
         <translation>Диагностика</translation>
     </message>
@@ -5762,14 +5694,6 @@ Proceed?</source>
         <location line="-602"/>
         <source>View</source>
         <translation>Вид</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <location line="-189"/>
-        <source>Diagnostics</source>
-        <translation>Диагностика</translation>
     </message>
 </context>
 <context>
@@ -11587,229 +11511,6 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>Stanza::Error::Private</name>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="+265"/>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation>Сервер или сервис, указанные как часть JID, временно недоступны.</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation>Сервер или сервис, указанные как часть JID, не найдены.</translation>
-    </message>
-    <message>
-        <location line="-14"/>
-        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation>Доступ не может быть разрешён, пока есть открытый ресурс или сеанс с таким же именем или адресом.</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>Bad request</source>
-        <translation>Неверный запрос</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Conflict</source>
-        <translation>Конфликт</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Feature not implemented</source>
-        <translation>Не реализовано</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Forbidden</source>
-        <translation>Доступ запрещён</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Gone</source>
-        <translation>Ушёл</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Internal server error</source>
-        <translation>Внутренняя ошибка сервера</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Item not found</source>
-        <translation>Элемент не найден</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>JID malformed</source>
-        <translation>Неверный JID</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Not acceptable</source>
-        <translation>Неприемлемо</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Not allowed</source>
-        <translation>Не позволено</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Not authorized</source>
-        <translation>Не авторизован</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Payment required</source>
-        <translation>Платная услуга</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Recipient unavailable</source>
-        <translation>Получатель недоступен</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Redirect</source>
-        <translation>Перенаправление</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Registration required</source>
-        <translation>Требуется регистрация</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Remote server not found</source>
-        <translation>Сервер не найден</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Remote server timeout</source>
-        <translation>Таймаут сервера</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Resource constraint</source>
-        <translation>Недостаточно ресурсов</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Service unavailable</source>
-        <translation>Сервис недоступен</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Subscription required</source>
-        <translation>Требуется подписка</translation>
-    </message>
-    <message>
-        <location line="-13"/>
-        <source>The addressed JID or item requested cannot be found.</source>
-        <translation>Адресуемый JID или запрашиваемый элемент не найден.</translation>
-    </message>
-    <message>
-        <location line="+14"/>
-        <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation>Неопределённое условие в запросе.</translation>
-    </message>
-    <message>
-        <location line="-18"/>
-        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation>Запрашиваемая функциональность не реализована получателем или сервером и, соответственно, не может быть выполнена.</translation>
-    </message>
-    <message>
-        <location line="+10"/>
-        <source>The intended recipient is temporarily unavailable.</source>
-        <translation>Указанный получатель временно недоступен.</translation>
-    </message>
-    <message>
-        <location line="-8"/>
-        <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation>Получатель или сервер не может больше контактировать с этим адресом.</translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation>Получатель или сервер не принимают данных для этого действия.</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation>Ваш запрос будет перенаправлен.</translation>
-    </message>
-    <message>
-        <location line="-5"/>
-        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation>Данные приняты, но не могут быть обработаны получателем или сервером (например, из-за политики фильтрации слов).</translation>
-    </message>
-    <message>
-        <location line="+13"/>
-        <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation>Сервер или получатель не могут обработать запрос.</translation>
-    </message>
-    <message>
-        <location line="-18"/>
-        <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation>Запрашиваемый элемент не обладает необходимыми разрешениями для выполнения действия.</translation>
-    </message>
-    <message>
-        <location line="+16"/>
-        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation>Для выполнения запроса требуется подписаться на службу.</translation>
-    </message>
-    <message>
-        <location line="-8"/>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Данная услуга является платной.</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation>Запрос требует регистрации.</translation>
-    </message>
-    <message>
-        <location line="-14"/>
-        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation>Отправитель отправил испорченный XML, который невозможно обработать.</translation>
-    </message>
-    <message>
-        <location line="+10"/>
-        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation>Отправитель должен предоставить правильное удостоверение для обработки этого действия.</translation>
-    </message>
-    <message>
-        <location line="-3"/>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation>Адрес XMPP (например, значение параметра &apos;to&apos;) не соответствует синтаксису схемы адресации.</translation>
-    </message>
-    <message>
-        <location line="-2"/>
-        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation>Сервер не может выполнить операцию в связи с ошибками настройки или другими неизвестными внутренними ошибками.</translation>
-    </message>
-    <message>
-        <location line="+13"/>
-        <source>The server or recipient does not currently provide the requested service.</source>
-        <translation>Нет запрошенной службы на сервере или у получателя.</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation>Недостаточно ресурсов на сервере или у получателя для выполнения запроса.</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>Undefined condition</source>
-        <translation>Неопределённое условие</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Unexpected request</source>
-        <translation>Неверный запрос</translation>
-    </message>
-</context>
-<context>
     <name>StatusSetDlg</name>
     <message>
         <location filename="../src/statusdlg.cpp" line="+154"/>
@@ -11947,14 +11648,6 @@ Reason: %1</source>
         <location line="+3"/>
         <source>Use for New Mucs</source>
         <translation>Использовать для новых конференций</translation>
-    </message>
-</context>
-<context>
-    <name>Task</name>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="+165"/>
-        <source>Disconnected</source>
-        <translation>Отключён</translation>
     </message>
 </context>
 <context>
@@ -12881,6 +12574,83 @@ The contents of the whiteboard will be lost.</source>
         <location line="+128"/>
         <source>XML Input...</source>
         <translation>Ввод XML...</translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::ClientStream</name>
+    <message>
+        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="+767"/>
+        <source>Offered mechanisms: </source>
+        <translation>Предлагаемые механизмы: </translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::Features::FeatureName</name>
+    <message>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="+181"/>
+        <source>ERROR: Incorrect usage of Features class</source>
+        <translation>Ошибка: неправильное использование класса Features</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>None</source>
+        <translation>Нет</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Register</source>
+        <translation>Зарегистрироваться</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Search</source>
+        <translation>Найти</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Groupchat</source>
+        <translation>Конференции</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gateway</source>
+        <translation>Шлюз</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Service Discovery</source>
+        <translation>Обзор сервисов</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>VCard</source>
+        <translation>vCard</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Execute command</source>
+        <translation>Выполнить команду</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add to roster</source>
+        <translation>Добавить в ростер</translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::JT_VCard</name>
+    <message>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="+1068"/>
+        <source>No VCard available</source>
+        <translation>vCard недоступен</translation>
+    </message>
+</context>
+<context>
+    <name>XMPP::Task</name>
+    <message>
+        <location filename="../iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="+165"/>
+        <source>Disconnected</source>
+        <translation>Отключён</translation>
     </message>
 </context>
 <context>
