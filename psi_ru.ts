@@ -721,7 +721,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location line="-188"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима</translation>
+        <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1262,7 +1262,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location line="+0"/>
         <source>Added %1 to your roster.</source>
-        <translation>Добавлен контакт %1</translation>
+        <translation>В ваш список добавлен пользователь %1.</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -1597,7 +1597,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
     <message>
         <location line="+4"/>
         <source>The certificate is NOT valid!</source>
-        <translation>Сертификат НЕ подходит.</translation>
+        <translation>Сертификат недействителен!</translation>
     </message>
     <message>
         <location line="+0"/>
