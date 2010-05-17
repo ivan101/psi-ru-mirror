@@ -5908,7 +5908,7 @@ Details: %1</source>
     <message>
         <location line="-21"/>
         <source>Show character counter</source>
-        <translation>Показывать счетчик символов</translation>
+        <translation>Показывать счётчик символов</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -6805,7 +6805,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location line="-6"/>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Показывает счетчик длины сообщений. Включите, если хотите знать длину своего сообщения - это может быть полезно при использовании транспорта SMS.</translation>
+        <translation>Показывает счётчик длины сообщений. Включите, если хотите знать длину своего сообщения - это может быть полезно при использовании транспорта SMS.</translation>
     </message>
     <message>
         <location line="-2"/>
