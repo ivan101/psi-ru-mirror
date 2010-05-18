@@ -31,7 +31,7 @@
     <message>
         <location filename="../src/ahcformdlg.ui" line="+14"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -39,7 +39,7 @@
     <message>
         <location filename="../src/ahcommanddlg.ui" line="+14"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1798,7 +1798,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../src/chatdlg.ui" line="-288"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+90"/>
@@ -4404,8 +4404,7 @@ You lost the game.</source>
     <message>
         <location line="+9"/>
         <source>General</source>
-        <translatorcomment>fixme/оставить без перевода?</translatorcomment>
-        <translation>Общие</translation>
+         <translation>Общие</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -6184,7 +6183,7 @@ Details: %1</source>
     <message>
         <location filename="../src/options/opt_avcall.ui" line="+13"/>
         <source>Form</source>
-        <translation>Форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -11095,7 +11094,7 @@ Reason: %1</source>
     <message>
         <location line="-99"/>
         <source>form</source>
-        <translation>форма</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-10"/>
@@ -11602,7 +11601,7 @@ Reason: %1</source>
     <message>
         <location filename="../src/tabs/tabdlg.cpp" line="+490"/>
         <source> is composing</source>
-        <translation> печатает...</translation>
+        <translation> печатает</translation>
     </message>
     <message>
         <location line="-4"/>
@@ -12089,7 +12088,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location line="-35"/>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настройки.</translation>
+        <translation>Вы можете выбрать несколько наборов смайлов и установить приоритеты для них в диалоге настроек.</translation>
     </message>
     <message>
         <location line="+10"/>
