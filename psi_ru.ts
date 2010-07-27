@@ -8862,37 +8862,37 @@ Reason: %1.</source>
     <message>
         <location line="-56"/>
         <source>Show Agents/Transports</source>
-        <translation>Показывать сервисы</translation>
+        <translation>Сервисы</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Show Away/XA/DnD Contacts</source>
-        <translation>Показывать занятые контакты</translation>
+        <translation>Занятые</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Show Contacts</source>
-        <translation>Показ контактов</translation>
+        <translation>Контакты ростера</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>Show Hidden Contacts</source>
-        <translation>Показывать скрытые контакты</translation>
+        <translation>Скрытые</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>Show Offline Contacts</source>
-        <translation>Показывать отключённых</translation>
+        <translation>Отключённые</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Show Self Contact</source>
-        <translation>Показывать свой контакт</translation>
+        <translation>Свой контакт</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Show Status Messages</source>
-        <translation>Показывать статусные сообщения</translation>
+        <translation>Статусные сообщения</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -8929,7 +8929,7 @@ Reason: %1.</source>
     <message>
         <location line="-201"/>
         <source>Toggle visibility of special roster groups</source>
-        <translation>Переключить показ групп в списке контактов</translation>
+        <translation>Настройка отображения элементов ростера</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -8990,7 +8990,7 @@ Reason: %1.</source>
     <message>
         <location line="-205"/>
         <source>View Groups</source>
-        <translation>Показ групп</translation>
+        <translation>Контакты ростера</translation>
     </message>
     <message>
         <location line="+208"/>
