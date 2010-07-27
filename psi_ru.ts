@@ -3716,17 +3716,17 @@ Reason: %1</source>
     <message>
         <location line="+8"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>Вы удалены. Теперь конференция доступна только для членов: %1</translation>
+        <translation>Вы удалены. Теперь конференция доступна только для зарегистрированных пользователей: %1</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>%1 выгнан, т.к. конференция только для членов</translation>
+        <translation>%1 выгнан, т.к. конференция только для зарегистрированных пользователей</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%2 выгнан из %1 , т.к. конференция только для членов</translation>
+        <translation>%2 выгнан из %1 , т.к. конференция только для зарегистрированных пользователей</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -3903,7 +3903,7 @@ Reason: %1</source>
     <message>
         <location line="+17"/>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>Вы удалены. Теперь конференция доступна только для членов</translation>
+        <translation>Вы удалены. Теперь конференция доступна только для зарегистрированных пользователей</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -5239,7 +5239,7 @@ Are you sure you want to discard them?</source>
     <message>
         <location line="-6"/>
         <source>Members</source>
-        <translation>Члены</translation>
+        <translation>Зарегистрированные пользователи</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -5481,22 +5481,22 @@ Reason: %1</source>
     <message>
         <location line="+14"/>
         <source>You are not allowed to grant administrative privileges to this user.</source>
-        <translation>Вам не позволено давать привилегии администратора этому пользователю.</translation>
+        <translation>Вам не позволено давать ранг администратора этому пользователю.</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>You are not allowed to grant membership to this user.</source>
-        <translation>Вам не позволено давать статус члена этому пользователю.</translation>
+        <translation>Вам не позволено давать ранг зарегистрированного пользователя этому пользователю.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>You are not allowed to grant moderator privileges to this user.</source>
-        <translation>Вам не позволено давать привилегии модератора этому пользователю.</translation>
+        <translation>Вам не позволено давать ранг модератора этому пользователю.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>You are not allowed to grant ownership privileges to this user.</source>
-        <translation>Вам не позволено давать привилегии администратора этому пользователю.</translation>
+        <translation>Вам не позволено давать ранг администратора этому пользователю.</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -5516,22 +5516,22 @@ Reason: %1</source>
     <message>
         <location line="-6"/>
         <source>You are not allowed to revoke administrative privileges from this user.</source>
-        <translation>Вам не позволено забирать привилегии модератора у этого пользователя.</translation>
+        <translation>Вам не позволено забирать ранг модератора у этого пользователя.</translation>
     </message>
     <message>
         <location line="-8"/>
         <source>You are not allowed to revoke membership from this user.</source>
-        <translation>Вам не позволено забирать статус члена у этого пользователя.</translation>
+        <translation>Вам не позволено забирать ранг зарегистрированного пользователя у этого пользователя.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>You are not allowed to revoke moderator privileges from this user.</source>
-        <translation>Вам не позволено забирать привилегии модератора у этого пользователя.</translation>
+        <translation>Вам не позволено забирать ранг модератора у этого пользователя.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>You are not allowed to revoke ownership privileges from this user.</source>
-        <translation>Вам не позволено забирать привилегии владельца у этого пользователя.</translation>
+        <translation>Вам не позволено забирать ранг владельца у этого пользователя.</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -10012,7 +10012,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/mucmanager.cpp" line="-157"/>
         <source>a member</source>
-        <translation>член</translation>
+        <translation>зарегистрированный пользователь</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -10560,7 +10560,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../src/mucmanager.cpp" line="+6"/>
         <source>member</source>
-        <translation>член</translation>
+        <translation>зарегистрированный пользователь</translation>
     </message>
     <message>
         <location filename="../src/rc.cpp" line="+21"/>
